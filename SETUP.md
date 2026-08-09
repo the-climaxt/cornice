@@ -136,9 +136,40 @@ That's the app's permanent address. Nothing to pay, nothing to renew.
 
 ## Stage 5 — Confirm the nightly scraper
 
-_Comes with Phase 0. Placeholder._
+The scraper is built and has already been run on your machine — 4 resorts, 50 events, no failures. What hasn't happened is a run on GitHub's servers.
 
-Once the scraper exists, you'll verify it in the repository's **Actions** tab, where every scheduled run appears with a green check or a red X. You can also trigger it manually from there rather than waiting for the overnight run.
+**It runs automatically the moment you push**, because the workflow triggers on changes to `src/`. So Stage 3's push is also the first test.
+
+To check it:
+
+1. Go to your repository on github.com
+2. Click the **Actions** tab (top of the page)
+3. You'll see a run called **"Scrape events"**. Click it, then click the **scrape** job to watch the log.
+
+**You should see:** a green checkmark, and a log ending with something like `4 ok · 0 stale · 1 pending · 50 events total`.
+
+A **red X** is not necessarily broken — the job deliberately fails when any resort goes stale, because a silent failure is worse than a loud one. Open the log and read which resort failed and why.
+
+To run it on demand instead of waiting for 3:15am, use the **Run workflow** button on that page.
+
+### What "pending" means
+
+Steamboat shows `pending`, and that's expected, not a bug. Its website sits behind bot protection that blocks automated requests. The other four work. See `QUESTIONS.md` Q1 — there's a decision waiting for you there.
+
+---
+
+## Stage 6 — Look at the thing
+
+Once Pages is enabled and the push has gone through:
+
+1. Open `https://the-climaxt.github.io/mountain-events/`
+2. You should land on **today**, with a row of date chips across the top and event cards below.
+3. Try the filters — pass, where (on hill / village / town), and the distance slider.
+4. Tap **Use my location** to switch distance from Denver to wherever you are.
+
+**To install it as an app:** in Chrome on your phone, open the site, hit the three-dot menu, and choose **Add to Home screen**. It'll work offline afterward, showing the last data it downloaded — which is the point, given cell service on I-70.
+
+If the page loads but says it couldn't load event data, the most likely cause is that Pages is serving the wrong folder. Check Settings → Pages and confirm the folder is **/docs**, not **/(root)**.
 
 ---
 

@@ -1,0 +1,58 @@
+name: Scrape events
+
+on:
+  schedule:
+    # 09:15 UTC = 03:15 MDT / 02:15 MST. Off the hour on purpose — scheduled jobs
+    # queue heavily at :00 and GitHub delays them.
+    - cron: '15 9 * * *'
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+  push:
+    # Re-run when scraping logic changes, so a fix is verified immediately.
+    paths:
+      - 'src/**'
+      - 'resorts.json'
+      - '.github/workflows/scrape.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scrapers
+        id: scrape
+        # Keep going on failure so partial results still get committed;
+        # the job is still marked failed below.
+        continue-on-error: true
+        run: node src/scrape.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update event data ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
+      - name: Fail if any adapter went stale
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::One or more adapters failed. Data was preserved, but a resort is stale."
+          exit 1

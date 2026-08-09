@@ -10,9 +10,9 @@ Personal project. Not affiliated with any resort.
 
 ## Status
 
-**Phase 0 — planning complete, no code yet.**
+**Working.** Four of five resorts scraping cleanly — Winter Park, Copper, Arapahoe Basin, and Eldora. Steamboat is `pending` behind bot protection.
 
-See [`CLAUDE.md`](CLAUDE.md) for current state and the next action.
+See [`CLAUDE.md`](CLAUDE.md) for current state and the next action, and [`QUESTIONS.md`](QUESTIONS.md) for what needs deciding.
 
 ---
 
@@ -21,16 +21,15 @@ See [`CLAUDE.md`](CLAUDE.md) for current state and the next action.
 ```
 GitHub Actions (nightly cron)
         │
-        ├── adapters/alterra.js      ──> Winter Park, Steamboat
-        ├── adapters/powdr.js        ──> Copper, Eldora
-        ├── adapters/abasin.js       ──> Arapahoe Basin
-        └── adapters/generic-llm.js  ──> town calendars
+        ├── src/adapters/alterra.js  ──> Winter Park, Steamboat
+        ├── src/adapters/powdr.js    ──> Copper, Eldora
+        └── src/adapters/abasin.js   ──> Arapahoe Basin
         │
         ▼
-  data/{resortId}.json  +  data/feed.json   (committed to this repo)
+  docs/data/{resortId}.json  +  docs/data/feed.json   (committed to this repo)
         │
         ▼
-  GitHub Pages ── static PWA fetches feed.json AT RUNTIME
+  GitHub Pages serves docs/ ── static PWA fetches feed.json AT RUNTIME
 ```
 
 No database. No API server. No recurring cost.
@@ -75,14 +74,36 @@ Add a row to `resorts.json`. If its platform already has an adapter, that's the 
 | `SETUP.md` | One-time GitHub setup walkthrough, written for a non-developer. |
 | `PLAN.md` | Full spec: architecture, data model, source recon, phasing. |
 | `DECISIONS.md` | Append-only log of every decision and its rationale. |
+| `QUESTIONS.md` | Open questions awaiting a decision. |
 | `resorts.json` | The registry. Adding a resort is adding a row. |
-| `adapters/` | One module per source platform. |
-| `data/` | Scraper output, committed nightly. Do not hand-edit. |
-| `web/` | The static PWA served by GitHub Pages. |
+| `src/scrape.js` | Orchestrator. Runs adapters, applies the stale rules, writes the feed. |
+| `src/adapters/` | One module per source **platform**, not per resort. |
+| `src/lib/` | Shared helpers: fetch/retry, date parsing, event normalisation. |
+| `docs/` | The static PWA, served by GitHub Pages. |
+| `docs/data/` | Scraper output, committed nightly. Do not hand-edit. |
 | `.github/workflows/` | The nightly scrape. |
 
 ---
 
 ## Local development
 
-_To be written in Phase 0._
+Node 20+. No dependencies, no install step.
+
+```bash
+node src/scrape.js                 # scrape every resort
+node src/scrape.js --only copper   # just one, for debugging
+```
+
+Output lands in `docs/data/`. The command exits non-zero if any active adapter fails — that's the alarm, and it's what turns the Actions run red.
+
+To view the front end, serve `docs/` over HTTP (opening `index.html` from the filesystem will fail — service workers and `fetch` need a real origin):
+
+```bash
+npx serve docs      # or: python -m http.server 8000 --directory docs
+```
+
+### Adding a resort
+
+Add a row to `resorts.json`. If its platform already has an adapter, that's the whole change. If not, write one that exports `fetchEvents(resort) → Event[]` and register it in `src/scrape.js`.
+
+Set `"status": "pending"` on any resort without a working adapter — that keeps it out of the feed without tripping the failure alarm.

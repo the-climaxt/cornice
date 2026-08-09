@@ -1,0 +1,158 @@
+{
+  "resort": "arapahoe-basin",
+  "name": "Arapahoe Basin",
+  "updatedAt": "2026-08-09T04:55:46.584Z",
+  "status": "ok",
+  "lastGoodAt": "2026-08-09T04:55:46.584Z",
+  "lastError": null,
+  "ops": {
+    "openingDay": null,
+    "closingDay": null
+  },
+  "events": [
+    {
+      "id": "4f47357019dd8fb9",
+      "resortId": "arapahoe-basin",
+      "title": "Mountain Clean Up - Frontside",
+      "description": "",
+      "start": "2026-08-09",
+      "end": "2026-08-09",
+      "days": [
+        "2026-08-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/mountain-clean-up/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "66fa088f95127f0d",
+      "resortId": "arapahoe-basin",
+      "title": "Yoga",
+      "description": "",
+      "start": "2026-08-09",
+      "end": "2026-08-09",
+      "days": [
+        "2026-08-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/yoga/5",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "5c3b5943a59356fa",
+      "resortId": "arapahoe-basin",
+      "title": "Yoga",
+      "description": "",
+      "start": "2026-08-13",
+      "end": "2026-08-13",
+      "days": [
+        "2026-08-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/yoga-thursday/6",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d5ac3d2df3761be0",
+      "resortId": "arapahoe-basin",
+      "title": "Summer Brewfest",
+      "description": "",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bikes-brat-brew/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "94ab8c85f8db2059",
+      "resortId": "arapahoe-basin",
+      "title": "Summit Classic Mountain Bike Race",
+      "description": "",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/summit-classic/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "cfeb9c9ca3a5b74c",
+      "resortId": "arapahoe-basin",
+      "title": "Cirque Series",
+      "description": "",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "days": [
+        "2026-09-05"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/cirque-series/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "7039675a00b759eb",
+      "resortId": "arapahoe-basin",
+      "title": "Oktoberfest",
+      "description": "",
+      "start": "2026-09-19",
+      "end": "2026-09-20",
+      "days": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/oktoberfest/",
+      "imageUrl": "",
+      "recurrence": null
+    }
+  ],
+  "snow": null,
+  "lifts": null,
+  "drive": null
+}

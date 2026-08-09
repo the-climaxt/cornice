@@ -1,0 +1,112 @@
+[
+  {
+    "id": "winter-park",
+    "name": "Winter Park",
+    "state": "CO",
+    "lat": 39.8869,
+    "lon": -105.7625,
+    "passes": ["ikon"],
+    "parent": "alterra",
+    "timezone": "America/Denver",
+    "status": "active",
+    "sources": {
+      "events": { "adapter": "alterra", "url": "https://www.winterparkresort.com/things-to-do/events" },
+      "town": null,
+      "snow": null,
+      "lifts": null
+    },
+    "ops": { "openingDay": null, "closingDay": null },
+    "driveTime": { "fromDenverMin": 95 },
+    "notes": "Alterra platform. Events embedded as entity-encoded JSON in a <var class=\"results hidden\"> tag. Location tags already include Town of Winter Park, so town events need no separate source."
+  },
+  {
+    "id": "copper",
+    "name": "Copper Mountain",
+    "state": "CO",
+    "lat": 39.5022,
+    "lon": -106.1497,
+    "passes": ["ikon"],
+    "parent": "powdr",
+    "timezone": "America/Denver",
+    "status": "active",
+    "sources": {
+      "events": {
+        "adapter": "powdr",
+        "url": "https://www.coppercolorado.com",
+        "sitemap": "https://www.coppercolorado.com/sitemap-0.xml",
+        "pathPattern": "events-activities/events-calendar/"
+      },
+      "town": null,
+      "snow": null,
+      "lifts": null
+    },
+    "ops": { "openingDay": null, "closingDay": null },
+    "driveTime": { "fromDenverMin": 95 },
+    "notes": "Gatsby + Drupal. Each event is its own page; data comes from /page-data/<path>/page-data.json. No browser required."
+  },
+  {
+    "id": "arapahoe-basin",
+    "name": "Arapahoe Basin",
+    "state": "CO",
+    "lat": 39.6425,
+    "lon": -105.8719,
+    "passes": ["ikon"],
+    "parent": "alterra",
+    "timezone": "America/Denver",
+    "status": "active",
+    "sources": {
+      "events": { "adapter": "abasin", "url": "https://www.arapahoebasin.com/events/" },
+      "town": null,
+      "snow": null,
+      "lifts": null
+    },
+    "ops": { "openingDay": null, "closingDay": null },
+    "driveTime": { "fromDenverMin": 85 },
+    "notes": "Not yet migrated to the Alterra platform despite the 2024 acquisition. Plain server-rendered HTML. When it migrates, delete this adapter and switch to 'alterra'."
+  },
+  {
+    "id": "eldora",
+    "name": "Eldora",
+    "state": "CO",
+    "lat": 39.9372,
+    "lon": -105.5827,
+    "passes": ["ikon"],
+    "parent": "powdr",
+    "timezone": "America/Denver",
+    "status": "active",
+    "sources": {
+      "events": {
+        "adapter": "powdr",
+        "url": "https://www.eldora.com",
+        "sitemap": "https://www.eldora.com/sitemap-0.xml",
+        "pathPattern": "activities-amenities/events/all-events/"
+      },
+      "town": null,
+      "snow": null,
+      "lifts": null
+    },
+    "ops": { "openingDay": null, "closingDay": null },
+    "driveTime": { "fromDenverMin": 60 },
+    "notes": "Gatsby + Drupal, same as Copper. Nederland town events already appear in Eldora's own feed (e.g. Ned Jazz & Wine at Chipeta Park)."
+  },
+  {
+    "id": "steamboat",
+    "name": "Steamboat",
+    "state": "CO",
+    "lat": 40.4572,
+    "lon": -106.8045,
+    "passes": ["ikon"],
+    "parent": "alterra",
+    "timezone": "America/Denver",
+    "status": "pending",
+    "sources": {
+      "events": { "adapter": "alterra", "url": "https://www.steamboat.com/things-to-do/events" },
+      "town": null,
+      "snow": null,
+      "lifts": null
+    },
+    "ops": { "openingDay": null, "closingDay": null },
+    "driveTime": { "fromDenverMin": 185 },
+    "notes": "PENDING: sits behind Imperva/Incapsula bot protection. A plain fetch returns a 1.1KB challenge page. Same Alterra markup as Winter Park once the page is actually retrieved, so the adapter will work as-is via a real browser. Needs Playwright in CI. See QUESTIONS.md Q1."
+  }
+]

@@ -159,19 +159,25 @@ Nightly scrape burns ~3-5 minutes per run (~120 min/month), which fits either wa
 
 Conducted 2026-08-09. Five resorts, three adapters.
 
-| Resort | Parent | How events are published | Adapter | Difficulty |
+**Updated 2026-08-09 after building against the live sites.** Two predictions in the original recon were wrong — recorded here rather than quietly corrected.
+
+| Resort | Parent | How events are published | Adapter | Verified |
 |---|---|---|---|---|
-| Winter Park | Alterra | Full event list embedded as JSON in the page | `alterra` | Easy |
-| Steamboat | Alterra | Identical platform and schema to Winter Park | `alterra` | Easy |
-| Arapahoe Basin | Alterra | Plain server-rendered list, category + location filters | `abasin` | Easy |
-| Copper | POWDR | Client-side rendered; plain fetch returns nav only | `powdr` | Needs Playwright |
-| Eldora | POWDR | Client-side rendered; plain fetch returns nav only | `powdr` | Needs Playwright |
+| Winter Park | Alterra | Entity-encoded JSON array in `<var class="results hidden">`. Complete set; page-level paging is client-side over that array | `alterra` | ✅ 25 events |
+| Copper | POWDR | Gatsby/Drupal. Sitemap lists ~147 event pages; each has JSON at `/page-data/<path>/page-data.json` | `powdr` | ✅ 14 events |
+| Arapahoe Basin | Alterra | Plain server-rendered `<div class="event-desc">` blocks | `abasin` | ✅ 7 events |
+| Eldora | POWDR | Same as Copper, ~510 event pages (mostly historical) | `powdr` | ✅ 4 events |
+| Steamboat | Alterra | Imperva/Incapsula returns a 1.1 KB challenge page to a plain fetch | `alterra` | ❌ pending |
+
+**Correction 1 — Steamboat is not the easy twin of Winter Park.** Same parent, same markup, but different infrastructure: Steamboat is bot-protected and Winter Park isn't. Shared platform does not imply shared retrieval. See D-020 and QUESTIONS.md Q1.
+
+**Correction 2 — POWDR never needed a browser.** Copper and Eldora render client-side, but Gatsby publishes every page's data as JSON at a predictable path, and the sitemap enumerates every event page. This removed the only reason Phase 1 required Playwright. See D-021.
 
 **Alterra JSON fields** (Winter Park and Steamboat, confirmed identical): `pageId`, `name`, `subtitle`, `startDate`, `endDate`, `formattedDate`, `startDateDateTime` / `endDateDateTime` (ISO with timezone), `locations[]` ("On Mountain", "Village and Town"), `types[]`, `goodForTags[]`, `description`, `allDay`, `imageUrl` / `mobileImageUrl` / `tabletImageUrl`. Steamboat was serving 47 events at time of recon.
 
 **A-Basin** has not been migrated to Alterra's platform despite the 2024 acquisition. When it is, it should fold into the `alterra` adapter and `abasin.js` can be deleted.
 
-**Copper and Eldora** share a parent, so they likely share a platform — check whether one adapter covers both before writing two. Either use Playwright, or inspect the network tab for the JSON endpoint the page calls and hit that directly (faster and far more stable).
+**Copper and Eldora** are both Gatsby over Drupal and are served by one `powdr` adapter. Useful fields on each event node: `title`, `field_date`, `field_end_date`, `field_venue`, `field_hours.value` (HTML, e.g. "12:00 - 3:00 PM"), `field_short_description`. Drupal JSON:API is **not** exposed — `/jsonapi` returns 404 on both. Neither exposes event categories.
 
 **Town calendars** (Phase 2): Frisco / Summit County for Copper, Dillon / Summit for A-Basin, Nederland for Eldora. Winter Park and Steamboat already include town events in their own feeds — no separate source needed.
 
@@ -211,14 +217,14 @@ Supporting measures:
 
 ## 7. Phasing
 
-| Phase | Deliverable | Rationale |
+| Phase | Deliverable | Status |
 |---|---|---|
-| **0** | Registry + `alterra` adapter + Actions workflow → Winter Park and Steamboat committing nightly | Easiest source proves the entire chain end to end |
-| **1** | `abasin` + `powdr` adapters (Playwright) | All five resorts live |
-| **2** | Town calendars — Frisco/Summit, Dillon, Nederland | Likely the LLM adapter; no selectors to rot |
-| **3** | Opening and closing day | Hand-seeded in the registry each fall. It's five dates — not worth a fragile scraper |
-| **4** | Front-end filters, PWA install, offline cache | The actual product |
-| **5** | Expand registry: Epic I-70 resorts, then all of Colorado | Where "adding a row" pays off |
+| **0** | Registry + `alterra` adapter + Actions workflow | ✅ Built. Winter Park live; Steamboat pending (D-020) |
+| **1** | `abasin` + `powdr` adapters | ✅ Built, no Playwright needed (D-021). 4 of 5 resorts live |
+| **2** | Town calendars — Frisco/Summit, Dillon, Nederland | ⬜ Not started. Winter Park and Eldora already carry some town events natively — see QUESTIONS.md Q2 |
+| **3** | Opening and closing day | ⬜ Not started. `ops` fields exist in the registry, both null. Hand-seed each fall |
+| **4** | Front-end filters, PWA install, offline cache | ✅ Built. Not yet viewed in a browser |
+| **5** | Expand registry: Epic I-70 resorts, then all of Colorado | ⬜ Not started |
 
 **Later:** snow, lift status, CDOT drive conditions, live drive time, Utah.
 

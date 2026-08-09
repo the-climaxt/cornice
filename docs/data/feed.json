@@ -1,0 +1,1180 @@
+{
+  "generatedAt": "2026-08-09T04:55:54.066Z",
+  "today": "2026-08-08",
+  "resorts": [
+    {
+      "id": "winter-park",
+      "name": "Winter Park",
+      "lat": 39.8869,
+      "lon": -105.7625,
+      "passes": [
+        "ikon"
+      ],
+      "parent": "alterra",
+      "driveTime": {
+        "fromDenverMin": 95
+      },
+      "ops": {
+        "openingDay": null,
+        "closingDay": null
+      },
+      "status": "ok",
+      "updatedAt": "2026-08-09T04:55:44.126Z",
+      "lastGoodAt": "2026-08-09T04:55:44.126Z",
+      "eventCount": 25
+    },
+    {
+      "id": "copper",
+      "name": "Copper Mountain",
+      "lat": 39.5022,
+      "lon": -106.1497,
+      "passes": [
+        "ikon"
+      ],
+      "parent": "powdr",
+      "driveTime": {
+        "fromDenverMin": 95
+      },
+      "ops": {
+        "openingDay": null,
+        "closingDay": null
+      },
+      "status": "ok",
+      "updatedAt": "2026-08-09T04:55:44.463Z",
+      "lastGoodAt": "2026-08-09T04:55:44.463Z",
+      "eventCount": 14
+    },
+    {
+      "id": "arapahoe-basin",
+      "name": "Arapahoe Basin",
+      "lat": 39.6425,
+      "lon": -105.8719,
+      "passes": [
+        "ikon"
+      ],
+      "parent": "alterra",
+      "driveTime": {
+        "fromDenverMin": 85
+      },
+      "ops": {
+        "openingDay": null,
+        "closingDay": null
+      },
+      "status": "ok",
+      "updatedAt": "2026-08-09T04:55:46.584Z",
+      "lastGoodAt": "2026-08-09T04:55:46.584Z",
+      "eventCount": 7
+    },
+    {
+      "id": "eldora",
+      "name": "Eldora",
+      "lat": 39.9372,
+      "lon": -105.5827,
+      "passes": [
+        "ikon"
+      ],
+      "parent": "powdr",
+      "driveTime": {
+        "fromDenverMin": 60
+      },
+      "ops": {
+        "openingDay": null,
+        "closingDay": null
+      },
+      "status": "ok",
+      "updatedAt": "2026-08-09T04:55:47.161Z",
+      "lastGoodAt": "2026-08-09T04:55:47.161Z",
+      "eventCount": 4
+    },
+    {
+      "id": "steamboat",
+      "name": "Steamboat",
+      "lat": 40.4572,
+      "lon": -106.8045,
+      "passes": [
+        "ikon"
+      ],
+      "parent": "alterra",
+      "driveTime": {
+        "fromDenverMin": 185
+      },
+      "ops": {
+        "openingDay": null,
+        "closingDay": null
+      },
+      "status": "pending",
+      "updatedAt": "2026-08-09T04:55:54.064Z",
+      "lastGoodAt": null,
+      "eventCount": 0
+    }
+  ],
+  "events": [
+    {
+      "id": "109ed693e8f8f35c",
+      "resortId": "copper",
+      "title": "Copper Triangle",
+      "description": "A Colorado cycling classic cresting three mountain passes for an elevation gain of 6,500'.",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "days": [
+        "2026-08-01"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-triangle/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b21b26816e1dc8f8",
+      "resortId": "winter-park",
+      "title": "Trestle Gravity Team | Session 1",
+      "description": "The Trestle Gravity Team helps downhill biking enthusiasts improve their skills, learn bike maintenance, and compete in gravity racing. with expert coaching.",
+      "start": "2026-06-28",
+      "end": "2026-08-09",
+      "days": [
+        "2026-08-02",
+        "2026-08-09"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-team-session-1",
+      "imageUrl": "https://www.winterparkresort.com/-/media/camera-274.jpg?rev=a22d99191b174fada76e22d09e925bbc?h=4000&w=6000&hash=9DF2824943AADF53F58A2EC67BD3F9EA",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "16c0d5d2275250e2",
+      "resortId": "winter-park",
+      "title": "All Mountain Bike Team",
+      "description": "The All Mountain Bike Program provides kids of all ages with the skills to ride single track trails & explore Grand County.",
+      "start": "2026-06-19",
+      "end": "2026-08-23",
+      "days": [
+        "2026-08-07",
+        "2026-08-14",
+        "2026-08-21"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [
+        "All Mountain"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/all-mountain-bike-team",
+      "imageUrl": "https://www.winterparkresort.com/-/media/dsc09765.jpg?rev=982a894699fe42549040e9d1dfaa4c81?h=4000&w=6000&hash=31F4FB407EC39B0960B9A2EF3AED08AA",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "385a22be7a96fc81",
+      "resortId": "copper",
+      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
+      "start": "2026-08-08",
+      "end": "2026-08-08",
+      "days": [
+        "2026-08-08"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 3:00 PM",
+      "locationType": "on-mountain",
+      "venue": "T-Rex Grill",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-aug/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "a5c84432fcd4deff",
+      "resortId": "winter-park",
+      "title": "Winter Bark",
+      "description": "A Tail-Waggin’ Good Time in the Mountains",
+      "start": "2026-08-08",
+      "end": "2026-08-08",
+      "days": [
+        "2026-08-08"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Special Event"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/winter-bark",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/fy27winterbark.png?rev=b04f5f7d1f8948efb35f756e3f0129fb?h=1401&w=2401&hash=7101F26BAD5153BC79CE53077D168D5F",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "4f47357019dd8fb9",
+      "resortId": "arapahoe-basin",
+      "title": "Mountain Clean Up - Frontside",
+      "description": "",
+      "start": "2026-08-09",
+      "end": "2026-08-09",
+      "days": [
+        "2026-08-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/mountain-clean-up/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "66fa088f95127f0d",
+      "resortId": "arapahoe-basin",
+      "title": "Yoga",
+      "description": "",
+      "start": "2026-08-09",
+      "end": "2026-08-09",
+      "days": [
+        "2026-08-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/yoga/5",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "80914998235e6ada",
+      "resortId": "copper",
+      "title": "Little Riders Rally Race 2",
+      "description": "Little Riders Rally, a free race series designed to introduce young riders (up to 6yrs old) to the joys of cycling in a fun and safe environment.",
+      "start": "2026-08-12",
+      "end": "2026-08-12",
+      "days": [
+        "2026-08-12"
+      ],
+      "allDay": false,
+      "timeText": "5:30 PM",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/little-riders-rally-august12/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "5c3b5943a59356fa",
+      "resortId": "arapahoe-basin",
+      "title": "Yoga",
+      "description": "",
+      "start": "2026-08-13",
+      "end": "2026-08-13",
+      "days": [
+        "2026-08-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/yoga-thursday/6",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "4780b8f22ba42abe",
+      "resortId": "winter-park",
+      "title": "High Note Thursdays",
+      "description": "Catch Live Music Every Thursday!",
+      "start": "2026-08-13",
+      "end": "2026-08-13",
+      "days": [
+        "2026-08-13"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "town",
+      "venue": "Town of Winter Park",
+      "source": "resort",
+      "categories": [
+        "Free",
+        "Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/high-note-thursdays-9",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/wpfc_concert_photo.png?rev=9f578114342140e1899ef7e4d84594c7?h=1200&w=1800&hash=ECB22215855E5DFD589E558BFC390FBC",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "041285efa41f17ef",
+      "resortId": "winter-park",
+      "title": "Coca-Cola Family Movie Night",
+      "description": "Zootopia 2",
+      "start": "2026-08-14",
+      "end": "2026-08-14",
+      "days": [
+        "2026-08-14"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Movies",
+        "Free"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/movie-night-9",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-07-31-wp-villagenight-cfrey-00462-dng.jpg?rev=1e53acbf174e4cc69594a215249a27f0?h=661&w=1176&hash=484103036023DB36FC1F5450205CA4AF",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "d5ac3d2df3761be0",
+      "resortId": "arapahoe-basin",
+      "title": "Summer Brewfest",
+      "description": "",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bikes-brat-brew/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "94ab8c85f8db2059",
+      "resortId": "arapahoe-basin",
+      "title": "Summit Classic Mountain Bike Race",
+      "description": "",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/summit-classic/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "5fda3a64239ea945",
+      "resortId": "copper",
+      "title": "Ales & Astronomy presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Ales & Astronomy offers guided stargazing with Odell beer.",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "8:30 PM",
+      "locationType": "village",
+      "venue": "West Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ales-and-astronomy-august15/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8316bca700a85300",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series, presented by Play Forever Foundation and Odell Brewing Co., returns for the summer!",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "3:30 PM",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-august15/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "69757ecd4de10ab0",
+      "resortId": "winter-park",
+      "title": "Crafts, Cocktails, & Corks",
+      "description": "Food Vendors, Live Music, Tastings",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "town",
+      "venue": "Town of Winter Park",
+      "source": "resort",
+      "categories": [
+        "Tastings"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/crafts-cocktails-corks",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer-25/craftscocktailscorks-summer25.jpg?rev=1ad9de508d52400b813760b930f9bcf9?h=480&w=864&hash=30A692243520251C571B61614EB42C8A",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "a12c46a8b90dd19c",
+      "resortId": "winter-park",
+      "title": "Summer Music Series presented by Rendezvous",
+      "description": "Free Live Music on Saturdays",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/summer-music-series-7",
+      "imageUrl": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/77eda49ba68b4d90994a180785dbdb02?v=96d191ce",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "68130d8e49d986d2",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-08-16",
+      "end": "2026-08-16",
+      "days": [
+        "2026-08-16"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august16/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d7dd8b9f5cfdb03c",
+      "resortId": "winter-park",
+      "title": "Trestle Gravity Team | Session 2",
+      "description": "The Trestle Gravity Team helps downhill biking enthusiasts improve their skills, learn bike maintenance, and compete in gravity racing. with expert coaching.",
+      "start": "2026-08-16",
+      "end": "2026-09-27",
+      "days": [
+        "2026-08-16",
+        "2026-08-23",
+        "2026-08-30",
+        "2026-09-06",
+        "2026-09-13",
+        "2026-09-20",
+        "2026-09-27"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-team-session-2",
+      "imageUrl": "https://www.winterparkresort.com/-/media/camera-274.jpg?rev=a22d99191b174fada76e22d09e925bbc?h=4000&w=6000&hash=9DF2824943AADF53F58A2EC67BD3F9EA",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "9e2ed94c7a9155f7",
+      "resortId": "winter-park",
+      "title": "High Note Thursdays",
+      "description": "Catch Live Music Every Thursday!",
+      "start": "2026-08-20",
+      "end": "2026-08-20",
+      "days": [
+        "2026-08-20"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "town",
+      "venue": "Town of Winter Park",
+      "source": "resort",
+      "categories": [
+        "Free",
+        "Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/high-note-thursdays-10",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/wpfc_concert_photo.png?rev=9f578114342140e1899ef7e4d84594c7?h=1200&w=1800&hash=ECB22215855E5DFD589E558BFC390FBC",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "6a3f9a1aff988fc5",
+      "resortId": "winter-park",
+      "title": "Coca-Cola Family Movie Night",
+      "description": "School of Rock",
+      "start": "2026-08-21",
+      "end": "2026-08-21",
+      "days": [
+        "2026-08-21"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Movies",
+        "Free"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/movie-night-10",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-07-31-wp-villagenight-cfrey-00462-dng.jpg?rev=1e53acbf174e4cc69594a215249a27f0?h=661&w=1176&hash=484103036023DB36FC1F5450205CA4AF",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "9feab139bb58563b",
+      "resortId": "eldora",
+      "title": "Ned Jazz & Wine 2026",
+      "description": "Celebrate the 5th Anniversary of the Ned Jazz & Wine Festival",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "days": [
+        "2026-08-22"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Chipeta Park",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/nedjazzwine-2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "f31c5a18aaa64cb4",
+      "resortId": "winter-park",
+      "title": "Tacos + Margs in the Mountains",
+      "description": "Live music, unlimited tacos, giveaways and more!",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "days": [
+        "2026-08-22"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Special Event",
+        "Tastings",
+        "Concerts and Live Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/tacos-and-margs",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer/tacos-and-margs-summer-event-in-winter-park-colorado.png?rev=842aa10d3c9f4676be319e84076eeec3?h=1350&w=2400&hash=28FE5A6FEAB3BCE6A173FCC6DF3C9CE0",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "34ab5d71cb8a0d30",
+      "resortId": "winter-park",
+      "title": "Trestle Bike Sale",
+      "description": "Free Trestle Season Pass with Bike Purchase",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "days": [
+        "2026-08-22"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Demos"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/tacos-and-margs-bike-sale",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2017-08-25-wp-trestle-bike-park-0991-chris-wellhausen-cmyk-tif.jpg?rev=fc91a131534c47ec82e769e5202e9f82?h=1350&w=2400&hash=CA281AE7EE371958F926A9EAD40D4686",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "5a9aaab76eedb94c",
+      "resortId": "winter-park",
+      "title": "Winter Park Classics: Tipperary Classic",
+      "description": "Iconic mountain bike race from Fraser to Winter Park Resort",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "days": [
+        "2026-08-22"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Competitions and Races"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/winter-park-classics-tipperary-classic",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/2019/winterpark-coc-july2016-1379.jpeg?rev=4a463038c27f4b6fb3127dc8de797b22?h=3280&w=4928&hash=15EA7BA37CCBB53E2B3A783C6D3E7CF4",
+      "recurrence": "Annual"
+    },
+    {
+      "id": "141a2bb02d3c2ea5",
+      "resortId": "winter-park",
+      "title": "High Note Thursdays",
+      "description": "Catch Live Music Every Thursday!",
+      "start": "2026-08-27",
+      "end": "2026-08-27",
+      "days": [
+        "2026-08-27"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "town",
+      "venue": "Town of Winter Park",
+      "source": "resort",
+      "categories": [
+        "Free",
+        "Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/high-note-thursdays-11",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/wpfc_concert_photo.png?rev=9f578114342140e1899ef7e4d84594c7?h=1200&w=1800&hash=ECB22215855E5DFD589E558BFC390FBC",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "24c3a61144c34f85",
+      "resortId": "copper",
+      "title": "Jib Jam #2 presented by YETI",
+      "description": "No bibs. No judges. Just good times.",
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "days": [
+        "2026-08-28"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Hike Park",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/jib-jam-2/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0557954ff53759d5",
+      "resortId": "copper",
+      "title": "Union Peak Festival",
+      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "841f4ae110970999",
+      "resortId": "copper",
+      "title": "Summit UP Run presented by Mammut",
+      "description": "5k trail run—starting at 11,000'—to jumpstart your Saturday!",
+      "start": "2026-08-29",
+      "end": "2026-08-29",
+      "days": [
+        "2026-08-29"
+      ],
+      "allDay": false,
+      "timeText": "9:00 AM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-summit-up-run/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b6ce5a545e5a378a",
+      "resortId": "winter-park",
+      "title": "Summer Music Series presented by Rendezvous",
+      "description": "Free Live Music on Saturdays",
+      "start": "2026-08-29",
+      "end": "2026-08-29",
+      "days": [
+        "2026-08-29"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Music"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/summer-music-series-8",
+      "imageUrl": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/77eda49ba68b4d90994a180785dbdb02?v=96d191ce",
+      "recurrence": "Weekly"
+    },
+    {
+      "id": "101c76f46d5fc9ba",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august30/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "92c719bef7f50658",
+      "resortId": "copper",
+      "title": "Union Peak Yoga and Breakfast presented by Subaru",
+      "description": "High altitude yoga and breakfast at Aerie!",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": false,
+      "timeText": "8:30 AM",
+      "locationType": "on-mountain",
+      "venue": "Aerie, Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-yoga-and-breakfast/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0ee6e8141b2747fc",
+      "resortId": "winter-park",
+      "title": "Trestle Gravity Series - Super Downhill",
+      "description": "The Trestle Gravity Series is multi-race series that encompasses Air Downhill, Downhill, and Super Downhill races.",
+      "start": "2026-09-04",
+      "end": "2026-09-04",
+      "days": [
+        "2026-09-04"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Competitions and Races"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-super-downhill-2026",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer-2020/dillon-emarr-trestle-bike-park-chris-wellhausen-75.jfif?rev=0e429fa2dbf342e6af10975e028e5149?h=661&w=1176&hash=D536258C11002B50D5D6877664AAE080",
+      "recurrence": "Annual"
+    },
+    {
+      "id": "cfeb9c9ca3a5b74c",
+      "resortId": "arapahoe-basin",
+      "title": "Cirque Series",
+      "description": "",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "days": [
+        "2026-09-05"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/cirque-series/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8a7f6a237f99d44b",
+      "resortId": "copper",
+      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "days": [
+        "2026-09-05"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 3:00 PM",
+      "locationType": "on-mountain",
+      "venue": "T-Rex Grill",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-sept/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "e27f8231028cb35c",
+      "resortId": "copper",
+      "title": "Mountain Rewind: Throwbacks",
+      "description": "Join us over Labor Day weekend for free live music, featuring your favorite throwbacks!",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "3:30 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-rewind/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "1b8f15afbd3b49fe",
+      "resortId": "winter-park",
+      "title": "Labor Day Weekend Bike Sale",
+      "description": "Free Trestle Season Pass with Bike Purchase",
+      "start": "2026-09-05",
+      "end": "2026-09-07",
+      "days": [
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Demos"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/labor-day-weekend-bike-sale",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2017-08-25-wp-trestle-bike-park-0991-chris-wellhausen-cmyk-tif.jpg?rev=fc91a131534c47ec82e769e5202e9f82?h=1350&w=2400&hash=CA281AE7EE371958F926A9EAD40D4686",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "bb7afcfde4a92c4c",
+      "resortId": "winter-park",
+      "title": "Trestle Gravity Series - Downhill 2",
+      "description": "The Trestle Gravity Series is multi-race series that encompasses Air Downhill, Downhill, and Super Downhill races.",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "days": [
+        "2026-09-05"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Competitions and Races"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-downhill-2-2026",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer-2020/dillon-emarr-trestle-bike-park-chris-wellhausen-75.jfif?rev=0e429fa2dbf342e6af10975e028e5149?h=661&w=1176&hash=D536258C11002B50D5D6877664AAE080",
+      "recurrence": "Annual"
+    },
+    {
+      "id": "98a024cc8e09ca1e",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-09-06",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-sept6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0ae451b8a03a7b23",
+      "resortId": "winter-park",
+      "title": "Trestle Gravity Series - Air Downhill 2",
+      "description": "The Trestle Gravity Series is multi-race series that encompasses Air Downhill, Downhill, and Super Downhill races.",
+      "start": "2026-09-06",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Competitions and Races"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-air-downhill-2-2026",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-09-24-wp-trestle-cfrey-02595-dng.jpg?rev=eaed14b0da27453599cc03fa2ab35989?h=661&w=1176&hash=BE5A38DC4B3AE751EC96E8550657C744",
+      "recurrence": "Annual"
+    },
+    {
+      "id": "9efeacc180ec9696",
+      "resortId": "winter-park",
+      "title": "Battle of the Grommets™",
+      "description": "Junior Gravity Race for ages 15 and under",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "days": [
+        "2026-09-07"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Competitions and Races"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/battle-of-the-grommets-junior-gravity-race-september-7-bike",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/trestlejuniorteam019dillonlemarr.jpg?rev=e6db843dc8ed4459a753f05a9d1d94c0?h=1667&w=2500&hash=E5F2903A765BBEA509F606F216C4F10D",
+      "recurrence": "Annual"
+    },
+    {
+      "id": "12b16c2dbdfb8c51",
+      "resortId": "winter-park",
+      "title": "Upslope's Backcountry Tap Room",
+      "description": "Hike to a pop-up taproom on the mountain",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "days": [
+        "2026-09-12"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.winterparkresort.com/things-to-do/events/backcountry-tap-room",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer/backcountry-tap-room-fall-event-in-winter-park-colorado.png?rev=09ec90011f5d4b5fb59af2b0fb625c11?h=1350&w=2400&hash=BA99A0EF24FD2E2E916351D30E6E0839",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "55bcf5fcf1db5035",
+      "resortId": "winter-park",
+      "title": "What's Your Everest 2026",
+      "description": "Fundraiser where teams rope up to hike together toward a shared summit",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "days": [
+        "2026-09-12"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.winterparkresort.com/things-to-do/events/no-barriers-whats-your-everest",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/nobarriers.jpg?rev=ea9c8c51875d4a85b7931537cdf78664?h=604&w=768&hash=D63A25E7E86DEE5BEDB98FDEEDEA7FD4",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "0550cb33be527400",
+      "resortId": "winter-park",
+      "title": "Rocky Mountain Wine Fest",
+      "description": "Save the date",
+      "start": "2026-09-18",
+      "end": "2026-09-19",
+      "days": [
+        "2026-09-18",
+        "2026-09-19"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [
+        "Festivals",
+        "Tastings"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/rocky-mountain-wine-fest",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer/rocky-mountain-wine-fest-fall-event-in-winter-park-colorado.png?rev=7df3b96e0e9b4c8ab0ef314d742d2dc7?h=1350&w=2400&hash=2B64FE38674B9173EAA7C6CCAB3654C3",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "7039675a00b759eb",
+      "resortId": "arapahoe-basin",
+      "title": "Oktoberfest",
+      "description": "",
+      "start": "2026-09-19",
+      "end": "2026-09-20",
+      "days": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/oktoberfest/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "1e941dab5252ef9d",
+      "resortId": "eldora",
+      "title": "Fall Fest Day 1: Mountain Clean-Up",
+      "description": "Help Keep Eldora Beautiful on Day 1 of Fall Fest",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "days": [
+        "2026-09-19"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-CleanUp/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "e6364b8002689855",
+      "resortId": "winter-park",
+      "title": "Trestle Bike Sale",
+      "description": "Free Trestle Season Pass with Bike Purchase",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "days": [
+        "2026-09-19"
+      ],
+      "allDay": false,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Resort Village",
+      "source": "resort",
+      "categories": [
+        "Demos"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/rocky-mountain-wine-fest-bike-sale",
+      "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2017-08-25-wp-trestle-bike-park-0991-chris-wellhausen-cmyk-tif.jpg?rev=fc91a131534c47ec82e769e5202e9f82?h=1350&w=2400&hash=CA281AE7EE371958F926A9EAD40D4686",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "9502407332975037",
+      "resortId": "eldora",
+      "title": "Fall Fest Day 2: AlpenRun 5k/10k",
+      "description": "Come Race with Us on Day 2 of Fall Fest",
+      "start": "2026-09-20",
+      "end": "2026-09-20",
+      "days": [
+        "2026-09-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-AlpenRun/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "35e36c4ebd72a691",
+      "resortId": "winter-park",
+      "title": "Elevation Everest",
+      "description": "A race to climb the elevation of Mt. Everest",
+      "start": "2026-09-26",
+      "end": "2026-09-26",
+      "days": [
+        "2026-09-26"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "On Mountain",
+      "source": "resort",
+      "categories": [
+        "Health & Wellness"
+      ],
+      "url": "https://www.winterparkresort.com/things-to-do/events/elevation-everest",
+      "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/elevationeverest2026logoblk.png?rev=aeab417d066b46a89c50fd619710af7b?h=279&w=573&hash=5D9280704C056DA334E2345DAE473E4B",
+      "recurrence": "Special Event"
+    },
+    {
+      "id": "54b0b3d3bae18654",
+      "resortId": "eldora",
+      "title": "Outdoor Gear & Sample Sale 2026",
+      "description": "Shop your favorite outdoor brands at the lowest price & support EMSC!",
+      "start": "2026-10-09",
+      "end": "2026-10-10",
+      "days": [
+        "2026-10-09",
+        "2026-10-10"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "The Avalon Ballroom",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/OutdoorGearSale2026/",
+      "imageUrl": "",
+      "recurrence": null
+    }
+  ]
+}

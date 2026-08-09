@@ -1,2 +1,25 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Line endings.
+#
+# Windows traditionally ends every line with two invisible characters (CRLF);
+# Mac, Linux, and the GitHub Actions runner use one (LF). Git can translate
+# between them, which is what the "this file uses LF but Git will convert to
+# CRLF" warning was about.
+#
+# GitHub Desktop's default was `* text=auto`, which stores LF in the repo but
+# hands you CRLF locally. That works, but it means the files on this machine
+# never quite match the files the nightly scraper writes on GitHub's Linux
+# runner — which shows up as noise when reviewing diffs.
+#
+# `eol=lf` keeps LF everywhere: in the repo, on this machine, and in CI.
+# One format, no translation, no warning. VS Code handles LF without noticing.
+
+* text=auto eol=lf
+
+# Binary formats — never translate these.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary

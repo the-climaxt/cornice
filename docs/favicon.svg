@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 110" width="110" height="110" role="img" aria-label="Cornice">
+  <!-- Favicon / sub-32px reduction, per the sheet: one chip, thicker stroke, no wordmark. -->
+  <rect width="110" height="110" rx="25" fill="#3F2140"/>
+  <path d="M14 74 C36 74 46 26 70 22 C83 20 87 32 74 37"
+        stroke="#F3E7D6" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="78" y="58" width="15" height="15" rx="3" fill="#D9563C" transform="rotate(22 85.5 65.5)"/>
+</svg>

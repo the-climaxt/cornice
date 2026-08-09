@@ -1,0 +1,13 @@
+{
+  "name": "mountain-events",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Colorado ski resort and town event aggregator",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "scrape": "node src/scrape.js",
+    "scrape:one": "node src/scrape.js --only"
+  },
+  "license": "MIT"
+}

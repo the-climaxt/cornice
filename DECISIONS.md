@@ -155,3 +155,80 @@ If an adapter returns zero events, keep the last good file, set `status: "stale"
 **Resolution:** the docs were rewritten into `mountain-events\`, and the stray `repo\` folder was deleted. Folder name now matches the repository name on GitHub, which is clearer anyway.
 
 **Lesson for future sessions:** after any GitHub Desktop operation, verify with `git -C "<path>" rev-parse --show-toplevel` before assuming the intended folder is the repository. Do not trust the dialog's Local path field to mean what it looks like it means.
+
+---
+
+### D-018 · 2026-08-09 · Three status values, not two: `ok`, `stale`, `pending`
+
+A resort with no working adapter yet reports `pending`, not `stale`.
+
+**Why:** `PLAN.md` §6 says the workflow must fail loudly when an adapter returns zero. But resorts awaiting a Phase 1+ adapter would return zero every night from day one, firing false alarms until you learned to ignore the alarm entirely — the exact failure mode §6 exists to prevent. `pending` is expected and silent; `stale` means something that used to work has broken.
+
+**Rejected:** a single "not ok" state, which would have made the alarm useless within a week.
+
+---
+
+### D-019 · 2026-08-09 · Pages placeholder deferred — the real front end shipped instead
+
+The plan sequenced a throwaway `/docs` placeholder to verify hosting early, ahead of the Phase 4 front end.
+
+**What changed:** the adapters came together fast enough that building the real UI was cheaper than building a placeholder and then replacing it. `docs/index.html` is the actual app.
+
+**Consequence:** the hosting chain and the app get verified in the same step rather than separately. Slightly higher risk if something's wrong, but the app is a single static file with no build step, so there's little to go wrong.
+
+---
+
+### D-020 · 2026-08-09 · Steamboat moves from Phase 0 to pending — Imperva bot protection
+
+`PLAN.md` assumed Winter Park and Steamboat were one easy adapter because they share the Alterra platform. They do share markup — but `steamboat.com` sits behind **Imperva/Incapsula** and returns a 1.1 KB challenge page to a plain request. Winter Park has no protection at all.
+
+**Resolution:** Steamboat is marked `"status": "pending"` in `resorts.json`. Its adapter is written and would work unchanged given real HTML; only retrieval fails. Adding Playwright to the nightly job is the likely fix. See `QUESTIONS.md` Q1.
+
+**Lesson:** shared platform does not imply shared infrastructure. Verify retrieval per-domain, not per-vendor.
+
+---
+
+### D-021 · 2026-08-09 · Copper and Eldora need no browser — sitemap plus Gatsby page-data
+
+Both were expected to need Playwright since their event listings render client-side. They don't.
+
+Both are **Gatsby over Drupal**. Every event is its own page, listed in `/sitemap-0.xml`, and Gatsby publishes each page's data as JSON at `/page-data/<path>/page-data.json` — carrying `title`, `field_date`, `field_end_date`, `field_venue`, `field_hours`, and `field_short_description`. So: fetch sitemap → filter event URLs → fetch each page's JSON.
+
+**Why this matters:** it removed the only reason Phase 1 needed browser automation, which was the most expensive and most fragile part of the plan. Copper has ~147 event URLs and Eldora ~510; requests are capped at 6 concurrent.
+
+**Rejected:** Playwright for POWDR sites, and Drupal JSON:API (returns 404 on both — not exposed).
+
+---
+
+### D-022 · 2026-08-09 · Events expand into concrete days
+
+Every event carries a `days: [YYYY-MM-DD]` array of the dates it actually happens, not just a start and end.
+
+**Why:** the whole product is "what's on today." Winter Park publishes recurring events as a single record spanning months — "High Note Thursdays, Jun 19 – Sep 26, recurrence: Weekly." Rendered naively that event appears to be happening every day for three months, which is wrong and makes the app useless. Expansion turns it into the eleven Thursdays it really is.
+
+Expansion is capped at 400 days so a bad end date can't explode the feed.
+
+---
+
+### D-023 · 2026-08-09 · Data lives in `docs/data/`, not `/data`
+
+**Why:** GitHub Pages serves the `/docs` folder. Putting the JSON there means the app fetches `data/feed.json` same-origin at runtime with no second copy and no cross-origin dependency on `raw.githubusercontent.com`.
+
+**Note on D-009:** with Pages deploying from a branch, a nightly data commit does trigger a Pages rebuild. That's free and uncapped on GitHub, unlike Netlify. The runtime-fetch rule still holds and still matters — it's what keeps an eventual hourly refresh free, and what makes the host swappable.
+
+---
+
+### D-024 · 2026-08-09 · The product is named **Cornice**, with a defined brand
+
+Tanner supplied a finished logo sheet. Spec captured in `BRAND.md`; that file is authoritative and future sessions must not improvise on the mark.
+
+**The mark:** a cornice lip curling over, with confetti chips falling off it. The chips do real work — they're the "events" half of the idea, which is exactly what four rounds of my own icon attempts failed to express. Every draft I made said *mountain* and none said *something is happening*.
+
+**Rules that constrain the UI, not just the logo:** no gradients anywhere, stroke weight fixed at 15/110, the curl never rotates, chips always stay below the lip and are never cropped.
+
+**Palette:** Plum `#3F2140` base · Coral `#D9563C` primary · Amber `#E0A040` · Teal `#4E9E93` · Blush `#C98BA8` · Cream `#F3E7D6`.
+**Type:** Staatliches (display) · DM Mono (labels) · Jost (body).
+
+**Consequence:** `docs/index.html` was rethemed from the placeholder navy/cyan to the Cornice palette, and the previous gradient header was removed to comply. The three chip colours map naturally onto the location badges — teal for on-hill, amber for village, blush for town.
+
+**Repo name unchanged** (`mountain-events`) — renaming is Tanner's call, tracked as QUESTIONS.md Q8.

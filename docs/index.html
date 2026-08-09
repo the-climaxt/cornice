@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Cornice</title>
+<meta name="description" content="What's happening at Colorado ski resorts in the next few days." />
+<meta name="theme-color" content="#3F2140" />
+<link rel="manifest" href="./manifest.json" />
+<link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="./icon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Staatliches&family=DM+Mono:wght@400;500&family=Jost:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  /* Cornice palette — see BRAND.md. No gradients anywhere, by rule. */
+  :root{
+    --plum:#3F2140; --coral:#D9563C; --amber:#E0A040; --teal:#4E9E93;
+    --blush:#C98BA8; --cream:#F3E7D6; --cream-lt:#FBF7EF; --muted:#6B5570; --sand:#D6C9B4;
+
+    --surface:#4A2A4B;      /* raised plum */
+    --surface-2:#563255;
+    --line:#5E3A5E;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--plum);color:var(--cream);
+    font-family:Jost,system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.45;
+    -webkit-font-smoothing:antialiased;padding-bottom:44px;
+  }
+  .lab{font-family:'DM Mono',ui-monospace,monospace;font-size:11px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--blush)}
+
+  header{max-width:760px;margin:0 auto;padding:20px 16px 12px;
+    position:sticky;top:0;background:var(--plum);z-index:20}
+  .lockup{display:flex;align-items:center;gap:13px}
+  .lockup svg{width:46px;height:46px;flex:0 0 auto}
+  .wm{font-family:Staatliches,Impact,sans-serif;font-size:31px;letter-spacing:.09em;
+    text-transform:uppercase;line-height:1;color:var(--cream)}
+  .bars{display:flex;gap:5px;margin-top:9px}
+  .bars i{height:6px;display:block}
+  .sub{color:var(--muted);font-size:13px;margin-top:9px;color:#b79bb8}
+
+  .strip{display:flex;gap:8px;overflow-x:auto;padding:12px 16px 4px;max-width:760px;margin:0 auto;scrollbar-width:none}
+  .strip::-webkit-scrollbar{display:none}
+  .day{flex:0 0 auto;background:var(--surface);border:2px solid var(--line);border-radius:12px;
+    padding:8px 12px;text-align:center;cursor:pointer;min-width:64px}
+  .day:hover{border-color:var(--blush)}
+  .day.on{background:var(--coral);border-color:var(--coral);color:var(--cream)}
+  .day .dow{font-family:'DM Mono',ui-monospace,monospace;font-size:10px;letter-spacing:.12em;text-transform:uppercase;opacity:.85}
+  .day .num{font-family:Staatliches,Impact,sans-serif;font-size:23px;line-height:1.15;letter-spacing:.04em}
+  .day .cnt{font-family:'DM Mono',ui-monospace,monospace;font-size:10px;opacity:.8}
+  .day.empty{opacity:.45}
+
+  .filters{display:flex;flex-wrap:wrap;gap:6px;padding:14px 16px 6px;max-width:760px;margin:0 auto;align-items:center}
+  .grp{display:flex;gap:6px;align-items:center}
+  .chip{background:var(--surface);border:2px solid var(--line);color:var(--cream);border-radius:999px;
+    padding:5px 13px;font-size:13.5px;cursor:pointer;font-family:Jost,system-ui,sans-serif}
+  .chip:hover{border-color:var(--blush)}
+  .chip.on{background:var(--cream);color:var(--plum);border-color:var(--cream);font-weight:600}
+  .dist{display:flex;align-items:center;gap:10px;padding:12px 16px 0;max-width:760px;margin:0 auto;font-size:13px}
+  .dist input{flex:1;accent-color:var(--coral)}
+
+  main{padding:0 16px;max-width:760px;margin:0 auto}
+  .card{background:var(--surface);border:2px solid var(--line);border-radius:14px;padding:13px 15px;margin:10px 0}
+  .card a.t{color:var(--cream);text-decoration:none;font-weight:600;font-size:15.5px;display:block}
+  .card a.t:hover{color:var(--amber)}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:8px;font-size:12.5px;color:#c0a6c1}
+  .badge{border-radius:5px;padding:2px 8px;font-family:'DM Mono',ui-monospace,monospace;
+    font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:500;color:var(--plum)}
+  .b-mtn{background:var(--teal)} .b-vil{background:var(--amber)} .b-town{background:var(--blush)}
+  .resort{font-weight:600;color:var(--cream)}
+  .desc{color:#b79bb8;font-size:13px;margin-top:7px}
+  .none{color:#b79bb8;text-align:center;padding:46px 12px;font-size:15px}
+  .warn{background:var(--amber);color:var(--plum);border-radius:10px;padding:10px 13px;font-size:13px;margin:10px 0}
+  footer{max-width:760px;margin:26px auto 0;padding:0 16px;color:var(--muted);font-size:11px;
+    font-family:'DM Mono',ui-monospace,monospace;line-height:1.8;color:#8d738e}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="lockup">
+    <svg viewBox="0 0 512 512" role="img" aria-label="Cornice">
+      <rect width="512" height="512" rx="118" fill="#3F2140"/>
+      <g transform="translate(64 64) scale(3.49091)" fill="none">
+        <path d="M10 72 C34 72 44 22 70 18 C84 16 88 29 74 34" stroke="#F3E7D6" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="76" y="50" width="10" height="10" rx="2" fill="#D9563C" transform="rotate(22 81 55)"/>
+        <rect x="92" y="70" width="8" height="8" rx="2" fill="#E0A040" transform="rotate(-18 96 74)"/>
+        <rect x="72" y="86" width="7" height="7" rx="2" fill="#C98BA8" transform="rotate(34 75 89)"/>
+      </g>
+    </svg>
+    <div>
+      <div class="wm">Cornice</div>
+      <div class="lab" style="margin-top:4px">Next 7 days</div>
+    </div>
+  </div>
+  <div class="bars">
+    <i style="width:66px;background:#D9563C"></i>
+    <i style="width:38px;background:#E0A040"></i>
+    <i style="width:20px;background:#4E9E93"></i>
+  </div>
+  <div class="sub" id="sub">Loading…</div>
+</header>
+
+<div class="strip" id="strip"></div>
+
+<div class="filters" id="filters">
+  <div class="grp"><span class="lab" style="margin-right:2px">Pass</span>
+    <button class="chip on" data-f="pass" data-v="all">All</button>
+    <button class="chip" data-f="pass" data-v="ikon">Ikon</button>
+    <button class="chip" data-f="pass" data-v="epic">Epic</button>
+  </div>
+  <div class="grp"><span class="lab" style="margin-right:2px">Where</span>
+    <button class="chip on" data-f="loc" data-v="all">All</button>
+    <button class="chip" data-f="loc" data-v="on-mountain">On hill</button>
+    <button class="chip" data-f="loc" data-v="village">Village</button>
+    <button class="chip" data-f="loc" data-v="town">Town</button>
+  </div>
+</div>
+
+<div class="dist">
+  <span class="lab" id="distLabel">Within 200 mi</span>
+  <input type="range" id="dist" min="20" max="200" step="10" value="200" />
+  <button class="chip" id="locBtn">Use my location</button>
+</div>
+
+<main id="list"></main>
+<footer id="foot"></footer>
+
+<script>
+const DEFAULT_POS = { lat: 39.7392, lon: -104.9903, label: 'Denver' };
+const state = { feed: null, day: null, pass: 'all', loc: 'all', maxMiles: 200, pos: DEFAULT_POS };
+const $ = (s) => document.querySelector(s);
+
+function miles(a, b) {
+  const R = 3958.8, rad = (d) => (d * Math.PI) / 180;
+  const dLat = rad(b.lat - a.lat), dLon = rad(b.lon - a.lon);
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(rad(a.lat)) * Math.cos(rad(b.lat)) * Math.sin(dLon / 2) ** 2;
+  return Math.round(2 * R * Math.asin(Math.sqrt(h)));
+}
+function addDays(ymd, n) {
+  const [y, m, d] = ymd.split('-').map(Number);
+  const dt = new Date(Date.UTC(y, m - 1, d));
+  dt.setUTCDate(dt.getUTCDate() + n);
+  return dt.toISOString().slice(0, 10);
+}
+const DOW = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+function dowName(ymd) {
+  const [y, m, d] = ymd.split('-').map(Number);
+  return DOW[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+}
+function resortOf(id) { return state.feed.resorts.find((r) => r.id === id) || {}; }
+
+function passesFilters(ev) {
+  const r = resortOf(ev.resortId);
+  if (state.pass !== 'all' && !(r.passes || []).includes(state.pass)) return false;
+  if (state.loc !== 'all' && ev.locationType !== state.loc) return false;
+  if (r.lat != null && miles(state.pos, r) > state.maxMiles) return false;
+  return true;
+}
+
+function render() {
+  const f = state.feed;
+  if (!f) return;
+
+  const days = Array.from({ length: 8 }, (_, i) => addDays(f.today, i));
+  if (!state.day || !days.includes(state.day)) state.day = days[0];
+  const eligible = f.events.filter(passesFilters);
+
+  $('#strip').innerHTML = days.map((d, i) => {
+    const n = eligible.filter((e) => e.days.includes(d)).length;
+    return `<div class="day ${d === state.day ? 'on' : ''} ${n ? '' : 'empty'}" data-day="${d}">
+      <div class="dow">${i === 0 ? 'Today' : dowName(d)}</div>
+      <div class="num">${Number(d.slice(8))}</div>
+      <div class="cnt">${n || '—'}</div></div>`;
+  }).join('');
+
+  const stale = f.resorts.filter((r) => r.status === 'stale');
+  const warn = stale.length
+    ? `<div class="warn"><strong>Heads up:</strong> ${stale.map((r) => r.name).join(', ')}
+       ${stale.length > 1 ? 'are' : 'is'} showing older data — the scraper couldn't reach
+       ${stale.length > 1 ? 'those sites' : 'that site'} on the last run.</div>` : '';
+
+  const shown = eligible.filter((e) => e.days.includes(state.day)).sort((a, b) => {
+    const ra = resortOf(a.resortId), rb = resortOf(b.resortId);
+    return (miles(state.pos, ra) - miles(state.pos, rb)) || a.title.localeCompare(b.title);
+  });
+
+  const BADGE = { 'on-mountain': ['b-mtn','On hill'], village: ['b-vil','Village'], town: ['b-town','Town'] };
+
+  $('#list').innerHTML = warn + (shown.length ? shown.map((e) => {
+    const r = resortOf(e.resortId);
+    const [cls, label] = BADGE[e.locationType] || BADGE['on-mountain'];
+    const dist = r.lat != null ? `${miles(state.pos, r)} mi` : '';
+    const drive = r.driveTime?.fromDenverMin ? `~${Math.round(r.driveTime.fromDenverMin / 6) / 10} hr from Denver` : '';
+    return `<div class="card">
+      <a class="t" href="${e.url}" target="_blank" rel="noopener">${e.title}</a>
+      <div class="meta">
+        <span class="badge ${cls}">${label}</span>
+        <span class="resort">${r.name || e.resortId}</span>
+        ${e.timeText ? `<span>${e.timeText}</span>` : ''}
+        ${e.venue ? `<span>· ${e.venue}</span>` : ''}
+        ${dist ? `<span>· ${dist}</span>` : ''}
+        ${drive ? `<span>· ${drive}</span>` : ''}
+      </div>
+      ${e.description ? `<div class="desc">${e.description}</div>` : ''}
+    </div>`;
+  }).join('') : `<div class="none">Nothing on ${state.day === f.today ? 'today' : dowName(state.day) + ' the ' + Number(state.day.slice(8))} within your filters.<br>
+      <span style="font-size:13px">Try widening the distance or switching to All.</span></div>`);
+
+  const when = new Date(f.generatedAt);
+  $('#sub').textContent = `${eligible.length} events · ${f.resorts.filter(r => r.eventCount).length} resorts · updated ${when.toLocaleDateString()} ${when.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit' })}`;
+  $('#foot').innerHTML = f.resorts.map((r) => `${r.name}: ${r.status}${r.eventCount ? ` (${r.eventCount})` : ''}`).join(' · ')
+    + `<br>Distance straight-line from ${state.pos.label}.`;
+}
+
+document.addEventListener('click', (e) => {
+  const day = e.target.closest('.day');
+  if (day) { state.day = day.dataset.day; render(); return; }
+  const chip = e.target.closest('.chip[data-f]');
+  if (chip) {
+    const { f, v } = chip.dataset;
+    state[f] = v;
+    document.querySelectorAll(`.chip[data-f="${f}"]`).forEach((c) => c.classList.toggle('on', c === chip));
+    render();
+  }
+});
+
+$('#dist').addEventListener('input', (e) => {
+  state.maxMiles = Number(e.target.value);
+  $('#distLabel').textContent = `Within ${state.maxMiles} mi`;
+  render();
+});
+
+$('#locBtn').addEventListener('click', () => {
+  if (!navigator.geolocation) return;
+  $('#locBtn').textContent = 'Locating…';
+  navigator.geolocation.getCurrentPosition(
+    (p) => { state.pos = { lat: p.coords.latitude, lon: p.coords.longitude, label: 'your location' };
+             $('#locBtn').textContent = 'Using your location'; render(); },
+    () => { $('#locBtn').textContent = 'Location blocked — using Denver'; },
+    { timeout: 8000 },
+  );
+});
+
+fetch(`./data/feed.json?v=${Date.now()}`)
+  .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+  .then((f) => { state.feed = f; render(); })
+  .catch((err) => {
+    $('#sub').textContent = 'Could not load event data.';
+    $('#list').innerHTML = `<div class="none">Couldn't load <code>data/feed.json</code>.<br>
+      <span style="font-size:13px">${err.message}. If the nightly job hasn't run yet, there may be no data committed.</span></div>`;
+  });
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js').catch(() => {}));
+}
+</script>
+</body>
+</html>

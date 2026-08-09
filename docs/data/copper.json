@@ -1,0 +1,300 @@
+{
+  "resort": "copper",
+  "name": "Copper Mountain",
+  "updatedAt": "2026-08-09T04:55:44.463Z",
+  "status": "ok",
+  "lastGoodAt": "2026-08-09T04:55:44.463Z",
+  "lastError": null,
+  "ops": {
+    "openingDay": null,
+    "closingDay": null
+  },
+  "events": [
+    {
+      "id": "109ed693e8f8f35c",
+      "resortId": "copper",
+      "title": "Copper Triangle",
+      "description": "A Colorado cycling classic cresting three mountain passes for an elevation gain of 6,500'.",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "days": [
+        "2026-08-01"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-triangle/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "385a22be7a96fc81",
+      "resortId": "copper",
+      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
+      "start": "2026-08-08",
+      "end": "2026-08-08",
+      "days": [
+        "2026-08-08"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 3:00 PM",
+      "locationType": "on-mountain",
+      "venue": "T-Rex Grill",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-aug/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "80914998235e6ada",
+      "resortId": "copper",
+      "title": "Little Riders Rally Race 2",
+      "description": "Little Riders Rally, a free race series designed to introduce young riders (up to 6yrs old) to the joys of cycling in a fun and safe environment.",
+      "start": "2026-08-12",
+      "end": "2026-08-12",
+      "days": [
+        "2026-08-12"
+      ],
+      "allDay": false,
+      "timeText": "5:30 PM",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/little-riders-rally-august12/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "5fda3a64239ea945",
+      "resortId": "copper",
+      "title": "Ales & Astronomy presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Ales & Astronomy offers guided stargazing with Odell beer.",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "8:30 PM",
+      "locationType": "village",
+      "venue": "West Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ales-and-astronomy-august15/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8316bca700a85300",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series, presented by Play Forever Foundation and Odell Brewing Co., returns for the summer!",
+      "start": "2026-08-15",
+      "end": "2026-08-15",
+      "days": [
+        "2026-08-15"
+      ],
+      "allDay": false,
+      "timeText": "3:30 PM",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-august15/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "68130d8e49d986d2",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-08-16",
+      "end": "2026-08-16",
+      "days": [
+        "2026-08-16"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august16/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "24c3a61144c34f85",
+      "resortId": "copper",
+      "title": "Jib Jam #2 presented by YETI",
+      "description": "No bibs. No judges. Just good times.",
+      "start": "2026-08-28",
+      "end": "2026-08-28",
+      "days": [
+        "2026-08-28"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Hike Park",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/jib-jam-2/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0557954ff53759d5",
+      "resortId": "copper",
+      "title": "Union Peak Festival",
+      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "841f4ae110970999",
+      "resortId": "copper",
+      "title": "Summit UP Run presented by Mammut",
+      "description": "5k trail run—starting at 11,000'—to jumpstart your Saturday!",
+      "start": "2026-08-29",
+      "end": "2026-08-29",
+      "days": [
+        "2026-08-29"
+      ],
+      "allDay": false,
+      "timeText": "9:00 AM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-summit-up-run/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "101c76f46d5fc9ba",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august30/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "92c719bef7f50658",
+      "resortId": "copper",
+      "title": "Union Peak Yoga and Breakfast presented by Subaru",
+      "description": "High altitude yoga and breakfast at Aerie!",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": false,
+      "timeText": "8:30 AM",
+      "locationType": "on-mountain",
+      "venue": "Aerie, Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-yoga-and-breakfast/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8a7f6a237f99d44b",
+      "resortId": "copper",
+      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "days": [
+        "2026-09-05"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 3:00 PM",
+      "locationType": "on-mountain",
+      "venue": "T-Rex Grill",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-sept/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "e27f8231028cb35c",
+      "resortId": "copper",
+      "title": "Mountain Rewind: Throwbacks",
+      "description": "Join us over Labor Day weekend for free live music, featuring your favorite throwbacks!",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-05",
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "3:30 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-rewind/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "98a024cc8e09ca1e",
+      "resortId": "copper",
+      "title": "Mountain Mixology",
+      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
+      "start": "2026-09-06",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-sept6/",
+      "imageUrl": "",
+      "recurrence": null
+    }
+  ],
+  "snow": null,
+  "lifts": null,
+  "drive": null
+}

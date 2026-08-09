@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Cornice">
+  <!-- Cornice app icon. Built to the logo sheet's "App icon" panel:
+       plum tile, cream curl at 15/110 stroke, three chips falling below the lip.
+       Rules honoured: no gradients, stroke weight untouched, curl not rotated,
+       chips scattered but always below the lip, nothing cropped. -->
+  <rect width="512" height="512" rx="118" fill="#3F2140"/>
+  <g transform="translate(64 64) scale(3.49091)" fill="none">
+    <path d="M10 72 C34 72 44 22 70 18 C84 16 88 29 74 34"
+          stroke="#F3E7D6" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="76" y="50" width="10" height="10" rx="2" fill="#D9563C" transform="rotate(22 81 55)"/>
+    <rect x="92" y="70" width="8" height="8" rx="2" fill="#E0A040" transform="rotate(-18 96 74)"/>
+    <rect x="72" y="86" width="7" height="7" rx="2" fill="#C98BA8" transform="rotate(34 75 89)"/>
+  </g>
+</svg>
