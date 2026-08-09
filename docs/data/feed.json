@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-09T04:55:54.066Z",
-  "today": "2026-08-08",
+  "generatedAt": "2026-08-09T21:57:59.171Z",
+  "today": "2026-08-09",
   "resorts": [
     {
       "id": "winter-park",
@@ -18,8 +18,8 @@
         "openingDay": null,
         "closingDay": null
       },
-      "status": "ok",
-      "updatedAt": "2026-08-09T04:55:44.126Z",
+      "status": "stale",
+      "updatedAt": "2026-08-09T21:57:40.022Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-09T04:55:44.463Z",
-      "lastGoodAt": "2026-08-09T04:55:44.463Z",
-      "eventCount": 14
+      "updatedAt": "2026-08-09T21:57:40.248Z",
+      "lastGoodAt": "2026-08-09T21:57:40.248Z",
+      "eventCount": 13
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-09T04:55:46.584Z",
-      "lastGoodAt": "2026-08-09T04:55:46.584Z",
+      "updatedAt": "2026-08-09T21:57:44.815Z",
+      "lastGoodAt": "2026-08-09T21:57:44.815Z",
       "eventCount": 7
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-09T04:55:47.161Z",
-      "lastGoodAt": "2026-08-09T04:55:47.161Z",
+      "updatedAt": "2026-08-09T21:57:45.468Z",
+      "lastGoodAt": "2026-08-09T21:57:45.468Z",
       "eventCount": 4
     },
     {
@@ -103,32 +103,12 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-09T04:55:54.064Z",
+      "updatedAt": "2026-08-09T21:57:59.168Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
   ],
   "events": [
-    {
-      "id": "109ed693e8f8f35c",
-      "resortId": "copper",
-      "title": "Copper Triangle",
-      "description": "A Colorado cycling classic cresting three mountain passes for an elevation gain of 6,500'.",
-      "start": "2026-08-01",
-      "end": "2026-08-01",
-      "days": [
-        "2026-08-01"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-triangle/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "b21b26816e1dc8f8",
       "resortId": "winter-park",
