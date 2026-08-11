@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-10T10:37:07.045Z",
+  "updatedAt": "2026-08-11T10:11:01.707Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-10T10:37:07.045Z",
+  "lastGoodAt": "2026-08-11T10:11:01.707Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -107,6 +107,30 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august16/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "95c03d34dffa96ed",
+      "resortId": "copper",
+      "title": "Locals Appreciation Week",
+      "description": "We love our community! To show our appreciation, locals can enjoy highly discounted activities and Kids Eat Free all week long.",
+      "start": "2026-08-17",
+      "end": "2026-08-21",
+      "days": [
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/locals-appreciation-week/",
       "imageUrl": "",
       "recurrence": null
     },
