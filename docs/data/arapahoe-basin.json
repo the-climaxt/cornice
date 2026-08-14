@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-08-13T10:28:17.737Z",
+  "updatedAt": "2026-08-14T10:16:52.635Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-13T10:28:17.737Z",
+  "lastGoodAt": "2026-08-14T10:16:52.635Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "5c3b5943a59356fa",
-      "resortId": "arapahoe-basin",
-      "title": "Yoga",
-      "description": "",
-      "start": "2026-08-13",
-      "end": "2026-08-13",
-      "days": [
-        "2026-08-13"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/yoga-thursday/6",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "d5ac3d2df3761be0",
       "resortId": "arapahoe-basin",
