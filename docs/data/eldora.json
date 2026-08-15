@@ -1,9 +1,9 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-08-14T10:16:53.209Z",
+  "updatedAt": "2026-08-15T09:41:05.816Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-14T10:16:53.209Z",
+  "lastGoodAt": "2026-08-15T09:41:05.816Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
