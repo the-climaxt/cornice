@@ -1,55 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-08-15T09:41:05.266Z",
+  "updatedAt": "2026-08-16T09:42:36.314Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-15T09:41:05.266Z",
+  "lastGoodAt": "2026-08-16T09:42:36.314Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "d5ac3d2df3761be0",
-      "resortId": "arapahoe-basin",
-      "title": "Summer Brewfest",
-      "description": "",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bikes-brat-brew/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "94ab8c85f8db2059",
-      "resortId": "arapahoe-basin",
-      "title": "Summit Classic Mountain Bike Race",
-      "description": "",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/summit-classic/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "cfeb9c9ca3a5b74c",
       "resortId": "arapahoe-basin",

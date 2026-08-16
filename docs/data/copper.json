@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-15T09:41:02.150Z",
+  "updatedAt": "2026-08-16T09:42:33.183Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-15T09:41:02.150Z",
+  "lastGoodAt": "2026-08-16T09:42:33.183Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "385a22be7a96fc81",
-      "resortId": "copper",
-      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
-      "start": "2026-08-08",
-      "end": "2026-08-08",
-      "days": [
-        "2026-08-08"
-      ],
-      "allDay": false,
-      "timeText": "12:00 - 3:00 PM",
-      "locationType": "on-mountain",
-      "venue": "T-Rex Grill",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-aug/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "80914998235e6ada",
       "resortId": "copper",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T09:41:16.343Z",
-  "today": "2026-08-15",
+  "generatedAt": "2026-08-16T09:42:47.248Z",
+  "today": "2026-08-16",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-15T09:41:01.936Z",
+      "updatedAt": "2026-08-16T09:42:32.971Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-15T09:41:02.150Z",
-      "lastGoodAt": "2026-08-15T09:41:02.150Z",
-      "eventCount": 14
+      "updatedAt": "2026-08-16T09:42:33.183Z",
+      "lastGoodAt": "2026-08-16T09:42:33.183Z",
+      "eventCount": 13
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-15T09:41:05.266Z",
-      "lastGoodAt": "2026-08-15T09:41:05.266Z",
-      "eventCount": 4
+      "updatedAt": "2026-08-16T09:42:36.314Z",
+      "lastGoodAt": "2026-08-16T09:42:36.314Z",
+      "eventCount": 2
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-15T09:41:05.816Z",
-      "lastGoodAt": "2026-08-15T09:41:05.816Z",
+      "updatedAt": "2026-08-16T09:42:36.869Z",
+      "lastGoodAt": "2026-08-16T09:42:36.869Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-15T09:41:16.341Z",
+      "updatedAt": "2026-08-16T09:42:47.246Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -153,26 +153,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/all-mountain-bike-team",
       "imageUrl": "https://www.winterparkresort.com/-/media/dsc09765.jpg?rev=982a894699fe42549040e9d1dfaa4c81?h=4000&w=6000&hash=31F4FB407EC39B0960B9A2EF3AED08AA",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "385a22be7a96fc81",
-      "resortId": "copper",
-      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
-      "start": "2026-08-08",
-      "end": "2026-08-08",
-      "days": [
-        "2026-08-08"
-      ],
-      "allDay": false,
-      "timeText": "12:00 - 3:00 PM",
-      "locationType": "on-mountain",
-      "venue": "T-Rex Grill",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-aug/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "a5c84432fcd4deff",
@@ -261,46 +241,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/movie-night-9",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-07-31-wp-villagenight-cfrey-00462-dng.jpg?rev=1e53acbf174e4cc69594a215249a27f0?h=661&w=1176&hash=484103036023DB36FC1F5450205CA4AF",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "d5ac3d2df3761be0",
-      "resortId": "arapahoe-basin",
-      "title": "Summer Brewfest",
-      "description": "",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bikes-brat-brew/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "94ab8c85f8db2059",
-      "resortId": "arapahoe-basin",
-      "title": "Summit Classic Mountain Bike Race",
-      "description": "",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/summit-classic/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "5fda3a64239ea945",
