@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-08-19T09:49:33.225Z",
+  "updatedAt": "2026-08-20T09:50:29.484Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-19T09:49:33.225Z",
+  "lastGoodAt": "2026-08-20T09:50:29.484Z",
   "lastError": null,
   "ops": {
     "openingDay": null,

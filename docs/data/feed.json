@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T09:49:44.451Z",
-  "today": "2026-08-19",
+  "generatedAt": "2026-08-20T09:50:44.724Z",
+  "today": "2026-08-20",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-19T09:49:29.623Z",
+      "updatedAt": "2026-08-20T09:50:24.872Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-19T09:49:29.942Z",
-      "lastGoodAt": "2026-08-19T09:49:29.942Z",
-      "eventCount": 13
+      "updatedAt": "2026-08-20T09:50:25.230Z",
+      "lastGoodAt": "2026-08-20T09:50:25.230Z",
+      "eventCount": 12
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-19T09:49:33.225Z",
-      "lastGoodAt": "2026-08-19T09:49:33.225Z",
+      "updatedAt": "2026-08-20T09:50:29.484Z",
+      "lastGoodAt": "2026-08-20T09:50:29.484Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-19T09:49:33.700Z",
-      "lastGoodAt": "2026-08-19T09:49:33.700Z",
+      "updatedAt": "2026-08-20T09:50:30.106Z",
+      "lastGoodAt": "2026-08-20T09:50:30.106Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-19T09:49:44.449Z",
+      "updatedAt": "2026-08-20T09:50:44.721Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -175,26 +175,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/winter-bark",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/fy27winterbark.png?rev=b04f5f7d1f8948efb35f756e3f0129fb?h=1401&w=2401&hash=7101F26BAD5153BC79CE53077D168D5F",
       "recurrence": "Special Event"
-    },
-    {
-      "id": "80914998235e6ada",
-      "resortId": "copper",
-      "title": "Little Riders Rally Race 2",
-      "description": "Little Riders Rally, a free race series designed to introduce young riders (up to 6yrs old) to the joys of cycling in a fun and safe environment.",
-      "start": "2026-08-12",
-      "end": "2026-08-12",
-      "days": [
-        "2026-08-12"
-      ],
-      "allDay": false,
-      "timeText": "5:30 PM",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/little-riders-rally-august12/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "4780b8f22ba42abe",

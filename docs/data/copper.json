@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-19T09:49:29.942Z",
+  "updatedAt": "2026-08-20T09:50:25.230Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-19T09:49:29.942Z",
+  "lastGoodAt": "2026-08-20T09:50:25.230Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "80914998235e6ada",
-      "resortId": "copper",
-      "title": "Little Riders Rally Race 2",
-      "description": "Little Riders Rally, a free race series designed to introduce young riders (up to 6yrs old) to the joys of cycling in a fun and safe environment.",
-      "start": "2026-08-12",
-      "end": "2026-08-12",
-      "days": [
-        "2026-08-12"
-      ],
-      "allDay": false,
-      "timeText": "5:30 PM",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/little-riders-rally-august12/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "5fda3a64239ea945",
       "resortId": "copper",
