@@ -1,10 +1,10 @@
 {
   "resort": "winter-park",
   "name": "Winter Park",
-  "updatedAt": "2026-08-20T09:50:24.872Z",
+  "updatedAt": "2026-08-21T09:52:57.665Z",
   "status": "stale",
   "lastGoodAt": "2026-08-09T04:55:44.126Z",
-  "lastError": "bot-protection challenge returned instead of page content (184431 bytes) — needs a real browser",
+  "lastError": "bot-protection challenge returned instead of page content (180044 bytes) — needs a real browser",
   "ops": {
     "openingDay": null,
     "closingDay": null
