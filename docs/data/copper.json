@@ -1,55 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-22T09:42:41.221Z",
+  "updatedAt": "2026-08-23T09:43:22.793Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-22T09:42:41.221Z",
+  "lastGoodAt": "2026-08-23T09:43:22.793Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "5fda3a64239ea945",
-      "resortId": "copper",
-      "title": "Ales & Astronomy presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Ales & Astronomy offers guided stargazing with Odell beer.",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": false,
-      "timeText": "8:30 PM",
-      "locationType": "village",
-      "venue": "West Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ales-and-astronomy-august15/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "8316bca700a85300",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series, presented by Play Forever Foundation and Odell Brewing Co., returns for the summer!",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": false,
-      "timeText": "3:30 PM",
-      "locationType": "village",
-      "venue": "Center Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-august15/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "68130d8e49d986d2",
       "resortId": "copper",
@@ -254,6 +214,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-sept6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "ae2b6a10b1607196",
+      "resortId": "copper",
+      "title": "Summer Closing Day",
+      "description": "Summer activities and programs will close for the season after Sept. 7.",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "days": [
+        "2026-09-07"
+      ],
+      "allDay": false,
+      "timeText": "10:00 AM - 4:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/summer-closing-day/",
       "imageUrl": "",
       "recurrence": null
     }

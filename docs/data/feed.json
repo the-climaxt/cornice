@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T09:42:56.392Z",
-  "today": "2026-08-22",
+  "generatedAt": "2026-08-23T09:43:43.697Z",
+  "today": "2026-08-23",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-22T09:42:40.803Z",
+      "updatedAt": "2026-08-23T09:43:22.481Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-22T09:42:41.221Z",
-      "lastGoodAt": "2026-08-22T09:42:41.221Z",
-      "eventCount": 12
+      "updatedAt": "2026-08-23T09:43:22.793Z",
+      "lastGoodAt": "2026-08-23T09:43:22.793Z",
+      "eventCount": 11
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-22T09:42:44.526Z",
-      "lastGoodAt": "2026-08-22T09:42:44.526Z",
+      "updatedAt": "2026-08-23T09:43:29.028Z",
+      "lastGoodAt": "2026-08-23T09:43:29.028Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-22T09:42:45.068Z",
-      "lastGoodAt": "2026-08-22T09:42:45.068Z",
+      "updatedAt": "2026-08-23T09:43:29.614Z",
+      "lastGoodAt": "2026-08-23T09:43:29.614Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-22T09:42:56.390Z",
+      "updatedAt": "2026-08-23T09:43:43.695Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -221,46 +221,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/movie-night-9",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-07-31-wp-villagenight-cfrey-00462-dng.jpg?rev=1e53acbf174e4cc69594a215249a27f0?h=661&w=1176&hash=484103036023DB36FC1F5450205CA4AF",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "5fda3a64239ea945",
-      "resortId": "copper",
-      "title": "Ales & Astronomy presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Ales & Astronomy offers guided stargazing with Odell beer.",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": false,
-      "timeText": "8:30 PM",
-      "locationType": "village",
-      "venue": "West Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ales-and-astronomy-august15/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "8316bca700a85300",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series, presented by Play Forever Foundation and Odell Brewing Co., returns for the summer!",
-      "start": "2026-08-15",
-      "end": "2026-08-15",
-      "days": [
-        "2026-08-15"
-      ],
-      "allDay": false,
-      "timeText": "3:30 PM",
-      "locationType": "village",
-      "venue": "Center Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-august15/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "69757ecd4de10ab0",
@@ -827,6 +787,26 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-air-downhill-2-2026",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-09-24-wp-trestle-cfrey-02595-dng.jpg?rev=eaed14b0da27453599cc03fa2ab35989?h=661&w=1176&hash=BE5A38DC4B3AE751EC96E8550657C744",
       "recurrence": "Annual"
+    },
+    {
+      "id": "ae2b6a10b1607196",
+      "resortId": "copper",
+      "title": "Summer Closing Day",
+      "description": "Summer activities and programs will close for the season after Sept. 7.",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
+      "days": [
+        "2026-09-07"
+      ],
+      "allDay": false,
+      "timeText": "10:00 AM - 4:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/summer-closing-day/",
+      "imageUrl": "",
+      "recurrence": null
     },
     {
       "id": "9efeacc180ec9696",
