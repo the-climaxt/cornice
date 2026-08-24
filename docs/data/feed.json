@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T09:43:43.697Z",
-  "today": "2026-08-23",
+  "generatedAt": "2026-08-24T10:05:00.970Z",
+  "today": "2026-08-24",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-23T09:43:22.481Z",
+      "updatedAt": "2026-08-24T10:04:43.790Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-23T09:43:22.793Z",
-      "lastGoodAt": "2026-08-23T09:43:22.793Z",
-      "eventCount": 11
+      "updatedAt": "2026-08-24T10:04:44.409Z",
+      "lastGoodAt": "2026-08-24T10:04:44.409Z",
+      "eventCount": 10
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-23T09:43:29.028Z",
-      "lastGoodAt": "2026-08-23T09:43:29.028Z",
+      "updatedAt": "2026-08-24T10:04:49.942Z",
+      "lastGoodAt": "2026-08-24T10:04:49.942Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-23T09:43:29.614Z",
-      "lastGoodAt": "2026-08-23T09:43:29.614Z",
+      "updatedAt": "2026-08-24T10:04:50.500Z",
+      "lastGoodAt": "2026-08-24T10:04:50.500Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-23T09:43:43.695Z",
+      "updatedAt": "2026-08-24T10:05:00.969Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -265,26 +265,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/summer-music-series-7",
       "imageUrl": "https://amc-p-001.sitecorecontenthub.cloud/api/public/content/77eda49ba68b4d90994a180785dbdb02?v=96d191ce",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "68130d8e49d986d2",
-      "resortId": "copper",
-      "title": "Mountain Mixology",
-      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
-      "start": "2026-08-16",
-      "end": "2026-08-16",
-      "days": [
-        "2026-08-16"
-      ],
-      "allDay": false,
-      "timeText": "2:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Aerie",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august16/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "d7dd8b9f5cfdb03c",

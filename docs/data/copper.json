@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-23T09:43:22.793Z",
+  "updatedAt": "2026-08-24T10:04:44.409Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-23T09:43:22.793Z",
+  "lastGoodAt": "2026-08-24T10:04:44.409Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "68130d8e49d986d2",
-      "resortId": "copper",
-      "title": "Mountain Mixology",
-      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
-      "start": "2026-08-16",
-      "end": "2026-08-16",
-      "days": [
-        "2026-08-16"
-      ],
-      "allDay": false,
-      "timeText": "2:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Aerie",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august16/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "95c03d34dffa96ed",
       "resortId": "copper",
