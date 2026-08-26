@@ -1,7 +1,7 @@
 {
   "resort": "steamboat",
   "name": "Steamboat",
-  "updatedAt": "2026-08-25T09:51:59.606Z",
+  "updatedAt": "2026-08-26T09:57:36.291Z",
   "status": "pending",
   "lastGoodAt": null,
   "lastError": "PENDING: sits behind Imperva/Incapsula bot protection. A plain fetch returns a 1.1KB challenge page. Same Alterra markup as Winter Park once the page is actually retrieved, so the adapter will work as-is via a real browser. Needs Playwright in CI. See QUESTIONS.md Q1.",
