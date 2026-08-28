@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T19:51:26.263Z",
-  "today": "2026-08-27",
+  "generatedAt": "2026-08-28T20:50:41.519Z",
+  "today": "2026-08-28",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-27T19:50:58.780Z",
+      "updatedAt": "2026-08-28T20:50:26.339Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-27T19:50:59.053Z",
-      "lastGoodAt": "2026-08-27T19:50:59.053Z",
+      "updatedAt": "2026-08-28T20:50:26.737Z",
+      "lastGoodAt": "2026-08-28T20:50:26.737Z",
       "eventCount": 10
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-27T19:51:05.346Z",
-      "lastGoodAt": "2026-08-27T19:51:05.346Z",
+      "updatedAt": "2026-08-28T20:50:31.738Z",
+      "lastGoodAt": "2026-08-28T20:50:31.738Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-27T19:51:05.952Z",
-      "lastGoodAt": "2026-08-27T19:51:05.952Z",
+      "updatedAt": "2026-08-28T20:50:31.945Z",
+      "lastGoodAt": "2026-08-28T20:50:31.945Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-27T19:51:26.260Z",
+      "updatedAt": "2026-08-28T20:50:41.516Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -293,27 +293,6 @@
       "recurrence": "Weekly"
     },
     {
-      "id": "95c03d34dffa96ed",
-      "resortId": "copper",
-      "title": "Locals Appreciation Week",
-      "description": "We love our community! To show our appreciation, locals can enjoy highly discounted activities and Kids Eat Free all week long.",
-      "start": "2026-08-17",
-      "end": "2026-08-21",
-      "days": [
-        "2026-08-20",
-        "2026-08-21"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "village",
-      "venue": "Center Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/locals-appreciation-week/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "9e2ed94c7a9155f7",
       "resortId": "winter-park",
       "title": "High Note Thursdays",
@@ -335,6 +314,26 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/high-note-thursdays-10",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/wpfc_concert_photo.png?rev=9f578114342140e1899ef7e4d84594c7?h=1200&w=1800&hash=ECB22215855E5DFD589E558BFC390FBC",
       "recurrence": "Weekly"
+    },
+    {
+      "id": "95c03d34dffa96ed",
+      "resortId": "copper",
+      "title": "Locals Appreciation Week",
+      "description": "We love our community! To show our appreciation, locals can enjoy highly discounted activities and Kids Eat Free all week long.",
+      "start": "2026-08-17",
+      "end": "2026-08-21",
+      "days": [
+        "2026-08-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/locals-appreciation-week/",
+      "imageUrl": "",
+      "recurrence": null
     },
     {
       "id": "6a3f9a1aff988fc5",
