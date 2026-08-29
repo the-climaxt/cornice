@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T20:50:41.519Z",
-  "today": "2026-08-28",
+  "generatedAt": "2026-08-29T14:29:15.218Z",
+  "today": "2026-08-29",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-28T20:50:26.339Z",
+      "updatedAt": "2026-08-29T14:29:08.792Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-28T20:50:26.737Z",
-      "lastGoodAt": "2026-08-28T20:50:26.737Z",
-      "eventCount": 10
+      "updatedAt": "2026-08-29T14:29:09.112Z",
+      "lastGoodAt": "2026-08-29T14:29:09.112Z",
+      "eventCount": 9
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-28T20:50:31.738Z",
-      "lastGoodAt": "2026-08-28T20:50:31.738Z",
+      "updatedAt": "2026-08-29T14:29:10.621Z",
+      "lastGoodAt": "2026-08-29T14:29:10.621Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-28T20:50:31.945Z",
-      "lastGoodAt": "2026-08-28T20:50:31.945Z",
+      "updatedAt": "2026-08-29T14:29:10.906Z",
+      "lastGoodAt": "2026-08-29T14:29:10.906Z",
       "eventCount": 4
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-28T20:50:41.516Z",
+      "updatedAt": "2026-08-29T14:29:15.216Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -314,26 +314,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/high-note-thursdays-10",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/wpfc_concert_photo.png?rev=9f578114342140e1899ef7e4d84594c7?h=1200&w=1800&hash=ECB22215855E5DFD589E558BFC390FBC",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "95c03d34dffa96ed",
-      "resortId": "copper",
-      "title": "Locals Appreciation Week",
-      "description": "We love our community! To show our appreciation, locals can enjoy highly discounted activities and Kids Eat Free all week long.",
-      "start": "2026-08-17",
-      "end": "2026-08-21",
-      "days": [
-        "2026-08-21"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "village",
-      "venue": "Center Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/locals-appreciation-week/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "6a3f9a1aff988fc5",

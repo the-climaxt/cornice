@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-08-28T20:50:26.737Z",
+  "updatedAt": "2026-08-29T14:29:09.112Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-28T20:50:26.737Z",
+  "lastGoodAt": "2026-08-29T14:29:09.112Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "95c03d34dffa96ed",
-      "resortId": "copper",
-      "title": "Locals Appreciation Week",
-      "description": "We love our community! To show our appreciation, locals can enjoy highly discounted activities and Kids Eat Free all week long.",
-      "start": "2026-08-17",
-      "end": "2026-08-21",
-      "days": [
-        "2026-08-21"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "village",
-      "venue": "Center Village",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/locals-appreciation-week/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "24c3a61144c34f85",
       "resortId": "copper",
