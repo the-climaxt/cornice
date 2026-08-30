@@ -1,35 +1,15 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-08-29T14:29:10.906Z",
+  "updatedAt": "2026-08-30T14:25:35.012Z",
   "status": "ok",
-  "lastGoodAt": "2026-08-29T14:29:10.906Z",
+  "lastGoodAt": "2026-08-30T14:25:35.012Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "9feab139bb58563b",
-      "resortId": "eldora",
-      "title": "Ned Jazz & Wine 2026",
-      "description": "Celebrate the 5th Anniversary of the Ned Jazz & Wine Festival",
-      "start": "2026-08-22",
-      "end": "2026-08-22",
-      "days": [
-        "2026-08-22"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Chipeta Park",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/nedjazzwine-2026/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "1e941dab5252ef9d",
       "resortId": "eldora",

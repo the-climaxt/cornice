@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T14:29:15.218Z",
-  "today": "2026-08-29",
+  "generatedAt": "2026-08-30T14:25:39.357Z",
+  "today": "2026-08-30",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-08-29T14:29:08.792Z",
+      "updatedAt": "2026-08-30T14:25:32.720Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-29T14:29:09.112Z",
-      "lastGoodAt": "2026-08-29T14:29:09.112Z",
+      "updatedAt": "2026-08-30T14:25:33.201Z",
+      "lastGoodAt": "2026-08-30T14:25:33.201Z",
       "eventCount": 9
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-29T14:29:10.621Z",
-      "lastGoodAt": "2026-08-29T14:29:10.621Z",
+      "updatedAt": "2026-08-30T14:25:34.699Z",
+      "lastGoodAt": "2026-08-30T14:25:34.699Z",
       "eventCount": 2
     },
     {
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-08-29T14:29:10.906Z",
-      "lastGoodAt": "2026-08-29T14:29:10.906Z",
-      "eventCount": 4
+      "updatedAt": "2026-08-30T14:25:35.012Z",
+      "lastGoodAt": "2026-08-30T14:25:35.012Z",
+      "eventCount": 3
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-08-29T14:29:15.216Z",
+      "updatedAt": "2026-08-30T14:25:39.355Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -337,26 +337,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/movie-night-10",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-07-31-wp-villagenight-cfrey-00462-dng.jpg?rev=1e53acbf174e4cc69594a215249a27f0?h=661&w=1176&hash=484103036023DB36FC1F5450205CA4AF",
       "recurrence": "Weekly"
-    },
-    {
-      "id": "9feab139bb58563b",
-      "resortId": "eldora",
-      "title": "Ned Jazz & Wine 2026",
-      "description": "Celebrate the 5th Anniversary of the Ned Jazz & Wine Festival",
-      "start": "2026-08-22",
-      "end": "2026-08-22",
-      "days": [
-        "2026-08-22"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Chipeta Park",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/nedjazzwine-2026/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "f31c5a18aaa64cb4",
