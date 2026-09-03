@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-09-02T13:41:12.490Z",
+  "updatedAt": "2026-09-03T13:35:45.892Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-02T13:41:12.490Z",
+  "lastGoodAt": "2026-09-03T13:35:45.892Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -190,6 +190,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/summer-closing-day/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "491440a3b4d64c9b",
+      "resortId": "copper",
+      "title": "25th Anniversary September 11th Memorial Stair Climb",
+      "description": "Honor the fallen 343 FDNY firefighters that passed 25 years ago.",
+      "start": "2026-09-11",
+      "end": "2026-09-11",
+      "days": [
+        "2026-09-11"
+      ],
+      "allDay": false,
+      "timeText": "6 AM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain Fire House",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/summit-fire-ems-stair-climb/",
       "imageUrl": "",
       "recurrence": null
     }

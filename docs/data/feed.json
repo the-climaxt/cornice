@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T13:41:27.321Z",
-  "today": "2026-09-02",
+  "generatedAt": "2026-09-03T13:36:09.962Z",
+  "today": "2026-09-03",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-02T13:41:11.768Z",
+      "updatedAt": "2026-09-03T13:35:45.037Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-02T13:41:12.490Z",
-      "lastGoodAt": "2026-09-02T13:41:12.490Z",
-      "eventCount": 9
+      "updatedAt": "2026-09-03T13:35:45.892Z",
+      "lastGoodAt": "2026-09-03T13:35:45.892Z",
+      "eventCount": 10
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-02T13:41:15.795Z",
-      "lastGoodAt": "2026-09-02T13:41:15.795Z",
+      "updatedAt": "2026-09-03T13:35:50.721Z",
+      "lastGoodAt": "2026-09-03T13:35:50.721Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-02T13:41:16.211Z",
-      "lastGoodAt": "2026-09-02T13:41:16.211Z",
+      "updatedAt": "2026-09-03T13:35:51.135Z",
+      "lastGoodAt": "2026-09-03T13:35:51.135Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-02T13:41:27.319Z",
+      "updatedAt": "2026-09-03T13:36:09.960Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -765,6 +765,26 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/battle-of-the-grommets-junior-gravity-race-september-7-bike",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/trestlejuniorteam019dillonlemarr.jpg?rev=e6db843dc8ed4459a753f05a9d1d94c0?h=1667&w=2500&hash=E5F2903A765BBEA509F606F216C4F10D",
       "recurrence": "Annual"
+    },
+    {
+      "id": "491440a3b4d64c9b",
+      "resortId": "copper",
+      "title": "25th Anniversary September 11th Memorial Stair Climb",
+      "description": "Honor the fallen 343 FDNY firefighters that passed 25 years ago.",
+      "start": "2026-09-11",
+      "end": "2026-09-11",
+      "days": [
+        "2026-09-11"
+      ],
+      "allDay": false,
+      "timeText": "6 AM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain Fire House",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/summit-fire-ems-stair-climb/",
+      "imageUrl": "",
+      "recurrence": null
     },
     {
       "id": "12b16c2dbdfb8c51",
