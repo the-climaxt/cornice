@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T13:33:11.607Z",
-  "today": "2026-09-04",
+  "generatedAt": "2026-09-05T12:43:53.201Z",
+  "today": "2026-09-05",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-04T13:32:50.506Z",
+      "updatedAt": "2026-09-05T12:43:33.506Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-04T13:32:50.720Z",
-      "lastGoodAt": "2026-09-04T13:32:50.720Z",
-      "eventCount": 10
+      "updatedAt": "2026-09-05T12:43:33.800Z",
+      "lastGoodAt": "2026-09-05T12:43:33.800Z",
+      "eventCount": 9
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-04T13:32:55.941Z",
-      "lastGoodAt": "2026-09-04T13:32:55.941Z",
+      "updatedAt": "2026-09-05T12:43:38.230Z",
+      "lastGoodAt": "2026-09-05T12:43:38.230Z",
       "eventCount": 2
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-04T13:32:56.473Z",
-      "lastGoodAt": "2026-09-04T13:32:56.473Z",
+      "updatedAt": "2026-09-05T12:43:38.860Z",
+      "lastGoodAt": "2026-09-05T12:43:38.860Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-04T13:33:11.604Z",
+      "updatedAt": "2026-09-05T12:43:53.197Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -430,48 +430,6 @@
       "recurrence": "Weekly"
     },
     {
-      "id": "24c3a61144c34f85",
-      "resortId": "copper",
-      "title": "Jib Jam #2 presented by YETI",
-      "description": "No bibs. No judges. Just good times.",
-      "start": "2026-08-28",
-      "end": "2026-08-28",
-      "days": [
-        "2026-08-28"
-      ],
-      "allDay": false,
-      "timeText": "12:00 - 2:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Hike Park",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/jib-jam-2/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "0557954ff53759d5",
-      "resortId": "copper",
-      "title": "Union Peak Festival",
-      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
-      "start": "2026-08-28",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "841f4ae110970999",
       "resortId": "copper",
       "title": "Summit UP Run presented by Mammut",
@@ -488,6 +446,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-summit-up-run/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0557954ff53759d5",
+      "resortId": "copper",
+      "title": "Union Peak Festival",
+      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-29",
+        "2026-08-30"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
       "imageUrl": "",
       "recurrence": null
     },
