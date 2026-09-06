@@ -1,56 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-09-05T12:43:33.800Z",
+  "updatedAt": "2026-09-06T12:53:09.161Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-05T12:43:33.800Z",
+  "lastGoodAt": "2026-09-06T12:53:09.161Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "841f4ae110970999",
-      "resortId": "copper",
-      "title": "Summit UP Run presented by Mammut",
-      "description": "5k trail run—starting at 11,000'—to jumpstart your Saturday!",
-      "start": "2026-08-29",
-      "end": "2026-08-29",
-      "days": [
-        "2026-08-29"
-      ],
-      "allDay": false,
-      "timeText": "9:00 AM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-summit-up-run/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "0557954ff53759d5",
-      "resortId": "copper",
-      "title": "Union Peak Festival",
-      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
-      "start": "2026-08-28",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-29",
-        "2026-08-30"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "101c76f46d5fc9ba",
       "resortId": "copper",
@@ -68,6 +27,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august30/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0557954ff53759d5",
+      "resortId": "copper",
+      "title": "Union Peak Festival",
+      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
       "imageUrl": "",
       "recurrence": null
     },

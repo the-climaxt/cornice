@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-09-05T12:43:38.230Z",
+  "updatedAt": "2026-09-06T12:53:11.789Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-05T12:43:38.230Z",
+  "lastGoodAt": "2026-09-06T12:53:11.789Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "cfeb9c9ca3a5b74c",
-      "resortId": "arapahoe-basin",
-      "title": "Cirque Series",
-      "description": "",
-      "start": "2026-09-05",
-      "end": "2026-09-05",
-      "days": [
-        "2026-09-05"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/cirque-series/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "7039675a00b759eb",
       "resortId": "arapahoe-basin",

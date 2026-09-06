@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T12:43:53.201Z",
-  "today": "2026-09-05",
+  "generatedAt": "2026-09-06T12:53:20.071Z",
+  "today": "2026-09-06",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-05T12:43:33.506Z",
+      "updatedAt": "2026-09-06T12:53:08.793Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-05T12:43:33.800Z",
-      "lastGoodAt": "2026-09-05T12:43:33.800Z",
-      "eventCount": 9
+      "updatedAt": "2026-09-06T12:53:09.161Z",
+      "lastGoodAt": "2026-09-06T12:53:09.161Z",
+      "eventCount": 8
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-05T12:43:38.230Z",
-      "lastGoodAt": "2026-09-05T12:43:38.230Z",
-      "eventCount": 2
+      "updatedAt": "2026-09-06T12:53:11.789Z",
+      "lastGoodAt": "2026-09-06T12:53:11.789Z",
+      "eventCount": 1
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-05T12:43:38.860Z",
-      "lastGoodAt": "2026-09-05T12:43:38.860Z",
+      "updatedAt": "2026-09-06T12:53:12.158Z",
+      "lastGoodAt": "2026-09-06T12:53:12.158Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-05T12:43:53.197Z",
+      "updatedAt": "2026-09-06T12:53:20.068Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -430,47 +430,6 @@
       "recurrence": "Weekly"
     },
     {
-      "id": "841f4ae110970999",
-      "resortId": "copper",
-      "title": "Summit UP Run presented by Mammut",
-      "description": "5k trail run—starting at 11,000'—to jumpstart your Saturday!",
-      "start": "2026-08-29",
-      "end": "2026-08-29",
-      "days": [
-        "2026-08-29"
-      ],
-      "allDay": false,
-      "timeText": "9:00 AM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-summit-up-run/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "0557954ff53759d5",
-      "resortId": "copper",
-      "title": "Union Peak Festival",
-      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
-      "start": "2026-08-28",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-29",
-        "2026-08-30"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "b6ce5a545e5a378a",
       "resortId": "winter-park",
       "title": "Summer Music Series presented by Rendezvous",
@@ -509,6 +468,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august30/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0557954ff53759d5",
+      "resortId": "copper",
+      "title": "Union Peak Festival",
+      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "days": [
+        "2026-08-30"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -553,26 +532,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-super-downhill-2026",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer-2020/dillon-emarr-trestle-bike-park-chris-wellhausen-75.jfif?rev=0e429fa2dbf342e6af10975e028e5149?h=661&w=1176&hash=D536258C11002B50D5D6877664AAE080",
       "recurrence": "Annual"
-    },
-    {
-      "id": "cfeb9c9ca3a5b74c",
-      "resortId": "arapahoe-basin",
-      "title": "Cirque Series",
-      "description": "",
-      "start": "2026-09-05",
-      "end": "2026-09-05",
-      "days": [
-        "2026-09-05"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/cirque-series/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "8a7f6a237f99d44b",
