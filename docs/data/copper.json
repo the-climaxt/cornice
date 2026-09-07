@@ -1,75 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-09-06T12:53:09.161Z",
+  "updatedAt": "2026-09-07T15:03:48.875Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-06T12:53:09.161Z",
+  "lastGoodAt": "2026-09-07T15:03:48.875Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "101c76f46d5fc9ba",
-      "resortId": "copper",
-      "title": "Mountain Mixology",
-      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
-      "start": "2026-08-30",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-30"
-      ],
-      "allDay": false,
-      "timeText": "2:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Aerie",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-august30/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "0557954ff53759d5",
-      "resortId": "copper",
-      "title": "Union Peak Festival",
-      "description": "A 3-day mountain festival celebrating community, art and sport. Free live music, athletic pursuits and more!",
-      "start": "2026-08-28",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-30"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-festival-26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "92c719bef7f50658",
-      "resortId": "copper",
-      "title": "Union Peak Yoga and Breakfast presented by Subaru",
-      "description": "High altitude yoga and breakfast at Aerie!",
-      "start": "2026-08-30",
-      "end": "2026-08-30",
-      "days": [
-        "2026-08-30"
-      ],
-      "allDay": false,
-      "timeText": "8:30 AM",
-      "locationType": "on-mountain",
-      "venue": "Aerie, Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/union-peak-yoga-and-breakfast/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "8a7f6a237f99d44b",
       "resortId": "copper",
