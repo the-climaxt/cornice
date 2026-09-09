@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T13:38:43.983Z",
-  "today": "2026-09-08",
+  "generatedAt": "2026-09-09T13:44:17.987Z",
+  "today": "2026-09-09",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-08T13:38:20.182Z",
+      "updatedAt": "2026-09-09T13:43:55.017Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-08T13:38:20.810Z",
-      "lastGoodAt": "2026-09-08T13:38:20.810Z",
-      "eventCount": 5
+      "updatedAt": "2026-09-09T13:43:55.343Z",
+      "lastGoodAt": "2026-09-09T13:43:55.343Z",
+      "eventCount": 6
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-08T13:38:26.397Z",
-      "lastGoodAt": "2026-09-08T13:38:26.397Z",
+      "updatedAt": "2026-09-09T13:44:00.579Z",
+      "lastGoodAt": "2026-09-09T13:44:00.579Z",
       "eventCount": 1
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-08T13:38:27.061Z",
-      "lastGoodAt": "2026-09-08T13:38:27.061Z",
+      "updatedAt": "2026-09-09T13:44:01.158Z",
+      "lastGoodAt": "2026-09-09T13:44:01.158Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-08T13:38:43.981Z",
+      "updatedAt": "2026-09-09T13:44:17.984Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -851,6 +851,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/OutdoorGearSale2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "af5001d77f2224b1",
+      "resortId": "copper",
+      "title": "26/27 Opening Day",
+      "description": "Drop in with us on Friday, November 6th to celebrate the start of the 26/27 winter season!",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "days": [
+        "2026-11-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
       "imageUrl": "",
       "recurrence": null
     }

@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-09-08T13:38:20.810Z",
+  "updatedAt": "2026-09-09T13:43:55.343Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-08T13:38:20.810Z",
+  "lastGoodAt": "2026-09-09T13:43:55.343Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -108,6 +108,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/summit-fire-ems-stair-climb/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "af5001d77f2224b1",
+      "resortId": "copper",
+      "title": "26/27 Opening Day",
+      "description": "Drop in with us on Friday, November 6th to celebrate the start of the 26/27 winter season!",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "days": [
+        "2026-11-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
       "imageUrl": "",
       "recurrence": null
     }
