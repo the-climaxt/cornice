@@ -1,7 +1,7 @@
 {
   "resort": "winter-park",
   "name": "Winter Park",
-  "updatedAt": "2026-09-10T13:36:30.555Z",
+  "updatedAt": "2026-09-11T13:35:00.395Z",
   "status": "stale",
   "lastGoodAt": "2026-08-09T04:55:44.126Z",
   "lastError": "bot-protection challenge returned instead of page content (112290 bytes) — needs a real browser",
