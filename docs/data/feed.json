@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T12:52:18.330Z",
-  "today": "2026-09-12",
+  "generatedAt": "2026-09-13T13:48:29.676Z",
+  "today": "2026-09-13",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-12T12:51:59.289Z",
+      "updatedAt": "2026-09-13T13:48:13.053Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-12T12:51:59.590Z",
-      "lastGoodAt": "2026-09-12T12:51:59.590Z",
-      "eventCount": 6
+      "updatedAt": "2026-09-13T13:48:13.315Z",
+      "lastGoodAt": "2026-09-13T13:48:13.315Z",
+      "eventCount": 5
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-12T12:52:04.061Z",
-      "lastGoodAt": "2026-09-12T12:52:04.061Z",
+      "updatedAt": "2026-09-13T13:48:17.046Z",
+      "lastGoodAt": "2026-09-13T13:48:17.046Z",
       "eventCount": 1
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-12T12:52:04.653Z",
-      "lastGoodAt": "2026-09-12T12:52:04.653Z",
+      "updatedAt": "2026-09-13T13:48:17.552Z",
+      "lastGoodAt": "2026-09-13T13:48:17.552Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-12T12:52:18.328Z",
+      "updatedAt": "2026-09-13T13:48:29.673Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -474,47 +474,6 @@
       "recurrence": "Annual"
     },
     {
-      "id": "8a7f6a237f99d44b",
-      "resortId": "copper",
-      "title": "Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "This summer, ride, bike, or hike up to the Backcountry Brew Pub presented by Play Forever Foundation and Odell Brewing Co.!",
-      "start": "2026-09-05",
-      "end": "2026-09-05",
-      "days": [
-        "2026-09-05"
-      ],
-      "allDay": false,
-      "timeText": "12:00 - 3:00 PM",
-      "locationType": "on-mountain",
-      "venue": "T-Rex Grill",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/backcountry-brew-pub-sept/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "e27f8231028cb35c",
-      "resortId": "copper",
-      "title": "Mountain Rewind: Throwbacks",
-      "description": "Join us over Labor Day weekend for free live music, featuring your favorite throwbacks!",
-      "start": "2026-09-05",
-      "end": "2026-09-06",
-      "days": [
-        "2026-09-05",
-        "2026-09-06"
-      ],
-      "allDay": false,
-      "timeText": "3:30 PM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-rewind/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "1b8f15afbd3b49fe",
       "resortId": "winter-park",
       "title": "Labor Day Weekend Bike Sale",
@@ -577,6 +536,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-sept6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "e27f8231028cb35c",
+      "resortId": "copper",
+      "title": "Mountain Rewind: Throwbacks",
+      "description": "Join us over Labor Day weekend for free live music, featuring your favorite throwbacks!",
+      "start": "2026-09-05",
+      "end": "2026-09-06",
+      "days": [
+        "2026-09-06"
+      ],
+      "allDay": false,
+      "timeText": "3:30 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-rewind/",
       "imageUrl": "",
       "recurrence": null
     },
