@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T13:48:29.676Z",
-  "today": "2026-09-13",
+  "generatedAt": "2026-09-14T15:54:06.446Z",
+  "today": "2026-09-14",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-13T13:48:13.053Z",
+      "updatedAt": "2026-09-14T15:53:39.120Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-13T13:48:13.315Z",
-      "lastGoodAt": "2026-09-13T13:48:13.315Z",
-      "eventCount": 5
+      "updatedAt": "2026-09-14T15:53:39.520Z",
+      "lastGoodAt": "2026-09-14T15:53:39.520Z",
+      "eventCount": 3
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-13T13:48:17.046Z",
-      "lastGoodAt": "2026-09-13T13:48:17.046Z",
+      "updatedAt": "2026-09-14T15:53:45.280Z",
+      "lastGoodAt": "2026-09-14T15:53:45.280Z",
       "eventCount": 1
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-13T13:48:17.552Z",
-      "lastGoodAt": "2026-09-13T13:48:17.552Z",
+      "updatedAt": "2026-09-14T15:53:45.884Z",
+      "lastGoodAt": "2026-09-14T15:53:45.884Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-13T13:48:29.673Z",
+      "updatedAt": "2026-09-14T15:54:06.445Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -518,46 +518,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-downhill-2-2026",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer-2020/dillon-emarr-trestle-bike-park-chris-wellhausen-75.jfif?rev=0e429fa2dbf342e6af10975e028e5149?h=661&w=1176&hash=D536258C11002B50D5D6877664AAE080",
       "recurrence": "Annual"
-    },
-    {
-      "id": "98a024cc8e09ca1e",
-      "resortId": "copper",
-      "title": "Mountain Mixology",
-      "description": "Mountain-inspired mixology with freshly foraged ingredients. Enjoy with Ten Mile views at Aerie.",
-      "start": "2026-09-06",
-      "end": "2026-09-06",
-      "days": [
-        "2026-09-06"
-      ],
-      "allDay": false,
-      "timeText": "2:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Aerie",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-mixology-sept6/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "e27f8231028cb35c",
-      "resortId": "copper",
-      "title": "Mountain Rewind: Throwbacks",
-      "description": "Join us over Labor Day weekend for free live music, featuring your favorite throwbacks!",
-      "start": "2026-09-05",
-      "end": "2026-09-06",
-      "days": [
-        "2026-09-06"
-      ],
-      "allDay": false,
-      "timeText": "3:30 PM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/mountain-rewind/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "0ae451b8a03a7b23",
