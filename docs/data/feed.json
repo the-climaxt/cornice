@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T15:54:06.446Z",
-  "today": "2026-09-14",
+  "generatedAt": "2026-09-15T14:20:30.957Z",
+  "today": "2026-09-15",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-14T15:53:39.120Z",
+      "updatedAt": "2026-09-15T14:20:06.600Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-14T15:53:39.520Z",
-      "lastGoodAt": "2026-09-14T15:53:39.520Z",
-      "eventCount": 3
+      "updatedAt": "2026-09-15T14:20:07.506Z",
+      "lastGoodAt": "2026-09-15T14:20:07.506Z",
+      "eventCount": 2
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-14T15:53:45.280Z",
-      "lastGoodAt": "2026-09-14T15:53:45.280Z",
+      "updatedAt": "2026-09-15T14:20:13.138Z",
+      "lastGoodAt": "2026-09-15T14:20:13.138Z",
       "eventCount": 1
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-14T15:53:45.884Z",
-      "lastGoodAt": "2026-09-14T15:53:45.884Z",
+      "updatedAt": "2026-09-15T14:20:13.660Z",
+      "lastGoodAt": "2026-09-15T14:20:13.660Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-14T15:54:06.445Z",
+      "updatedAt": "2026-09-15T14:20:30.955Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -540,26 +540,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/trestle-gravity-series-air-downhill-2-2026",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2019-09-24-wp-trestle-cfrey-02595-dng.jpg?rev=eaed14b0da27453599cc03fa2ab35989?h=661&w=1176&hash=BE5A38DC4B3AE751EC96E8550657C744",
       "recurrence": "Annual"
-    },
-    {
-      "id": "ae2b6a10b1607196",
-      "resortId": "copper",
-      "title": "Summer Closing Day",
-      "description": "Summer activities and programs will close for the season after Sept. 7.",
-      "start": "2026-09-07",
-      "end": "2026-09-07",
-      "days": [
-        "2026-09-07"
-      ],
-      "allDay": false,
-      "timeText": "10:00 AM - 4:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/summer-closing-day/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "9efeacc180ec9696",
