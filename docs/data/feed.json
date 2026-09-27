@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T13:45:40.427Z",
-  "today": "2026-09-26",
+  "generatedAt": "2026-09-27T14:42:07.052Z",
+  "today": "2026-09-27",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-26T13:45:16.842Z",
+      "updatedAt": "2026-09-27T14:41:56.502Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-26T13:45:17.920Z",
-      "lastGoodAt": "2026-09-26T13:45:17.920Z",
+      "updatedAt": "2026-09-27T14:41:56.943Z",
+      "lastGoodAt": "2026-09-27T14:41:56.943Z",
       "eventCount": 1
     },
     {
@@ -61,7 +61,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-26T13:45:23.330Z",
+      "updatedAt": "2026-09-27T14:41:59.136Z",
       "lastGoodAt": "2026-09-20T13:35:21.327Z",
       "eventCount": 1
     },
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-26T13:45:23.767Z",
-      "lastGoodAt": "2026-09-26T13:45:23.767Z",
-      "eventCount": 3
+      "updatedAt": "2026-09-27T14:41:59.325Z",
+      "lastGoodAt": "2026-09-27T14:41:59.325Z",
+      "eventCount": 2
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-26T13:45:40.425Z",
+      "updatedAt": "2026-09-27T14:42:07.050Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -645,26 +645,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/oktoberfest/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "1e941dab5252ef9d",
-      "resortId": "eldora",
-      "title": "Fall Fest Day 1: Mountain Clean-Up",
-      "description": "Help Keep Eldora Beautiful on Day 1 of Fall Fest",
-      "start": "2026-09-19",
-      "end": "2026-09-19",
-      "days": [
-        "2026-09-19"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Eldora Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-CleanUp/",
       "imageUrl": "",
       "recurrence": null
     },

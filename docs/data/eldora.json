@@ -1,35 +1,15 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-09-26T13:45:23.767Z",
+  "updatedAt": "2026-09-27T14:41:59.325Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-26T13:45:23.767Z",
+  "lastGoodAt": "2026-09-27T14:41:59.325Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "1e941dab5252ef9d",
-      "resortId": "eldora",
-      "title": "Fall Fest Day 1: Mountain Clean-Up",
-      "description": "Help Keep Eldora Beautiful on Day 1 of Fall Fest",
-      "start": "2026-09-19",
-      "end": "2026-09-19",
-      "days": [
-        "2026-09-19"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Eldora Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-CleanUp/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "9502407332975037",
       "resortId": "eldora",
