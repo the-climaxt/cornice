@@ -1,35 +1,15 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-09-27T14:41:59.325Z",
+  "updatedAt": "2026-09-28T17:39:37.179Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-27T14:41:59.325Z",
+  "lastGoodAt": "2026-09-28T17:39:37.179Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "9502407332975037",
-      "resortId": "eldora",
-      "title": "Fall Fest Day 2: AlpenRun 5k/10k",
-      "description": "Come Race with Us on Day 2 of Fall Fest",
-      "start": "2026-09-20",
-      "end": "2026-09-20",
-      "days": [
-        "2026-09-20"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Eldora Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-AlpenRun/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "54b0b3d3bae18654",
       "resortId": "eldora",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T14:42:07.052Z",
-  "today": "2026-09-27",
+  "generatedAt": "2026-09-28T17:39:47.636Z",
+  "today": "2026-09-28",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-27T14:41:56.502Z",
+      "updatedAt": "2026-09-28T17:39:33.340Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-27T14:41:56.943Z",
-      "lastGoodAt": "2026-09-27T14:41:56.943Z",
+      "updatedAt": "2026-09-28T17:39:33.831Z",
+      "lastGoodAt": "2026-09-28T17:39:33.831Z",
       "eventCount": 1
     },
     {
@@ -61,7 +61,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-27T14:41:59.136Z",
+      "updatedAt": "2026-09-28T17:39:37.001Z",
       "lastGoodAt": "2026-09-20T13:35:21.327Z",
       "eventCount": 1
     },
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-27T14:41:59.325Z",
-      "lastGoodAt": "2026-09-27T14:41:59.325Z",
-      "eventCount": 2
+      "updatedAt": "2026-09-28T17:39:37.179Z",
+      "lastGoodAt": "2026-09-28T17:39:37.179Z",
+      "eventCount": 1
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-27T14:42:07.050Z",
+      "updatedAt": "2026-09-28T17:39:47.634Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -669,26 +669,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/rocky-mountain-wine-fest-bike-sale",
       "imageUrl": "https://www.winterparkresort.com/-/media/widen/winter-park/brand-assets/summer/2017-08-25-wp-trestle-bike-park-0991-chris-wellhausen-cmyk-tif.jpg?rev=fc91a131534c47ec82e769e5202e9f82?h=1350&w=2400&hash=CA281AE7EE371958F926A9EAD40D4686",
       "recurrence": "Special Event"
-    },
-    {
-      "id": "9502407332975037",
-      "resortId": "eldora",
-      "title": "Fall Fest Day 2: AlpenRun 5k/10k",
-      "description": "Come Race with Us on Day 2 of Fall Fest",
-      "start": "2026-09-20",
-      "end": "2026-09-20",
-      "days": [
-        "2026-09-20"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Eldora Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/FallFest26-AlpenRun/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "35e36c4ebd72a691",
