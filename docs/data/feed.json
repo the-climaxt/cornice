@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T17:39:47.636Z",
-  "today": "2026-09-28",
+  "generatedAt": "2026-09-29T15:52:35.302Z",
+  "today": "2026-09-29",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-28T17:39:33.340Z",
+      "updatedAt": "2026-09-29T15:52:20.213Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-28T17:39:33.831Z",
-      "lastGoodAt": "2026-09-28T17:39:33.831Z",
+      "updatedAt": "2026-09-29T15:52:20.730Z",
+      "lastGoodAt": "2026-09-29T15:52:20.730Z",
       "eventCount": 1
     },
     {
@@ -60,10 +60,10 @@
         "openingDay": null,
         "closingDay": null
       },
-      "status": "stale",
-      "updatedAt": "2026-09-28T17:39:37.001Z",
-      "lastGoodAt": "2026-09-20T13:35:21.327Z",
-      "eventCount": 1
+      "status": "ok",
+      "updatedAt": "2026-09-29T15:52:24.157Z",
+      "lastGoodAt": "2026-09-29T15:52:24.157Z",
+      "eventCount": 32
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-28T17:39:37.179Z",
-      "lastGoodAt": "2026-09-28T17:39:37.179Z",
+      "updatedAt": "2026-09-29T15:52:24.393Z",
+      "lastGoodAt": "2026-09-29T15:52:24.393Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-28T17:39:47.634Z",
+      "updatedAt": "2026-09-29T15:52:35.301Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -628,27 +628,6 @@
       "recurrence": "Special Event"
     },
     {
-      "id": "7039675a00b759eb",
-      "resortId": "arapahoe-basin",
-      "title": "Oktoberfest",
-      "description": "",
-      "start": "2026-09-19",
-      "end": "2026-09-20",
-      "days": [
-        "2026-09-19",
-        "2026-09-20"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/oktoberfest/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "e6364b8002689855",
       "resortId": "winter-park",
       "title": "Trestle Bike Sale",
@@ -714,6 +693,26 @@
       "recurrence": null
     },
     {
+      "id": "0f02cc50807bde2a",
+      "resortId": "arapahoe-basin",
+      "title": "Halloween Party at the 6th Alley",
+      "description": "",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "days": [
+        "2026-10-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/halloween/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "af5001d77f2224b1",
       "resortId": "copper",
       "title": "26/27 Opening Day",
@@ -730,6 +729,631 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "48b429e97b9e6442",
+      "resortId": "arapahoe-basin",
+      "title": "Don Fuego at BML",
+      "description": "",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "days": [
+        "2026-11-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bml-dj/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "69c7205323c53cf1",
+      "resortId": "arapahoe-basin",
+      "title": "Rise N' Shine Rando Series #1 presented by Mammut",
+      "description": "",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "days": [
+        "2026-11-10"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-1/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "be6d20e77badcd8d",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill & Chill - Breakfast presented by Smartwool",
+      "description": "",
+      "start": "2026-11-13",
+      "end": "2026-11-13",
+      "days": [
+        "2026-11-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "24548acb544185f3",
+      "resortId": "arapahoe-basin",
+      "title": "Don Fuego at BML",
+      "description": "",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "days": [
+        "2026-11-14"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bml-dj/1",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "1489b3b4ee170308",
+      "resortId": "arapahoe-basin",
+      "title": "Don Fuego at BML",
+      "description": "",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "days": [
+        "2026-11-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bml-dj/2",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "bb8d4d9e8bbffc5c",
+      "resortId": "arapahoe-basin",
+      "title": "Rise N' Shine Rando Series #2 presented by Mammut",
+      "description": "",
+      "start": "2026-11-24",
+      "end": "2026-11-24",
+      "days": [
+        "2026-11-24"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-2/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "49c7a9fd1b3341ec",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill Turkey Trot",
+      "description": "",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "days": [
+        "2026-11-26"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-turkey-trot/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d5fdb23704476706",
+      "resortId": "arapahoe-basin",
+      "title": "Don Fuego at BML",
+      "description": "",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "days": [
+        "2026-11-28"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/bml-dj/3",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b4be143593aef5bc",
+      "resortId": "arapahoe-basin",
+      "title": "Arapahoe Basin's 80th Anniversary Weekend",
+      "description": "",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "days": [
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/new-event-139/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "e7323120186362dc",
+      "resortId": "arapahoe-basin",
+      "title": "Rise N' Shine Rando Series #3 presented by Mammut",
+      "description": "",
+      "start": "2026-12-08",
+      "end": "2026-12-08",
+      "days": [
+        "2026-12-08"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-3/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "977aebe43f981daa",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill & Chill - Breakfast presented by Smartwool",
+      "description": "",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "days": [
+        "2026-12-11"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-3/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "09915a424a500b25",
+      "resortId": "arapahoe-basin",
+      "title": "Rise N' Shine Rando Series #4 presented by Mammut",
+      "description": "",
+      "start": "2026-12-22",
+      "end": "2026-12-22",
+      "days": [
+        "2026-12-22"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-4/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "86550dc8bf10ec06",
+      "resortId": "arapahoe-basin",
+      "title": "Santa at A-Basin",
+      "description": "",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-24"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/santa/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "f09a7a2279851055",
+      "resortId": "arapahoe-basin",
+      "title": "Moonlight Dinner Series - New Year's Eve Celebration",
+      "description": "",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-new-years/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "ac04d7f5d9ce3e6f",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill & Chill - Breakfast presented by Smartwool",
+      "description": "",
+      "start": "2027-01-08",
+      "end": "2027-01-08",
+      "days": [
+        "2027-01-08"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-smartwool/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "78736d8631ad2657",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Beer Pairing",
+      "description": "",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "days": [
+        "2027-01-23"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "83ec4f442698bc89",
+      "resortId": "arapahoe-basin",
+      "title": "Moonlight Dinner Series - A Night in Italy",
+      "description": "",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "days": [
+        "2027-01-23"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-Italy/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "5272c2549f7557ec",
+      "resortId": "arapahoe-basin",
+      "title": "A-Basin Safety Weekend",
+      "description": "",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "days": [
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/a-basin-safety-weekend/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0c6be49be0f5c8bc",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Wine Pairing Dinner",
+      "description": "",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "days": [
+        "2027-02-12"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-wine/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "fa6ea5ae7b7529a9",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill & Chill - Breakfast presented by Smartwool",
+      "description": "",
+      "start": "2027-02-12",
+      "end": "2027-02-12",
+      "days": [
+        "2027-02-12"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-4/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "30a64a0375383968",
+      "resortId": "arapahoe-basin",
+      "title": "Backcountry Basecamp 2027",
+      "description": "",
+      "start": "2027-02-13",
+      "end": "2027-02-14",
+      "days": [
+        "2027-02-13",
+        "2027-02-14"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/backcounrty/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "46edd7c7e09a286f",
+      "resortId": "arapahoe-basin",
+      "title": "Moonlight Dinner Series - Central America",
+      "description": "",
+      "start": "2027-02-20",
+      "end": "2027-02-20",
+      "days": [
+        "2027-02-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/central-america/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8ff585ff12f406d9",
+      "resortId": "arapahoe-basin",
+      "title": "20th Annual Fire Hose Relay",
+      "description": "",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "days": [
+        "2027-02-26"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/fire-hose/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "a8957c4087611751",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Tequila Pairing",
+      "description": "",
+      "start": "2027-03-12",
+      "end": "2027-03-12",
+      "days": [
+        "2027-03-12"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-tequila/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "19f49732b7ea5ff7",
+      "resortId": "arapahoe-basin",
+      "title": "Moonlight Dinner Series - Western",
+      "description": "",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "days": [
+        "2027-03-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-western/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "a09b47dcab87f49f",
+      "resortId": "arapahoe-basin",
+      "title": "Easter at Arapahoe Basin",
+      "description": "",
+      "start": "2027-03-28",
+      "end": "2027-03-28",
+      "days": [
+        "2027-03-28"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/easter/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "53c27646a4802857",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Supper Club - Prime Rib Night",
+      "description": "",
+      "start": "2027-04-09",
+      "end": "2027-04-09",
+      "days": [
+        "2027-04-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-prime-3/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "9cbfcae2786b9407",
+      "resortId": "arapahoe-basin",
+      "title": "38th Annual Enduro & Après Party",
+      "description": "",
+      "start": "2027-04-14",
+      "end": "2027-04-14",
+      "days": [
+        "2027-04-14"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/38-enduro--aprs-party/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "bf3675dc1bc75e3b",
+      "resortId": "arapahoe-basin",
+      "title": "Moonlight Dinner Series - Luau",
+      "description": "",
+      "start": "2027-04-17",
+      "end": "2027-04-17",
+      "days": [
+        "2027-04-17"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-luau/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "80a93021ad910f80",
+      "resortId": "arapahoe-basin",
+      "title": "Skinners Progressive Dinner",
+      "description": "",
+      "start": "2027-05-01",
+      "end": "2027-05-01",
+      "days": [
+        "2027-05-01"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/progressive-dinner/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "189180c1dd1592f1",
+      "resortId": "arapahoe-basin",
+      "title": "Gay Basin",
+      "description": "",
+      "start": "2027-05-22",
+      "end": "2027-05-23",
+      "days": [
+        "2027-05-22",
+        "2027-05-23"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/gay-basin/",
       "imageUrl": "",
       "recurrence": null
     }
