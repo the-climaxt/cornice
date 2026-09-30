@@ -1,9 +1,9 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-09-29T15:52:24.393Z",
+  "updatedAt": "2026-09-30T15:55:39.034Z",
   "status": "ok",
-  "lastGoodAt": "2026-09-29T15:52:24.393Z",
+  "lastGoodAt": "2026-09-30T15:55:39.034Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -28,6 +28,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/OutdoorGearSale2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "510e47fb357dffdb",
+      "resortId": "eldora",
+      "title": "Together We Remember 2026: Yoga Fundraiser",
+      "description": "Elevate your practice at Eldora",
+      "start": "2026-10-11",
+      "end": "2026-10-11",
+      "days": [
+        "2026-10-11"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Indian Peaks Lodge - Upstairs",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/TogetherWeRemember26/",
       "imageUrl": "",
       "recurrence": null
     }

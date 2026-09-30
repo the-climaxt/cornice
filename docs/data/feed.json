@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T15:52:35.302Z",
-  "today": "2026-09-29",
+  "generatedAt": "2026-09-30T15:56:04.497Z",
+  "today": "2026-09-30",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-09-29T15:52:20.213Z",
+      "updatedAt": "2026-09-30T15:55:32.857Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-29T15:52:20.730Z",
-      "lastGoodAt": "2026-09-29T15:52:20.730Z",
+      "updatedAt": "2026-09-30T15:55:33.318Z",
+      "lastGoodAt": "2026-09-30T15:55:33.318Z",
       "eventCount": 1
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-29T15:52:24.157Z",
-      "lastGoodAt": "2026-09-29T15:52:24.157Z",
+      "updatedAt": "2026-09-30T15:55:38.384Z",
+      "lastGoodAt": "2026-09-30T15:55:38.384Z",
       "eventCount": 32
     },
     {
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-09-29T15:52:24.393Z",
-      "lastGoodAt": "2026-09-29T15:52:24.393Z",
-      "eventCount": 1
+      "updatedAt": "2026-09-30T15:55:39.034Z",
+      "lastGoodAt": "2026-09-30T15:55:39.034Z",
+      "eventCount": 2
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-09-29T15:52:35.301Z",
+      "updatedAt": "2026-09-30T15:56:04.495Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -689,6 +689,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/OutdoorGearSale2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "510e47fb357dffdb",
+      "resortId": "eldora",
+      "title": "Together We Remember 2026: Yoga Fundraiser",
+      "description": "Elevate your practice at Eldora",
+      "start": "2026-10-11",
+      "end": "2026-10-11",
+      "days": [
+        "2026-10-11"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Indian Peaks Lodge - Upstairs",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/TogetherWeRemember26/",
       "imageUrl": "",
       "recurrence": null
     },
