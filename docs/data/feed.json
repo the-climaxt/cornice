@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T15:50:14.392Z",
-  "today": "2026-10-02",
+  "generatedAt": "2026-10-03T14:19:08.170Z",
+  "today": "2026-10-03",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-02T15:49:51.961Z",
+      "updatedAt": "2026-10-03T14:18:56.534Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-02T15:49:52.891Z",
-      "lastGoodAt": "2026-10-02T15:49:52.891Z",
+      "updatedAt": "2026-10-03T14:18:56.970Z",
+      "lastGoodAt": "2026-10-03T14:18:56.970Z",
       "eventCount": 1
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-02T15:49:56.658Z",
-      "lastGoodAt": "2026-10-02T15:49:56.658Z",
+      "updatedAt": "2026-10-03T14:18:59.551Z",
+      "lastGoodAt": "2026-10-03T14:18:59.551Z",
       "eventCount": 32
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-02T15:49:56.931Z",
-      "lastGoodAt": "2026-10-02T15:49:56.931Z",
+      "updatedAt": "2026-10-03T14:19:00.017Z",
+      "lastGoodAt": "2026-10-03T14:19:00.017Z",
       "eventCount": 2
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-02T15:50:14.390Z",
+      "updatedAt": "2026-10-03T14:19:08.168Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
