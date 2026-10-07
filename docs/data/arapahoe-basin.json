@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-06T15:57:43.054Z",
+  "updatedAt": "2026-10-07T16:29:23.000Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-06T15:57:43.054Z",
+  "lastGoodAt": "2026-10-07T16:29:23.000Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -209,6 +209,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/new-event-139/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "9bbbd56b9c552b45",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Dinner",
+      "description": "",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "days": [
+        "2026-12-05"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/80th-dinner/",
       "imageUrl": "",
       "recurrence": null
     },
