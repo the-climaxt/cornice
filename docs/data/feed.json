@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T16:13:30.324Z",
-  "today": "2026-10-09",
+  "generatedAt": "2026-10-10T15:23:19.313Z",
+  "today": "2026-10-10",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-09T16:13:17.599Z",
+      "updatedAt": "2026-10-10T15:23:07.465Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-09T16:13:18.146Z",
-      "lastGoodAt": "2026-10-09T16:13:18.146Z",
+      "updatedAt": "2026-10-10T15:23:07.782Z",
+      "lastGoodAt": "2026-10-10T15:23:07.782Z",
       "eventCount": 1
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-09T16:13:20.901Z",
-      "lastGoodAt": "2026-10-09T16:13:20.901Z",
+      "updatedAt": "2026-10-10T15:23:10.242Z",
+      "lastGoodAt": "2026-10-10T15:23:10.242Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-09T16:13:21.209Z",
-      "lastGoodAt": "2026-10-09T16:13:21.209Z",
+      "updatedAt": "2026-10-10T15:23:10.499Z",
+      "lastGoodAt": "2026-10-10T15:23:10.499Z",
       "eventCount": 2
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-09T16:13:30.322Z",
+      "updatedAt": "2026-10-10T15:23:19.311Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -768,7 +768,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -828,7 +828,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/1",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/1",
       "imageUrl": "",
       "recurrence": null
     },
@@ -848,7 +848,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/2",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/2",
       "imageUrl": "",
       "recurrence": null
     },
@@ -908,7 +908,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/3",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/3",
       "imageUrl": "",
       "recurrence": null
     },

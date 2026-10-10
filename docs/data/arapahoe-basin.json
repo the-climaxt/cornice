@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-09T16:13:20.901Z",
+  "updatedAt": "2026-10-10T15:23:10.242Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-09T16:13:20.901Z",
+  "lastGoodAt": "2026-10-10T15:23:10.242Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -46,7 +46,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -106,7 +106,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/1",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/1",
       "imageUrl": "",
       "recurrence": null
     },
@@ -126,7 +126,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/2",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/2",
       "imageUrl": "",
       "recurrence": null
     },
@@ -186,7 +186,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/bml-dj/3",
+      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/3",
       "imageUrl": "",
       "recurrence": null
     },
