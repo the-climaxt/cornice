@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-11T15:41:39.899Z",
+  "updatedAt": "2026-10-12T19:03:41.984Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-11T15:41:39.899Z",
+  "lastGoodAt": "2026-10-12T19:03:41.984Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -27,6 +27,110 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "2efdfda4dad7f387",
+      "resortId": "copper",
+      "title": "Snowsation",
+      "description": "Dance for snow with great music, games, and more!",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "days": [
+        "2026-11-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/snowsation/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "ad3bf71128cd1fe7",
+      "resortId": "copper",
+      "title": "Stifel Copper Cup",
+      "description": "The world’s top men's alpine skiers will race in an Audi FIS World Cup event at The Athlete's Mountain.",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "days": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/stifel-copper-cup/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "9c6ef91bba76c55f",
+      "resortId": "copper",
+      "title": "Toyota U.S. Grand Prix",
+      "description": "The world's best athletes debut their latest tricks at the second North American halfpipe event of the season.",
+      "start": "2026-12-17",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/grand-prix/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "40c4767f46a99117",
+      "resortId": "copper",
+      "title": "Holiday Celebration",
+      "description": "Celebrate the holiday season with an on-mountain parade, DJ, fireworks and more.",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-24"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/holiday-celebration/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0a45df7faa14ab97",
+      "resortId": "copper",
+      "title": "New Year's Eve at Copper",
+      "description": "Celebrate the New Year with a DJ set, torchlight parade, fireworks and more.",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/new-years-eve/",
       "imageUrl": "",
       "recurrence": null
     }

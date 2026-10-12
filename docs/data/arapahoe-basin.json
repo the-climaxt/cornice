@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-11T15:41:41.952Z",
+  "updatedAt": "2026-10-12T19:03:47.743Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-11T15:41:41.952Z",
+  "lastGoodAt": "2026-10-12T19:03:47.743Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -208,7 +208,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/new-event-139/",
+      "url": "https://www.arapahoebasin.com/event/80th-weekend/",
       "imageUrl": "",
       "recurrence": null
     },

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T15:41:47.842Z",
-  "today": "2026-10-11",
+  "generatedAt": "2026-10-12T19:04:05.201Z",
+  "today": "2026-10-12",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-11T15:41:39.597Z",
+      "updatedAt": "2026-10-12T19:03:41.377Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-11T15:41:39.899Z",
-      "lastGoodAt": "2026-10-11T15:41:39.899Z",
-      "eventCount": 1
+      "updatedAt": "2026-10-12T19:03:41.984Z",
+      "lastGoodAt": "2026-10-12T19:03:41.984Z",
+      "eventCount": 6
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-11T15:41:41.952Z",
-      "lastGoodAt": "2026-10-11T15:41:41.952Z",
+      "updatedAt": "2026-10-12T19:03:47.743Z",
+      "lastGoodAt": "2026-10-12T19:03:47.743Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-11T15:41:42.281Z",
-      "lastGoodAt": "2026-10-11T15:41:42.281Z",
+      "updatedAt": "2026-10-12T19:03:48.221Z",
+      "lastGoodAt": "2026-10-12T19:03:48.221Z",
       "eventCount": 2
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-11T15:41:47.840Z",
+      "updatedAt": "2026-10-12T19:04:05.199Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -773,6 +773,26 @@
       "recurrence": null
     },
     {
+      "id": "2efdfda4dad7f387",
+      "resortId": "copper",
+      "title": "Snowsation",
+      "description": "Dance for snow with great music, games, and more!",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "days": [
+        "2026-11-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/snowsation/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "69c7205323c53cf1",
       "resortId": "arapahoe-basin",
       "title": "Rise N' Shine Rando Series #1 presented by Mammut",
@@ -913,6 +933,27 @@
       "recurrence": null
     },
     {
+      "id": "ad3bf71128cd1fe7",
+      "resortId": "copper",
+      "title": "Stifel Copper Cup",
+      "description": "The world’s top men's alpine skiers will race in an Audi FIS World Cup event at The Athlete's Mountain.",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "days": [
+        "2026-11-28",
+        "2026-11-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/stifel-copper-cup/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "b4be143593aef5bc",
       "resortId": "arapahoe-basin",
       "title": "Arapahoe Basin's 80th Anniversary Weekend",
@@ -930,7 +971,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/new-event-139/",
+      "url": "https://www.arapahoebasin.com/event/80th-weekend/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -995,6 +1036,29 @@
       "recurrence": null
     },
     {
+      "id": "9c6ef91bba76c55f",
+      "resortId": "copper",
+      "title": "Toyota U.S. Grand Prix",
+      "description": "The world's best athletes debut their latest tricks at the second North American halfpipe event of the season.",
+      "start": "2026-12-17",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/grand-prix/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "09915a424a500b25",
       "resortId": "arapahoe-basin",
       "title": "Rise N' Shine Rando Series #4 presented by Mammut",
@@ -1035,6 +1099,26 @@
       "recurrence": null
     },
     {
+      "id": "40c4767f46a99117",
+      "resortId": "copper",
+      "title": "Holiday Celebration",
+      "description": "Celebrate the holiday season with an on-mountain parade, DJ, fireworks and more.",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "days": [
+        "2026-12-24"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/holiday-celebration/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "f09a7a2279851055",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - New Year's Eve Celebration",
@@ -1051,6 +1135,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/moonlight-dinner-new-years/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0a45df7faa14ab97",
+      "resortId": "copper",
+      "title": "New Year's Eve at Copper",
+      "description": "Celebrate the New Year with a DJ set, torchlight parade, fireworks and more.",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "days": [
+        "2026-12-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/new-years-eve/",
       "imageUrl": "",
       "recurrence": null
     },
