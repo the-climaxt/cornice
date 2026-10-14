@@ -1,9 +1,9 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-10-13T16:57:23.825Z",
+  "updatedAt": "2026-10-14T14:31:08.435Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-13T16:57:23.825Z",
+  "lastGoodAt": "2026-10-14T14:31:08.435Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -48,6 +48,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/TogetherWeRemember26/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "95c2e0afa7706a8d",
+      "resortId": "eldora",
+      "title": "Tap Into Winter 2026",
+      "description": "Kick off winter with Eldora and Upslope at the \"Tap Into Winter\" party with Eldora Wednesday, October 29th!",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "days": [
+        "2026-10-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Upslope’s Flatiron Park Tap Room",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/TapIntoWinter2026/",
       "imageUrl": "",
       "recurrence": null
     }
