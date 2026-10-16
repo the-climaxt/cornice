@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-15T14:10:22.998Z",
+  "updatedAt": "2026-10-16T13:58:08.474Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-15T14:10:22.998Z",
+  "lastGoodAt": "2026-10-16T13:58:08.474Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -575,6 +575,26 @@
       "recurrence": null
     },
     {
+      "id": "4f022da4a4e77807",
+      "resortId": "arapahoe-basin",
+      "title": "38th Annual Enduro & Après Party",
+      "description": "",
+      "start": "2027-04-07",
+      "end": "2027-04-07",
+      "days": [
+        "2027-04-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/38-enduro--aprs-party/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "53c27646a4802857",
       "resortId": "arapahoe-basin",
       "title": "6th Alley Dinner - Supper Club - Prime Rib Night",
@@ -591,26 +611,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-prime-3/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "9cbfcae2786b9407",
-      "resortId": "arapahoe-basin",
-      "title": "38th Annual Enduro & Après Party",
-      "description": "",
-      "start": "2027-04-14",
-      "end": "2027-04-14",
-      "days": [
-        "2027-04-14"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/38-enduro--aprs-party/",
       "imageUrl": "",
       "recurrence": null
     },
