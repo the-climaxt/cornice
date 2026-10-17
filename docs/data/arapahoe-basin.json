@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-16T13:58:08.474Z",
+  "updatedAt": "2026-10-17T12:58:41.887Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-16T13:58:08.474Z",
+  "lastGoodAt": "2026-10-17T12:58:41.887Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -249,26 +249,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-3/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "977aebe43f981daa",
-      "resortId": "arapahoe-basin",
-      "title": "Uphill & Chill - Breakfast presented by Smartwool",
-      "description": "",
-      "start": "2026-12-11",
-      "end": "2026-12-11",
-      "days": [
-        "2026-12-11"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-3/",
       "imageUrl": "",
       "recurrence": null
     },
