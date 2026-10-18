@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T12:58:57.776Z",
-  "today": "2026-10-17",
+  "generatedAt": "2026-10-18T13:18:54.496Z",
+  "today": "2026-10-18",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-17T12:58:36.811Z",
+      "updatedAt": "2026-10-18T13:18:33.948Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-17T12:58:37.045Z",
-      "lastGoodAt": "2026-10-17T12:58:37.045Z",
+      "updatedAt": "2026-10-18T13:18:34.342Z",
+      "lastGoodAt": "2026-10-18T13:18:34.342Z",
       "eventCount": 6
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-17T12:58:41.887Z",
-      "lastGoodAt": "2026-10-17T12:58:41.887Z",
+      "updatedAt": "2026-10-18T13:18:39.082Z",
+      "lastGoodAt": "2026-10-18T13:18:39.082Z",
       "eventCount": 32
     },
     {
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-17T12:58:42.491Z",
-      "lastGoodAt": "2026-10-17T12:58:42.491Z",
-      "eventCount": 3
+      "updatedAt": "2026-10-18T13:18:39.641Z",
+      "lastGoodAt": "2026-10-18T13:18:39.641Z",
+      "eventCount": 2
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-17T12:58:57.774Z",
+      "updatedAt": "2026-10-18T13:18:54.493Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -670,26 +670,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/elevation-everest",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/elevationeverest2026logoblk.png?rev=aeab417d066b46a89c50fd619710af7b?h=279&w=573&hash=5D9280704C056DA334E2345DAE473E4B",
       "recurrence": "Special Event"
-    },
-    {
-      "id": "54b0b3d3bae18654",
-      "resortId": "eldora",
-      "title": "Outdoor Gear & Sample Sale 2026",
-      "description": "Shop your favorite outdoor brands at the lowest price & support EMSC!",
-      "start": "2026-10-09",
-      "end": "2026-10-10",
-      "days": [
-        "2026-10-10"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "The Avalon Ballroom",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/OutdoorGearSale2026/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "510e47fb357dffdb",
