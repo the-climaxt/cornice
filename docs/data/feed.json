@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T13:18:54.496Z",
-  "today": "2026-10-18",
+  "generatedAt": "2026-10-19T16:28:35.226Z",
+  "today": "2026-10-19",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-18T13:18:33.948Z",
+      "updatedAt": "2026-10-19T16:28:16.466Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-18T13:18:34.342Z",
-      "lastGoodAt": "2026-10-18T13:18:34.342Z",
-      "eventCount": 6
+      "updatedAt": "2026-10-19T16:28:17.185Z",
+      "lastGoodAt": "2026-10-19T16:28:17.185Z",
+      "eventCount": 13
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-18T13:18:39.082Z",
-      "lastGoodAt": "2026-10-18T13:18:39.082Z",
+      "updatedAt": "2026-10-19T16:28:20.999Z",
+      "lastGoodAt": "2026-10-19T16:28:20.999Z",
       "eventCount": 32
     },
     {
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-18T13:18:39.641Z",
-      "lastGoodAt": "2026-10-18T13:18:39.641Z",
-      "eventCount": 2
+      "updatedAt": "2026-10-19T16:28:21.195Z",
+      "lastGoodAt": "2026-10-19T16:28:21.195Z",
+      "eventCount": 1
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-18T13:18:54.493Z",
+      "updatedAt": "2026-10-19T16:28:35.224Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -672,26 +672,6 @@
       "recurrence": "Special Event"
     },
     {
-      "id": "510e47fb357dffdb",
-      "resortId": "eldora",
-      "title": "Together We Remember 2026: Yoga Fundraiser",
-      "description": "Elevate your practice at Eldora",
-      "start": "2026-10-11",
-      "end": "2026-10-11",
-      "days": [
-        "2026-10-11"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Indian Peaks Lodge - Upstairs",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/TogetherWeRemember26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "95c2e0afa7706a8d",
       "resortId": "eldora",
       "title": "Tap Into Winter 2026",
@@ -1158,26 +1138,6 @@
       "recurrence": null
     },
     {
-      "id": "78736d8631ad2657",
-      "resortId": "arapahoe-basin",
-      "title": "6th Alley Dinner - Beer Pairing",
-      "description": "",
-      "start": "2027-01-23",
-      "end": "2027-01-23",
-      "days": [
-        "2027-01-23"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "83ec4f442698bc89",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - A Night in Italy",
@@ -1194,6 +1154,52 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/moonlight-dinner-Italy/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "dd304fad0547f6c8",
+      "resortId": "copper",
+      "title": "iHeart U.S. Revolution Tour",
+      "description": "Today's top junior athletes compete in halfpipe & slopestyle.",
+      "start": "2027-01-23",
+      "end": "2027-01-29",
+      "days": [
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-26",
+        "2027-01-27",
+        "2027-01-28",
+        "2027-01-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/us-revolution-tour/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "aff58b305bf90f23",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Beer Pairing",
+      "description": "",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "days": [
+        "2027-01-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1215,6 +1221,51 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/a-basin-safety-weekend/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "63f8d6dc788eedcb",
+      "resortId": "copper",
+      "title": "Safetyfest",
+      "description": "Avalanche dog demos, toboggan races, prize giveaways and more!",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "days": [
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/safetyfest27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "656be2058f04f3b7",
+      "resortId": "copper",
+      "title": "IFSA Freeride World Qualifier & Junior Freeride Series",
+      "description": "Freeride World Qualifier for big mountain athletes going down in Copper Bowl",
+      "start": "2027-02-02",
+      "end": "2027-02-06",
+      "days": [
+        "2027-02-02",
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05",
+        "2027-02-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Bowl",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ifsa-freeride-world-qualifier/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1280,6 +1331,28 @@
       "recurrence": null
     },
     {
+      "id": "594395175eacecef",
+      "resortId": "copper",
+      "title": "Subaru WinterFest",
+      "description": "A one-of-a-kind music and mountain lifestyle tour for you and your pup.",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "days": [
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/subaru-winterfest-2027/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "46edd7c7e09a286f",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - Central America",
@@ -1320,6 +1393,27 @@
       "recurrence": null
     },
     {
+      "id": "0b8b34487ee027f8",
+      "resortId": "copper",
+      "title": "Special Olympics State Winter Games",
+      "description": "Alpine, cross country, snowboarding, and snowshoe events.",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "days": [
+        "2027-02-27",
+        "2027-02-28"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/special-olympics-27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "a8957c4087611751",
       "resortId": "arapahoe-basin",
       "title": "6th Alley Dinner - Tequila Pairing",
@@ -1336,6 +1430,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-tequila/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d7aa0a3616c94255",
+      "resortId": "copper",
+      "title": "Red Bull Party Line",
+      "description": "Contestants will take on a head-to-head race across a one-of-a-kind downhill pump track.",
+      "start": "2027-03-13",
+      "end": "2027-03-13",
+      "days": [
+        "2027-03-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/red-bull-partyline/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1436,6 +1550,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/moonlight-dinner-luau/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b5ac453786529f6f",
+      "resortId": "copper",
+      "title": "Sunsation",
+      "description": "Colorado's finest spring festival with FREE live music & more.",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "days": [
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/sunsation2027/",
       "imageUrl": "",
       "recurrence": null
     },

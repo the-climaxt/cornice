@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-18T13:18:34.342Z",
+  "updatedAt": "2026-10-19T16:28:17.185Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-18T13:18:34.342Z",
+  "lastGoodAt": "2026-10-19T16:28:17.185Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -131,6 +131,161 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/new-years-eve/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "dd304fad0547f6c8",
+      "resortId": "copper",
+      "title": "iHeart U.S. Revolution Tour",
+      "description": "Today's top junior athletes compete in halfpipe & slopestyle.",
+      "start": "2027-01-23",
+      "end": "2027-01-29",
+      "days": [
+        "2027-01-23",
+        "2027-01-24",
+        "2027-01-25",
+        "2027-01-26",
+        "2027-01-27",
+        "2027-01-28",
+        "2027-01-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/us-revolution-tour/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "63f8d6dc788eedcb",
+      "resortId": "copper",
+      "title": "Safetyfest",
+      "description": "Avalanche dog demos, toboggan races, prize giveaways and more!",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "days": [
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "village",
+      "venue": "Eagle's Landing, Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/safetyfest27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "656be2058f04f3b7",
+      "resortId": "copper",
+      "title": "IFSA Freeride World Qualifier & Junior Freeride Series",
+      "description": "Freeride World Qualifier for big mountain athletes going down in Copper Bowl",
+      "start": "2027-02-02",
+      "end": "2027-02-06",
+      "days": [
+        "2027-02-02",
+        "2027-02-03",
+        "2027-02-04",
+        "2027-02-05",
+        "2027-02-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Bowl",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/ifsa-freeride-world-qualifier/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "594395175eacecef",
+      "resortId": "copper",
+      "title": "Subaru WinterFest",
+      "description": "A one-of-a-kind music and mountain lifestyle tour for you and your pup.",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "days": [
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/subaru-winterfest-2027/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0b8b34487ee027f8",
+      "resortId": "copper",
+      "title": "Special Olympics State Winter Games",
+      "description": "Alpine, cross country, snowboarding, and snowshoe events.",
+      "start": "2027-02-27",
+      "end": "2027-02-28",
+      "days": [
+        "2027-02-27",
+        "2027-02-28"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/special-olympics-27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d7aa0a3616c94255",
+      "resortId": "copper",
+      "title": "Red Bull Party Line",
+      "description": "Contestants will take on a head-to-head race across a one-of-a-kind downhill pump track.",
+      "start": "2027-03-13",
+      "end": "2027-03-13",
+      "days": [
+        "2027-03-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/red-bull-partyline/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b5ac453786529f6f",
+      "resortId": "copper",
+      "title": "Sunsation",
+      "description": "Colorado's finest spring festival with FREE live music & more.",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "days": [
+        "2027-04-24",
+        "2027-04-25"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/sunsation2027/",
       "imageUrl": "",
       "recurrence": null
     }

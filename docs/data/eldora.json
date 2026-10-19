@@ -1,35 +1,15 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-10-18T13:18:39.641Z",
+  "updatedAt": "2026-10-19T16:28:21.195Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-18T13:18:39.641Z",
+  "lastGoodAt": "2026-10-19T16:28:21.195Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "510e47fb357dffdb",
-      "resortId": "eldora",
-      "title": "Together We Remember 2026: Yoga Fundraiser",
-      "description": "Elevate your practice at Eldora",
-      "start": "2026-10-11",
-      "end": "2026-10-11",
-      "days": [
-        "2026-10-11"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Indian Peaks Lodge - Upstairs",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/TogetherWeRemember26/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "95c2e0afa7706a8d",
       "resortId": "eldora",

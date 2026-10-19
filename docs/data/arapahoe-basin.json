@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-18T13:18:39.082Z",
+  "updatedAt": "2026-10-19T16:28:20.999Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-18T13:18:39.082Z",
+  "lastGoodAt": "2026-10-19T16:28:20.999Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -333,26 +333,6 @@
       "recurrence": null
     },
     {
-      "id": "78736d8631ad2657",
-      "resortId": "arapahoe-basin",
-      "title": "6th Alley Dinner - Beer Pairing",
-      "description": "",
-      "start": "2027-01-23",
-      "end": "2027-01-23",
-      "days": [
-        "2027-01-23"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "83ec4f442698bc89",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - A Night in Italy",
@@ -369,6 +349,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/moonlight-dinner-Italy/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "aff58b305bf90f23",
+      "resortId": "arapahoe-basin",
+      "title": "6th Alley Dinner - Beer Pairing",
+      "description": "",
+      "start": "2027-01-29",
+      "end": "2027-01-29",
+      "days": [
+        "2027-01-29"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
       "imageUrl": "",
       "recurrence": null
     },
