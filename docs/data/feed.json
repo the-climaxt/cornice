@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T16:28:35.226Z",
-  "today": "2026-10-19",
+  "generatedAt": "2026-10-20T14:19:25.220Z",
+  "today": "2026-10-20",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-19T16:28:16.466Z",
+      "updatedAt": "2026-10-20T14:19:00.795Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-19T16:28:17.185Z",
-      "lastGoodAt": "2026-10-19T16:28:17.185Z",
-      "eventCount": 13
+      "updatedAt": "2026-10-20T14:19:01.558Z",
+      "lastGoodAt": "2026-10-20T14:19:01.558Z",
+      "eventCount": 23
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-19T16:28:20.999Z",
-      "lastGoodAt": "2026-10-19T16:28:20.999Z",
-      "eventCount": 32
+      "updatedAt": "2026-10-20T14:19:07.151Z",
+      "lastGoodAt": "2026-10-20T14:19:07.151Z",
+      "eventCount": 33
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-19T16:28:21.195Z",
-      "lastGoodAt": "2026-10-19T16:28:21.195Z",
+      "updatedAt": "2026-10-20T14:19:07.670Z",
+      "lastGoodAt": "2026-10-20T14:19:07.670Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-19T16:28:35.224Z",
+      "updatedAt": "2026-10-20T14:19:25.218Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -955,6 +955,26 @@
       "recurrence": null
     },
     {
+      "id": "632535df28f40596",
+      "resortId": "arapahoe-basin",
+      "title": "Uphill & Chill - Breakfast presented by smartwool",
+      "description": "",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "days": [
+        "2026-12-04"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-2/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "9bbbd56b9c552b45",
       "resortId": "arapahoe-basin",
       "title": "80th Anniversary Dinner",
@@ -971,6 +991,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/80th-dinner/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "83ec546cb63b2fba",
+      "resortId": "copper",
+      "title": "Jib Jam presented by YETI",
+      "description": "No bibs. No judges. Just good times.",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "days": [
+        "2026-12-05"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Hike Park",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/jib-jam-dec/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1134,6 +1174,46 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-smartwool/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b9886d9cd211f50e",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b9886d9cd211f50e",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1414,6 +1494,46 @@
       "recurrence": null
     },
     {
+      "id": "1c18feee829ebb1f",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "1c18feee829ebb1f",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "a8957c4087611751",
       "resortId": "arapahoe-basin",
       "title": "6th Alley Dinner - Tequila Pairing",
@@ -1450,6 +1570,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/red-bull-partyline/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "2ef96221b5c8e074",
+      "resortId": "copper",
+      "title": "Party Laps",
+      "description": "FREE after-hours Party Laps for Copper & Ikon pass holders.",
+      "start": "2027-03-19",
+      "end": "2027-03-19",
+      "days": [
+        "2027-03-19"
+      ],
+      "allDay": false,
+      "timeText": "4:00 - 7:00pm",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/party-laps-march/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1534,6 +1674,66 @@
       "recurrence": null
     },
     {
+      "id": "55fcba0dbc5bb054",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-apr10/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "55fcba0dbc5bb054",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-apr10/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "c711e3fad4351c7d",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 3 - The Grind Finale",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a series of uphill challenges.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "4:30pm",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-april/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "bf3675dc1bc75e3b",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - Luau",
@@ -1571,6 +1771,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/sunsation2027/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "cbf277025baaa8af",
+      "resortId": "copper",
+      "title": "Skimmy Dippers Dual Pond Skim",
+      "description": "Duos, drop in and skim!",
+      "start": "2027-04-25",
+      "end": "2027-04-25",
+      "days": [
+        "2027-04-25"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/skimmy-dippers-pond-skim/",
       "imageUrl": "",
       "recurrence": null
     },

@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-19T16:28:17.185Z",
+  "updatedAt": "2026-10-20T14:19:01.558Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-19T16:28:17.185Z",
+  "lastGoodAt": "2026-10-20T14:19:01.558Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -72,6 +72,26 @@
       "recurrence": null
     },
     {
+      "id": "83ec546cb63b2fba",
+      "resortId": "copper",
+      "title": "Jib Jam presented by YETI",
+      "description": "No bibs. No judges. Just good times.",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "days": [
+        "2026-12-05"
+      ],
+      "allDay": false,
+      "timeText": "12:00 - 2:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Hike Park",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/jib-jam-dec/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "9c6ef91bba76c55f",
       "resortId": "copper",
       "title": "Toyota U.S. Grand Prix",
@@ -131,6 +151,46 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/new-years-eve/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b9886d9cd211f50e",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "b9886d9cd211f50e",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -249,6 +309,46 @@
       "recurrence": null
     },
     {
+      "id": "1c18feee829ebb1f",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "1c18feee829ebb1f",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "d7aa0a3616c94255",
       "resortId": "copper",
       "title": "Red Bull Party Line",
@@ -265,6 +365,86 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/red-bull-partyline/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "2ef96221b5c8e074",
+      "resortId": "copper",
+      "title": "Party Laps",
+      "description": "FREE after-hours Party Laps for Copper & Ikon pass holders.",
+      "start": "2027-03-19",
+      "end": "2027-03-19",
+      "days": [
+        "2027-03-19"
+      ],
+      "allDay": false,
+      "timeText": "4:00 - 7:00pm",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/party-laps-march/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "55fcba0dbc5bb054",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-apr10/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "55fcba0dbc5bb054",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-apr10/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "c711e3fad4351c7d",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 3 - The Grind Finale",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a series of uphill challenges.",
+      "start": "2027-04-10",
+      "end": "2027-04-10",
+      "days": [
+        "2027-04-10"
+      ],
+      "allDay": false,
+      "timeText": "4:30pm",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-april/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -286,6 +466,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/sunsation2027/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "cbf277025baaa8af",
+      "resortId": "copper",
+      "title": "Skimmy Dippers Dual Pond Skim",
+      "description": "Duos, drop in and skim!",
+      "start": "2027-04-25",
+      "end": "2027-04-25",
+      "days": [
+        "2027-04-25"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/skimmy-dippers-pond-skim/",
       "imageUrl": "",
       "recurrence": null
     }
