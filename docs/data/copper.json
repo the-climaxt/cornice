@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-21T14:29:41.816Z",
+  "updatedAt": "2026-10-22T14:31:05.348Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-21T14:29:41.816Z",
+  "lastGoodAt": "2026-10-22T14:31:05.348Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -47,6 +47,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/snowsation/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8df06c6660128a86",
+      "resortId": "copper",
+      "title": "Thanksgiving Buffet at JJ's Rocky Mountain Tavern",
+      "description": "Join us for a delicious Thanksgiving dinner buffet at JJ's!",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "days": [
+        "2026-11-26"
+      ],
+      "allDay": false,
+      "timeText": "5-9 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/thanksgiving-buffet-2026/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -309,46 +329,6 @@
       "recurrence": null
     },
     {
-      "id": "1c18feee829ebb1f",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
-      "start": "2027-03-06",
-      "end": "2027-03-06",
-      "days": [
-        "2027-03-06"
-      ],
-      "allDay": false,
-      "timeText": "2:30pm - 4:00pm",
-      "locationType": "on-mountain",
-      "venue": "Eagle's Landing",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "1c18feee829ebb1f",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
-      "start": "2027-03-06",
-      "end": "2027-03-06",
-      "days": [
-        "2027-03-06"
-      ],
-      "allDay": false,
-      "timeText": "2:30pm - 4:00pm",
-      "locationType": "on-mountain",
-      "venue": "Eagle's Landing",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "d7aa0a3616c94255",
       "resortId": "copper",
       "title": "Red Bull Party Line",
@@ -385,6 +365,46 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/party-laps-march/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "f7ea3318c98293df",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "days": [
+        "2027-03-20"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "f7ea3318c98293df",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-03-20",
+      "end": "2027-03-20",
+      "days": [
+        "2027-03-20"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
       "imageUrl": "",
       "recurrence": null
     },
