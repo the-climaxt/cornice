@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T14:31:21.634Z",
-  "today": "2026-10-22",
+  "generatedAt": "2026-10-23T14:15:11.649Z",
+  "today": "2026-10-23",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-22T14:31:02.195Z",
+      "updatedAt": "2026-10-23T14:14:51.498Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-22T14:31:05.348Z",
-      "lastGoodAt": "2026-10-22T14:31:05.348Z",
-      "eventCount": 24
+      "updatedAt": "2026-10-23T14:14:52.214Z",
+      "lastGoodAt": "2026-10-23T14:14:52.214Z",
+      "eventCount": 23
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-22T14:31:09.444Z",
-      "lastGoodAt": "2026-10-22T14:31:09.444Z",
+      "updatedAt": "2026-10-23T14:14:55.769Z",
+      "lastGoodAt": "2026-10-23T14:14:55.769Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-22T14:31:09.762Z",
-      "lastGoodAt": "2026-10-22T14:31:09.762Z",
+      "updatedAt": "2026-10-23T14:14:56.263Z",
+      "lastGoodAt": "2026-10-23T14:14:56.263Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-22T14:31:21.633Z",
+      "updatedAt": "2026-10-23T14:15:11.647Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -1198,46 +1198,6 @@
       "recurrence": null
     },
     {
-      "id": "b9886d9cd211f50e",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
-      "start": "2027-01-16",
-      "end": "2027-01-16",
-      "days": [
-        "2027-01-16"
-      ],
-      "allDay": false,
-      "timeText": "2:30pm - 4:00pm",
-      "locationType": "on-mountain",
-      "venue": "Eagle's Landing",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "b9886d9cd211f50e",
-      "resortId": "copper",
-      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
-      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
-      "start": "2027-01-16",
-      "end": "2027-01-16",
-      "days": [
-        "2027-01-16"
-      ],
-      "allDay": false,
-      "timeText": "2:30pm - 4:00pm",
-      "locationType": "on-mountain",
-      "venue": "Eagle's Landing",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-jan16/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "83ec4f442698bc89",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - A Night in Italy",
@@ -1258,9 +1218,9 @@
       "recurrence": null
     },
     {
-      "id": "dd304fad0547f6c8",
+      "id": "0b0393d2a1465472",
       "resortId": "copper",
-      "title": "iHeart U.S. Revolution Tour",
+      "title": "U.S. Revolution Tour",
       "description": "Today's top junior athletes compete in halfpipe & slopestyle.",
       "start": "2027-01-23",
       "end": "2027-01-29",
@@ -1427,6 +1387,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/backcounrty/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "9dd46d54e6f36253",
+      "resortId": "copper",
+      "title": "Copper Live presented by Play Forever Foundation and Odell Brewing Co.",
+      "description": "Our flagship free live music series presented by Play Forever Foundation & Odell Brewing Co.",
+      "start": "2027-02-13",
+      "end": "2027-02-13",
+      "days": [
+        "2027-02-13"
+      ],
+      "allDay": false,
+      "timeText": "2:30pm - 4:00pm",
+      "locationType": "on-mountain",
+      "venue": "Eagle's Landing",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-feb13/",
       "imageUrl": "",
       "recurrence": null
     },
