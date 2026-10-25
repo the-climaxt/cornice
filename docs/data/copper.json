@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-24T13:20:14.210Z",
+  "updatedAt": "2026-10-25T13:42:57.844Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-24T13:20:14.210Z",
+  "lastGoodAt": "2026-10-25T13:42:57.844Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
