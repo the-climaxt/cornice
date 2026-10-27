@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T16:08:19.952Z",
-  "today": "2026-10-26",
+  "generatedAt": "2026-10-27T15:22:06.606Z",
+  "today": "2026-10-27",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-26T16:07:54.630Z",
+      "updatedAt": "2026-10-27T15:21:41.364Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-26T16:07:55.575Z",
-      "lastGoodAt": "2026-10-26T16:07:55.575Z",
+      "updatedAt": "2026-10-27T15:21:41.871Z",
+      "lastGoodAt": "2026-10-27T15:21:41.871Z",
       "eventCount": 23
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-26T16:08:00.547Z",
-      "lastGoodAt": "2026-10-26T16:08:00.547Z",
+      "updatedAt": "2026-10-27T15:21:47.448Z",
+      "lastGoodAt": "2026-10-27T15:21:47.448Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-26T16:08:01.066Z",
-      "lastGoodAt": "2026-10-26T16:08:01.066Z",
+      "updatedAt": "2026-10-27T15:21:47.964Z",
+      "lastGoodAt": "2026-10-27T15:21:47.964Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-26T16:08:19.950Z",
+      "updatedAt": "2026-10-27T15:22:06.604Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -1213,7 +1213,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-Italy/",
+      "url": "https://www.arapahoebasin.com/event/moonlight-dinner-italy/",
       "imageUrl": "",
       "recurrence": null
     },
