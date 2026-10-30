@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-10-29T16:07:37.726Z",
+  "updatedAt": "2026-10-30T15:56:23.274Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-29T16:07:37.726Z",
+  "lastGoodAt": "2026-10-30T15:56:23.274Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -332,7 +332,7 @@
       "id": "2ef96221b5c8e074",
       "resortId": "copper",
       "title": "Party Laps",
-      "description": "FREE after-hours Party Laps for Copper & Ikon pass holders.",
+      "description": "FREE after-hours Party Laps",
       "start": "2027-03-19",
       "end": "2027-03-19",
       "days": [
