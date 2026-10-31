@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T15:56:38.498Z",
-  "today": "2026-10-30",
+  "generatedAt": "2026-10-31T15:20:09.888Z",
+  "today": "2026-10-31",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-10-30T15:56:22.253Z",
+      "updatedAt": "2026-10-31T15:19:53.465Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-30T15:56:23.274Z",
-      "lastGoodAt": "2026-10-30T15:56:23.274Z",
-      "eventCount": 23
+      "updatedAt": "2026-10-31T15:19:53.840Z",
+      "lastGoodAt": "2026-10-31T15:19:53.840Z",
+      "eventCount": 24
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-30T15:56:27.360Z",
-      "lastGoodAt": "2026-10-30T15:56:27.360Z",
+      "updatedAt": "2026-10-31T15:19:58.413Z",
+      "lastGoodAt": "2026-10-31T15:19:58.413Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-10-30T15:56:27.594Z",
-      "lastGoodAt": "2026-10-30T15:56:27.594Z",
+      "updatedAt": "2026-10-31T15:19:58.867Z",
+      "lastGoodAt": "2026-10-31T15:19:58.867Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-10-30T15:56:38.496Z",
+      "updatedAt": "2026-10-31T15:20:09.887Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -728,6 +728,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "6f535169d4272ef6",
+      "resortId": "copper",
+      "title": "Barn Bash",
+      "description": "We are pumped to be throwing a party at The Barn on Friday, Nov. 6th!",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "days": [
+        "2026-11-06"
+      ],
+      "allDay": false,
+      "timeText": "4:00 P.M - 6:00 P.M.",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/barn-bash/",
       "imageUrl": "",
       "recurrence": null
     },
