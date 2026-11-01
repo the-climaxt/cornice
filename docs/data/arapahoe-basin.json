@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-10-31T15:19:58.413Z",
+  "updatedAt": "2026-11-01T16:01:48.567Z",
   "status": "ok",
-  "lastGoodAt": "2026-10-31T15:19:58.413Z",
+  "lastGoodAt": "2026-11-01T16:01:48.567Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "0f02cc50807bde2a",
-      "resortId": "arapahoe-basin",
-      "title": "Halloween Party at the 6th Alley",
-      "description": "",
-      "start": "2026-10-31",
-      "end": "2026-10-31",
-      "days": [
-        "2026-10-31"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/halloween-party-at-the-6th-alley/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "48b429e97b9e6442",
       "resortId": "arapahoe-basin",
