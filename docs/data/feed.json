@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T19:29:58.041Z",
-  "today": "2026-11-02",
+  "generatedAt": "2026-11-03T17:03:59.599Z",
+  "today": "2026-11-03",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-02T19:29:43.155Z",
+      "updatedAt": "2026-11-03T17:03:33.370Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-02T19:29:44.555Z",
-      "lastGoodAt": "2026-11-02T19:29:44.555Z",
+      "updatedAt": "2026-11-03T17:03:34.787Z",
+      "lastGoodAt": "2026-11-03T17:03:34.787Z",
       "eventCount": 24
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-02T19:29:47.723Z",
-      "lastGoodAt": "2026-11-02T19:29:47.723Z",
+      "updatedAt": "2026-11-03T17:03:38.915Z",
+      "lastGoodAt": "2026-11-03T17:03:38.915Z",
       "eventCount": 32
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-02T19:29:47.955Z",
-      "lastGoodAt": "2026-11-02T19:29:47.955Z",
+      "updatedAt": "2026-11-03T17:03:39.484Z",
+      "lastGoodAt": "2026-11-03T17:03:39.484Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-02T19:29:58.039Z",
+      "updatedAt": "2026-11-03T17:03:59.598Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -1414,7 +1414,7 @@
       "id": "594395175eacecef",
       "resortId": "copper",
       "title": "Subaru WinterFest",
-      "description": "A one-of-a-kind music and mountain lifestyle tour for you and your pup.",
+      "description": "Experience the annual music and mountain lifestyle festival packed with energy.",
       "start": "2027-02-19",
       "end": "2027-02-21",
       "days": [

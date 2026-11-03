@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-02T19:29:44.555Z",
+  "updatedAt": "2026-11-03T17:03:34.787Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-02T19:29:44.555Z",
+  "lastGoodAt": "2026-11-03T17:03:34.787Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -289,7 +289,7 @@
       "id": "594395175eacecef",
       "resortId": "copper",
       "title": "Subaru WinterFest",
-      "description": "A one-of-a-kind music and mountain lifestyle tour for you and your pup.",
+      "description": "Experience the annual music and mountain lifestyle festival packed with energy.",
       "start": "2027-02-19",
       "end": "2027-02-21",
       "days": [
