@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-03T17:03:38.915Z",
+  "updatedAt": "2026-11-04T17:15:14.577Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-03T17:03:38.915Z",
+  "lastGoodAt": "2026-11-04T17:15:14.577Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -490,7 +490,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/fire-hose/",
+      "url": "https://www.arapahoebasin.com/event/20th-annual-fire-hose-relay/",
       "imageUrl": "",
       "recurrence": null
     },

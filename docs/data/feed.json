@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T17:03:59.599Z",
-  "today": "2026-11-03",
+  "generatedAt": "2026-11-04T17:15:33.700Z",
+  "today": "2026-11-04",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-03T17:03:33.370Z",
+      "updatedAt": "2026-11-04T17:15:08.024Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-03T17:03:34.787Z",
-      "lastGoodAt": "2026-11-03T17:03:34.787Z",
+      "updatedAt": "2026-11-04T17:15:08.319Z",
+      "lastGoodAt": "2026-11-04T17:15:08.319Z",
       "eventCount": 24
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-03T17:03:38.915Z",
-      "lastGoodAt": "2026-11-03T17:03:38.915Z",
+      "updatedAt": "2026-11-04T17:15:14.577Z",
+      "lastGoodAt": "2026-11-04T17:15:14.577Z",
       "eventCount": 32
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-03T17:03:39.484Z",
-      "lastGoodAt": "2026-11-03T17:03:39.484Z",
+      "updatedAt": "2026-11-04T17:15:15.256Z",
+      "lastGoodAt": "2026-11-04T17:15:15.256Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-03T17:03:59.598Z",
+      "updatedAt": "2026-11-04T17:15:33.698Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -1468,7 +1468,7 @@
       "venue": "",
       "source": "resort",
       "categories": [],
-      "url": "https://www.arapahoebasin.com/event/fire-hose/",
+      "url": "https://www.arapahoebasin.com/event/20th-annual-fire-hose-relay/",
       "imageUrl": "",
       "recurrence": null
     },
