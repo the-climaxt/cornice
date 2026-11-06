@@ -1,10 +1,10 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-11-05T17:25:13.664Z",
-  "status": "ok",
+  "updatedAt": "2026-11-06T16:46:32.057Z",
+  "status": "stale",
   "lastGoodAt": "2026-11-05T17:25:13.664Z",
-  "lastError": null,
+  "lastError": "adapter returned 0 usable events",
   "ops": {
     "openingDay": null,
     "closingDay": null
