@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T16:46:49.903Z",
-  "today": "2026-11-06",
+  "generatedAt": "2026-11-07T15:40:10.020Z",
+  "today": "2026-11-07",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-06T16:46:25.571Z",
+      "updatedAt": "2026-11-07T15:39:52.782Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-06T16:46:27.686Z",
-      "lastGoodAt": "2026-11-06T16:46:27.686Z",
-      "eventCount": 23
+      "updatedAt": "2026-11-07T15:39:53.147Z",
+      "lastGoodAt": "2026-11-07T15:39:53.147Z",
+      "eventCount": 24
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-06T16:46:31.831Z",
-      "lastGoodAt": "2026-11-06T16:46:31.831Z",
+      "updatedAt": "2026-11-07T15:39:57.018Z",
+      "lastGoodAt": "2026-11-07T15:39:57.018Z",
       "eventCount": 32
     },
     {
@@ -82,7 +82,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-06T16:46:32.057Z",
+      "updatedAt": "2026-11-07T15:39:57.514Z",
       "lastGoodAt": "2026-11-05T17:25:13.664Z",
       "eventCount": 1
     },
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-06T16:46:49.901Z",
+      "updatedAt": "2026-11-07T15:40:10.019Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -728,6 +728,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "70bb9f218d3bd3e0",
+      "resortId": "copper",
+      "title": "26/27 Opening Day",
+      "description": "Drop in with us on Sunday, November 8 to celebrate the start of the 26/27 winter season!",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "days": [
+        "2026-11-08"
+      ],
+      "allDay": false,
+      "timeText": "9:00 AM - 4:00 PM",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
       "imageUrl": "",
       "recurrence": null
     },
