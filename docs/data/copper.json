@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-07T15:39:53.147Z",
+  "updatedAt": "2026-11-08T15:58:34.634Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-07T15:39:53.147Z",
+  "lastGoodAt": "2026-11-08T15:58:34.634Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -195,6 +195,26 @@
       "recurrence": null
     },
     {
+      "id": "f40e8f12390dd7fc",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 1",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a series of uphill challenges.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "6:30am",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-january/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "0b0393d2a1465472",
       "resortId": "copper",
       "title": "U.S. Revolution Tour",
@@ -325,6 +345,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/special-olympics-27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "563a9aea7bd26665",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 2",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a new series of uphill challenges.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "6:30am",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-mar/",
       "imageUrl": "",
       "recurrence": null
     },

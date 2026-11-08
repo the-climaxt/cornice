@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T15:40:10.020Z",
-  "today": "2026-11-07",
+  "generatedAt": "2026-11-08T15:58:48.314Z",
+  "today": "2026-11-08",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-07T15:39:52.782Z",
+      "updatedAt": "2026-11-08T15:58:34.147Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-07T15:39:53.147Z",
-      "lastGoodAt": "2026-11-07T15:39:53.147Z",
-      "eventCount": 24
+      "updatedAt": "2026-11-08T15:58:34.634Z",
+      "lastGoodAt": "2026-11-08T15:58:34.634Z",
+      "eventCount": 26
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-07T15:39:57.018Z",
-      "lastGoodAt": "2026-11-07T15:39:57.018Z",
-      "eventCount": 32
+      "updatedAt": "2026-11-08T15:58:37.625Z",
+      "lastGoodAt": "2026-11-08T15:58:37.625Z",
+      "eventCount": 31
     },
     {
       "id": "eldora",
@@ -82,7 +82,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-07T15:39:57.514Z",
+      "updatedAt": "2026-11-08T15:58:37.992Z",
       "lastGoodAt": "2026-11-05T17:25:13.664Z",
       "eventCount": 1
     },
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-07T15:40:10.019Z",
+      "updatedAt": "2026-11-08T15:58:48.312Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -712,26 +712,6 @@
       "recurrence": null
     },
     {
-      "id": "48b429e97b9e6442",
-      "resortId": "arapahoe-basin",
-      "title": "Don Fuego at BML",
-      "description": "",
-      "start": "2026-11-07",
-      "end": "2026-11-07",
-      "days": [
-        "2026-11-07"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "70bb9f218d3bd3e0",
       "resortId": "copper",
       "title": "26/27 Opening Day",
@@ -1198,6 +1178,26 @@
       "recurrence": null
     },
     {
+      "id": "f40e8f12390dd7fc",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 1",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a series of uphill challenges.",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "days": [
+        "2027-01-16"
+      ],
+      "allDay": false,
+      "timeText": "6:30am",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-january/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "83ec4f442698bc89",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - A Night in Italy",
@@ -1490,6 +1490,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/special-olympics-27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "563a9aea7bd26665",
+      "resortId": "copper",
+      "title": "Uphill Race Series presented by Mammut | Challenge 2",
+      "description": "Copper joins forces with Swiss premium outdoor brand Mammut to present a new series of uphill challenges.",
+      "start": "2027-03-06",
+      "end": "2027-03-06",
+      "days": [
+        "2027-03-06"
+      ],
+      "allDay": false,
+      "timeText": "6:30am",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-mar/",
       "imageUrl": "",
       "recurrence": null
     },
