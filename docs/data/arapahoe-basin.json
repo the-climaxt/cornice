@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-08T15:58:37.625Z",
+  "updatedAt": "2026-11-09T19:49:52.525Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-08T15:58:37.625Z",
+  "lastGoodAt": "2026-11-09T19:49:52.525Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -213,6 +213,26 @@
       "recurrence": null
     },
     {
+      "id": "2cf66c06a6d175ec",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover Lenawee",
+      "description": "",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "days": [
+        "2026-12-06"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-lenawee/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "e7323120186362dc",
       "resortId": "arapahoe-basin",
       "title": "Rise N' Shine Rando Series #3 presented by Mammut",
@@ -289,6 +309,46 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/moonlight-dinner-new-years/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "0c6bb4fbfc5b5cf7",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover Molly Hogan",
+      "description": "",
+      "start": "2027-01-03",
+      "end": "2027-01-03",
+      "days": [
+        "2027-01-03"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-Molly/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "111393db226b33c1",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover Pallavicini",
+      "description": "",
+      "start": "2027-01-03",
+      "end": "2027-01-03",
+      "days": [
+        "2027-01-03"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-pallavicini/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -370,6 +430,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/a-basin-safety-weekend/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "3f2a89291309ee22",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover Beavers",
+      "description": "",
+      "start": "2027-02-07",
+      "end": "2027-02-07",
+      "days": [
+        "2027-02-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-beavers/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -475,6 +555,26 @@
       "recurrence": null
     },
     {
+      "id": "638ee7eee40247b7",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover Montezuma",
+      "description": "",
+      "start": "2027-03-07",
+      "end": "2027-03-07",
+      "days": [
+        "2027-03-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-montezuma/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "a8957c4087611751",
       "resortId": "arapahoe-basin",
       "title": "6th Alley Dinner - Tequila Pairing",
@@ -531,6 +631,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/easter/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "9cc6bcd564722e65",
+      "resortId": "arapahoe-basin",
+      "title": "80th Anniversary Lift Takeover East Wall",
+      "description": "",
+      "start": "2027-04-04",
+      "end": "2027-04-04",
+      "days": [
+        "2027-04-04"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/lift-takeover-East-Wall-/",
       "imageUrl": "",
       "recurrence": null
     },
