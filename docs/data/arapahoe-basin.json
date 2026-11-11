@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-10T17:03:19.824Z",
+  "updatedAt": "2026-11-11T17:08:14.235Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-10T17:03:19.824Z",
+  "lastGoodAt": "2026-11-11T17:08:14.235Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "69c7205323c53cf1",
-      "resortId": "arapahoe-basin",
-      "title": "Rise N' Shine Rando Series #1 presented by Mammut",
-      "description": "",
-      "start": "2026-11-10",
-      "end": "2026-11-10",
-      "days": [
-        "2026-11-10"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-1/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "be6d20e77badcd8d",
       "resortId": "arapahoe-basin",
@@ -373,6 +353,27 @@
       "recurrence": null
     },
     {
+      "id": "c571099cca014631",
+      "resortId": "arapahoe-basin",
+      "title": "A-Basin Safety Weekend",
+      "description": "",
+      "start": "2027-01-23",
+      "end": "2027-01-24",
+      "days": [
+        "2027-01-23",
+        "2027-01-24"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.arapahoebasin.com/event/a-basin-safety-weekend/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "83ec4f442698bc89",
       "resortId": "arapahoe-basin",
       "title": "Moonlight Dinner Series - A Night in Italy",
@@ -409,27 +410,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-1/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "5272c2549f7557ec",
-      "resortId": "arapahoe-basin",
-      "title": "A-Basin Safety Weekend",
-      "description": "",
-      "start": "2027-01-30",
-      "end": "2027-01-31",
-      "days": [
-        "2027-01-30",
-        "2027-01-31"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/a-basin-safety-weekend/",
       "imageUrl": "",
       "recurrence": null
     },
