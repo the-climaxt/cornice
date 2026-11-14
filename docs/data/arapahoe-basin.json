@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-13T17:13:11.360Z",
+  "updatedAt": "2026-11-14T15:49:15.954Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-13T17:13:11.360Z",
+  "lastGoodAt": "2026-11-14T15:49:15.954Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "be6d20e77badcd8d",
-      "resortId": "arapahoe-basin",
-      "title": "Uphill & Chill - Breakfast presented by Smartwool",
-      "description": "",
-      "start": "2026-11-13",
-      "end": "2026-11-13",
-      "days": [
-        "2026-11-13"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "24548acb544185f3",
       "resortId": "arapahoe-basin",

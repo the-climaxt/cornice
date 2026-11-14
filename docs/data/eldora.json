@@ -1,32 +1,33 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-11-13T17:13:11.939Z",
-  "status": "stale",
-  "lastGoodAt": "2026-11-05T17:25:13.664Z",
-  "lastError": "adapter returned 0 usable events",
+  "updatedAt": "2026-11-14T15:49:16.514Z",
+  "status": "ok",
+  "lastGoodAt": "2026-11-14T15:49:16.514Z",
+  "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
     {
-      "id": "95c2e0afa7706a8d",
+      "id": "ee16f351257b04d5",
       "resortId": "eldora",
-      "title": "Tap Into Winter 2026",
-      "description": "Kick off winter with Eldora and Upslope at the \"Tap Into Winter\" party with Eldora Wednesday, October 29th!",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
+      "title": "Un-Invitational 2026",
+      "description": "Get ready for a weekend of park skiing, filming, and good vibes at Eldora!",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
       "days": [
-        "2026-10-29"
+        "2026-12-12",
+        "2026-12-13"
       ],
       "allDay": true,
       "timeText": "",
       "locationType": "on-mountain",
-      "venue": "Upslope’s Flatiron Park Tap Room",
+      "venue": "Woodward Eldora",
       "source": "resort",
       "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/TapIntoWinter2026/",
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/Un-Invitational2026/",
       "imageUrl": "",
       "recurrence": null
     }

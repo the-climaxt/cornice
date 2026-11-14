@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T17:13:53.390Z",
-  "today": "2026-11-13",
+  "generatedAt": "2026-11-14T15:49:33.379Z",
+  "today": "2026-11-14",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-13T17:12:56.012Z",
+      "updatedAt": "2026-11-14T15:49:10.007Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-13T17:12:56.458Z",
-      "lastGoodAt": "2026-11-13T17:12:56.458Z",
-      "eventCount": 26
+      "updatedAt": "2026-11-14T15:49:11.178Z",
+      "lastGoodAt": "2026-11-14T15:49:11.178Z",
+      "eventCount": 25
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-13T17:13:11.360Z",
-      "lastGoodAt": "2026-11-13T17:13:11.360Z",
-      "eventCount": 36
+      "updatedAt": "2026-11-14T15:49:15.954Z",
+      "lastGoodAt": "2026-11-14T15:49:15.954Z",
+      "eventCount": 35
     },
     {
       "id": "eldora",
@@ -81,9 +81,9 @@
         "openingDay": null,
         "closingDay": null
       },
-      "status": "stale",
-      "updatedAt": "2026-11-13T17:13:11.939Z",
-      "lastGoodAt": "2026-11-05T17:25:13.664Z",
+      "status": "ok",
+      "updatedAt": "2026-11-14T15:49:16.514Z",
+      "lastGoodAt": "2026-11-14T15:49:16.514Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-13T17:13:53.384Z",
+      "updatedAt": "2026-11-14T15:49:33.377Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -672,46 +672,6 @@
       "recurrence": "Special Event"
     },
     {
-      "id": "95c2e0afa7706a8d",
-      "resortId": "eldora",
-      "title": "Tap Into Winter 2026",
-      "description": "Kick off winter with Eldora and Upslope at the \"Tap Into Winter\" party with Eldora Wednesday, October 29th!",
-      "start": "2026-10-29",
-      "end": "2026-10-29",
-      "days": [
-        "2026-10-29"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "Upslope’s Flatiron Park Tap Room",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.eldora.com/activities-amenities/events/all-events/TapIntoWinter2026/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "6f535169d4272ef6",
-      "resortId": "copper",
-      "title": "Barn Bash",
-      "description": "We are pumped to be throwing a party at The Barn on Friday, Nov. 6th!",
-      "start": "2026-11-06",
-      "end": "2026-11-06",
-      "days": [
-        "2026-11-06"
-      ],
-      "allDay": false,
-      "timeText": "4:00 P.M - 6:00 P.M.",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/barn-bash/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "70bb9f218d3bd3e0",
       "resortId": "copper",
       "title": "26/27 Opening Day",
@@ -728,26 +688,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "be6d20e77badcd8d",
-      "resortId": "arapahoe-basin",
-      "title": "Uphill & Chill - Breakfast presented by Smartwool",
-      "description": "",
-      "start": "2026-11-13",
-      "end": "2026-11-13",
-      "days": [
-        "2026-11-13"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1031,6 +971,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-3/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "ee16f351257b04d5",
+      "resortId": "eldora",
+      "title": "Un-Invitational 2026",
+      "description": "Get ready for a weekend of park skiing, filming, and good vibes at Eldora!",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "days": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Woodward Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/Un-Invitational2026/",
       "imageUrl": "",
       "recurrence": null
     },

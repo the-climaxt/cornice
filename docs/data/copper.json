@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-13T17:12:56.458Z",
+  "updatedAt": "2026-11-14T15:49:11.178Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-13T17:12:56.458Z",
+  "lastGoodAt": "2026-11-14T15:49:11.178Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "6f535169d4272ef6",
-      "resortId": "copper",
-      "title": "Barn Bash",
-      "description": "We are pumped to be throwing a party at The Barn on Friday, Nov. 6th!",
-      "start": "2026-11-06",
-      "end": "2026-11-06",
-      "days": [
-        "2026-11-06"
-      ],
-      "allDay": false,
-      "timeText": "4:00 P.M - 6:00 P.M.",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/barn-bash/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "70bb9f218d3bd3e0",
       "resortId": "copper",
