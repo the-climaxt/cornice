@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-14T15:49:11.178Z",
+  "updatedAt": "2026-11-15T16:21:53.223Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-14T15:49:11.178Z",
+  "lastGoodAt": "2026-11-15T16:21:53.223Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -425,6 +425,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/copper-live-mar6/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "070a76ccec24fdb8",
+      "resortId": "copper",
+      "title": "Party Laps",
+      "description": "FREE after-hours Party Laps",
+      "start": "2027-04-09",
+      "end": "2027-04-09",
+      "days": [
+        "2027-04-09"
+      ],
+      "allDay": false,
+      "timeText": "4:00 - 7:00pm",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/party-laps-april9/",
       "imageUrl": "",
       "recurrence": null
     },

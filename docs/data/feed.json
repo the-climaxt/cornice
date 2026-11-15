@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T15:49:33.379Z",
-  "today": "2026-11-14",
+  "generatedAt": "2026-11-15T16:22:04.404Z",
+  "today": "2026-11-15",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-14T15:49:10.007Z",
+      "updatedAt": "2026-11-15T16:21:52.479Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-14T15:49:11.178Z",
-      "lastGoodAt": "2026-11-14T15:49:11.178Z",
-      "eventCount": 25
+      "updatedAt": "2026-11-15T16:21:53.223Z",
+      "lastGoodAt": "2026-11-15T16:21:53.223Z",
+      "eventCount": 26
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-14T15:49:15.954Z",
-      "lastGoodAt": "2026-11-14T15:49:15.954Z",
-      "eventCount": 35
+      "updatedAt": "2026-11-15T16:21:55.970Z",
+      "lastGoodAt": "2026-11-15T16:21:55.970Z",
+      "eventCount": 34
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-14T15:49:16.514Z",
-      "lastGoodAt": "2026-11-14T15:49:16.514Z",
+      "updatedAt": "2026-11-15T16:21:56.184Z",
+      "lastGoodAt": "2026-11-15T16:21:56.184Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-14T15:49:33.377Z",
+      "updatedAt": "2026-11-15T16:22:04.402Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -688,26 +688,6 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
-      "id": "24548acb544185f3",
-      "resortId": "arapahoe-basin",
-      "title": "Don Fuego at BML",
-      "description": "",
-      "start": "2026-11-14",
-      "end": "2026-11-14",
-      "days": [
-        "2026-11-14"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/1",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1751,6 +1731,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/6th-alley-dinner-prime-3/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "070a76ccec24fdb8",
+      "resortId": "copper",
+      "title": "Party Laps",
+      "description": "FREE after-hours Party Laps",
+      "start": "2027-04-09",
+      "end": "2027-04-09",
+      "days": [
+        "2027-04-09"
+      ],
+      "allDay": false,
+      "timeText": "4:00 - 7:00pm",
+      "locationType": "on-mountain",
+      "venue": "Aerie",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/party-laps-april9/",
       "imageUrl": "",
       "recurrence": null
     },

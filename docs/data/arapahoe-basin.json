@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-14T15:49:15.954Z",
+  "updatedAt": "2026-11-15T16:21:55.970Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-14T15:49:15.954Z",
+  "lastGoodAt": "2026-11-15T16:21:55.970Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "24548acb544185f3",
-      "resortId": "arapahoe-basin",
-      "title": "Don Fuego at BML",
-      "description": "",
-      "start": "2026-11-14",
-      "end": "2026-11-14",
-      "days": [
-        "2026-11-14"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/1",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "1489b3b4ee170308",
       "resortId": "arapahoe-basin",
