@@ -1,35 +1,15 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-15T16:21:53.223Z",
+  "updatedAt": "2026-11-16T19:36:53.553Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-15T16:21:53.223Z",
+  "lastGoodAt": "2026-11-16T19:36:53.553Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "70bb9f218d3bd3e0",
-      "resortId": "copper",
-      "title": "26/27 Opening Day",
-      "description": "Drop in with us on Sunday, November 8 to celebrate the start of the 26/27 winter season!",
-      "start": "2026-11-08",
-      "end": "2026-11-08",
-      "days": [
-        "2026-11-08"
-      ],
-      "allDay": false,
-      "timeText": "9:00 AM - 4:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "8df06c6660128a86",
       "resortId": "copper",

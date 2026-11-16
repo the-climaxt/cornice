@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T16:22:04.404Z",
-  "today": "2026-11-15",
+  "generatedAt": "2026-11-16T19:37:16.072Z",
+  "today": "2026-11-16",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-15T16:21:52.479Z",
+      "updatedAt": "2026-11-16T19:36:52.744Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-15T16:21:53.223Z",
-      "lastGoodAt": "2026-11-15T16:21:53.223Z",
-      "eventCount": 26
+      "updatedAt": "2026-11-16T19:36:53.553Z",
+      "lastGoodAt": "2026-11-16T19:36:53.553Z",
+      "eventCount": 25
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-15T16:21:55.970Z",
-      "lastGoodAt": "2026-11-15T16:21:55.970Z",
+      "updatedAt": "2026-11-16T19:37:01.659Z",
+      "lastGoodAt": "2026-11-16T19:37:01.659Z",
       "eventCount": 34
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-15T16:21:56.184Z",
-      "lastGoodAt": "2026-11-15T16:21:56.184Z",
+      "updatedAt": "2026-11-16T19:37:01.839Z",
+      "lastGoodAt": "2026-11-16T19:37:01.839Z",
       "eventCount": 1
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-15T16:22:04.402Z",
+      "updatedAt": "2026-11-16T19:37:16.071Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -670,26 +670,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/elevation-everest",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/elevationeverest2026logoblk.png?rev=aeab417d066b46a89c50fd619710af7b?h=279&w=573&hash=5D9280704C056DA334E2345DAE473E4B",
       "recurrence": "Special Event"
-    },
-    {
-      "id": "70bb9f218d3bd3e0",
-      "resortId": "copper",
-      "title": "26/27 Opening Day",
-      "description": "Drop in with us on Sunday, November 8 to celebrate the start of the 26/27 winter season!",
-      "start": "2026-11-08",
-      "end": "2026-11-08",
-      "days": [
-        "2026-11-08"
-      ],
-      "allDay": false,
-      "timeText": "9:00 AM - 4:00 PM",
-      "locationType": "on-mountain",
-      "venue": "Copper Mountain",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.coppercolorado.com/events-activities/events-calendar/opening-day-2627/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "1489b3b4ee170308",
