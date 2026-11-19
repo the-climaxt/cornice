@@ -1,15 +1,35 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-11-18T18:04:43.913Z",
+  "updatedAt": "2026-11-19T18:17:19.148Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-18T18:04:43.913Z",
+  "lastGoodAt": "2026-11-19T18:17:19.148Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
+    {
+      "id": "459b2aa50b2e60a2",
+      "resortId": "eldora",
+      "title": "Peaks & Pints 2026",
+      "description": "It doesn't get much better than brews with views!",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "days": [
+        "2026-12-05"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/peaks-pints-2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
     {
       "id": "ee16f351257b04d5",
       "resortId": "eldora",
@@ -28,6 +48,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/Un-Invitational2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "4652fd3bf9cdd60c",
+      "resortId": "eldora",
+      "title": "Demo Fest 2026",
+      "description": "Try before you buy!",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/demo-fest-12-2026/",
       "imageUrl": "",
       "recurrence": null
     }

@@ -1,9 +1,9 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-18T18:04:43.652Z",
+  "updatedAt": "2026-11-19T18:17:18.528Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-18T18:04:43.652Z",
+  "lastGoodAt": "2026-11-19T18:17:18.528Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -51,9 +51,9 @@
       "recurrence": null
     },
     {
-      "id": "49c7a9fd1b3341ec",
+      "id": "051de320a98b2fd1",
       "resortId": "arapahoe-basin",
-      "title": "Uphill Turkey Trot",
+      "title": "Uphill Turkey Trot and Pancake Breakfast",
       "description": "",
       "start": "2026-11-26",
       "end": "2026-11-26",

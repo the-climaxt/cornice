@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-18T18:04:24.231Z",
+  "updatedAt": "2026-11-19T18:17:13.161Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-18T18:04:24.231Z",
+  "lastGoodAt": "2026-11-19T18:17:13.161Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -92,6 +92,26 @@
       "recurrence": null
     },
     {
+      "id": "dc61ecd4cbfc6589",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Halfpipe",
+      "description": "Watch USASA athletes from the Rocky Mountain Series take to the 22' superpipe.",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "days": [
+        "2026-12-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-halfpipe/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "9c6ef91bba76c55f",
       "resortId": "copper",
       "title": "Toyota U.S. Grand Prix",
@@ -135,6 +155,26 @@
       "recurrence": null
     },
     {
+      "id": "18be8c8bfdcf7cad",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Rail Jam",
+      "description": "Celebrate days before NYE with a rail jam, part of the Rocky Mountain Series!",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "days": [
+        "2026-12-26"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-rail-jam/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "0a45df7faa14ab97",
       "resortId": "copper",
       "title": "New Year's Eve at Copper",
@@ -151,6 +191,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/new-years-eve/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "712cb96eec4a4166",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Slopestyle",
+      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting the Slopestyle competition on January 10! Must be a USASA Member to compete. For event entry, click here . To learn more about the competition, please click here . Spe",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "days": [
+        "2027-01-10"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/usasa-rocky-mountain-series-slopestyle/",
       "imageUrl": "",
       "recurrence": null
     },

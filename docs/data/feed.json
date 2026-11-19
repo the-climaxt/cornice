@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T18:05:52.706Z",
-  "today": "2026-11-18",
+  "generatedAt": "2026-11-19T18:17:51.092Z",
+  "today": "2026-11-19",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-18T18:04:22.798Z",
+      "updatedAt": "2026-11-19T18:17:12.842Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-18T18:04:24.231Z",
-      "lastGoodAt": "2026-11-18T18:04:24.231Z",
-      "eventCount": 25
+      "updatedAt": "2026-11-19T18:17:13.161Z",
+      "lastGoodAt": "2026-11-19T18:17:13.161Z",
+      "eventCount": 28
     },
     {
       "id": "arapahoe-basin",
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-18T18:04:43.652Z",
-      "lastGoodAt": "2026-11-18T18:04:43.652Z",
+      "updatedAt": "2026-11-19T18:17:18.528Z",
+      "lastGoodAt": "2026-11-19T18:17:18.528Z",
       "eventCount": 34
     },
     {
@@ -82,9 +82,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-18T18:04:43.913Z",
-      "lastGoodAt": "2026-11-18T18:04:43.913Z",
-      "eventCount": 1
+      "updatedAt": "2026-11-19T18:17:19.148Z",
+      "lastGoodAt": "2026-11-19T18:17:19.148Z",
+      "eventCount": 3
     },
     {
       "id": "steamboat",
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-18T18:05:52.704Z",
+      "updatedAt": "2026-11-19T18:17:51.090Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -712,9 +712,9 @@
       "recurrence": null
     },
     {
-      "id": "49c7a9fd1b3341ec",
+      "id": "051de320a98b2fd1",
       "resortId": "arapahoe-basin",
-      "title": "Uphill Turkey Trot",
+      "title": "Uphill Turkey Trot and Pancake Breakfast",
       "description": "",
       "start": "2026-11-26",
       "end": "2026-11-26",
@@ -895,6 +895,26 @@
       "recurrence": null
     },
     {
+      "id": "459b2aa50b2e60a2",
+      "resortId": "eldora",
+      "title": "Peaks & Pints 2026",
+      "description": "It doesn't get much better than brews with views!",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "days": [
+        "2026-12-05"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/peaks-pints-2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "2cf66c06a6d175ec",
       "resortId": "arapahoe-basin",
       "title": "80th Anniversary Lift Takeover Lenawee",
@@ -956,6 +976,26 @@
       "recurrence": null
     },
     {
+      "id": "dc61ecd4cbfc6589",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Halfpipe",
+      "description": "Watch USASA athletes from the Rocky Mountain Series take to the 22' superpipe.",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "days": [
+        "2026-12-13"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-halfpipe/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "9c6ef91bba76c55f",
       "resortId": "copper",
       "title": "Toyota U.S. Grand Prix",
@@ -975,6 +1015,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/grand-prix/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "4652fd3bf9cdd60c",
+      "resortId": "eldora",
+      "title": "Demo Fest 2026",
+      "description": "Try before you buy!",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-19",
+        "2026-12-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/demo-fest-12-2026/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1035,6 +1096,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/holiday-celebration/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "18be8c8bfdcf7cad",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Rail Jam",
+      "description": "Celebrate days before NYE with a rail jam, part of the Rocky Mountain Series!",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "days": [
+        "2026-12-26"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-rail-jam/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -1135,6 +1216,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.arapahoebasin.com/event/uphill-and-chill-breakfast-smartwool/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "712cb96eec4a4166",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Slopestyle",
+      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting the Slopestyle competition on January 10! Must be a USASA Member to compete. For event entry, click here . To learn more about the competition, please click here . Spe",
+      "start": "2027-01-10",
+      "end": "2027-01-10",
+      "days": [
+        "2027-01-10"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/usasa-rocky-mountain-series-slopestyle/",
       "imageUrl": "",
       "recurrence": null
     },
