@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-19T18:17:13.161Z",
+  "updatedAt": "2026-11-20T17:48:33.042Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-19T18:17:13.161Z",
+  "lastGoodAt": "2026-11-20T17:48:33.042Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -195,10 +195,30 @@
       "recurrence": null
     },
     {
+      "id": "115ef8c40ccec29b",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Halfpipe",
+      "description": "Watch USASA athletes from the Rocky Mountain Series take to the 22' superpipe.",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "days": [
+        "2027-01-09"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Copper Mountain",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-halfpipe-2/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "712cb96eec4a4166",
       "resortId": "copper",
       "title": "USASA Rocky Mountain Series Slopestyle",
-      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting the Slopestyle competition on January 10! Must be a USASA Member to compete. For event entry, click here . To learn more about the competition, please click here . Spe",
+      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting a Slopestyle competition on the medium line of Central Park January 10! Must be a USASA Member to compete. For event entry, click here . To learn more about the compet",
       "start": "2027-01-10",
       "end": "2027-01-10",
       "days": [
@@ -231,6 +251,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-january/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "8f5c9cda569922ab",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Slopestyle",
+      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting a Slopestyle competition on the large line of Central Park on January 19-20! Must be a USASA Member to compete. For event entry, click here . To learn more about the c",
+      "start": "2027-01-19",
+      "end": "2027-01-20",
+      "days": [
+        "2027-01-19",
+        "2027-01-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/usasa-rocky-mountain-series-slopestyle-2/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -278,6 +319,27 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/safetyfest27/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "03a324aae0f676f8",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series Slopestyle",
+      "description": "The Rocky Mountain Series has been producing safe, fun and fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors of all ages and abilities. This season, we will be hosting a Slopestyle competition on the medium line of Central Park on January 30-31! Must be a USASA Member to compete. For event entry, click here . To learn more about the ",
+      "start": "2027-01-30",
+      "end": "2027-01-31",
+      "days": [
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/usasa-rocky-mountain-series-slopestyle-3/",
       "imageUrl": "",
       "recurrence": null
     },
@@ -348,6 +410,28 @@
       "recurrence": null
     },
     {
+      "id": "089ae08782784c42",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series - Boardercross and Ski Cross",
+      "description": "The Rocky Mountain Series has been producing Safe, Fun, Fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors, of all ages and abilities. This season, we will be hosting the Boardercross & Ski Cross competitions from February 19 - 21! Must be a USASA Member to compete. For event entry, click here . To learn more about the competition, pl",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "days": [
+        "2027-02-19",
+        "2027-02-20",
+        "2027-02-21"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-cross/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
       "id": "0b8b34487ee027f8",
       "resortId": "copper",
       "title": "Special Olympics State Winter Games",
@@ -385,6 +469,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/uphill-race-series-mar/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "04a0bbbf3f5686b4",
+      "resortId": "copper",
+      "title": "USASA Rocky Mountain Series - Alpine Snowboard",
+      "description": "The Rocky Mountain Series has been producing Safe, Fun, Fair events for snowboarders and skiers for many years. The series is open to both snowboard & freeski competitors, of all ages and abilities. This season, we will be hosting the Alpine Snowboard competition on March 7! Must be a USASA Member to compete. For event entry, click here . To learn more about the competition, please click here . Sp",
+      "start": "2027-03-07",
+      "end": "2027-03-07",
+      "days": [
+        "2027-03-07"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/RMS-alpine-snowboard/",
       "imageUrl": "",
       "recurrence": null
     },
