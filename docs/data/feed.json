@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T16:47:31.350Z",
-  "today": "2026-11-21",
+  "generatedAt": "2026-11-22T17:09:54.118Z",
+  "today": "2026-11-22",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-21T16:47:11.317Z",
+      "updatedAt": "2026-11-22T17:09:39.189Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,9 +40,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-21T16:47:12.019Z",
-      "lastGoodAt": "2026-11-21T16:47:12.019Z",
-      "eventCount": 33
+      "updatedAt": "2026-11-22T17:09:39.637Z",
+      "lastGoodAt": "2026-11-22T17:09:39.637Z",
+      "eventCount": 34
     },
     {
       "id": "arapahoe-basin",
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-21T16:47:16.093Z",
-      "lastGoodAt": "2026-11-21T16:47:16.093Z",
-      "eventCount": 34
+      "updatedAt": "2026-11-22T17:09:42.913Z",
+      "lastGoodAt": "2026-11-22T17:09:42.913Z",
+      "eventCount": 33
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-21T16:47:16.331Z",
-      "lastGoodAt": "2026-11-21T16:47:16.331Z",
+      "updatedAt": "2026-11-22T17:09:43.311Z",
+      "lastGoodAt": "2026-11-22T17:09:43.311Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-21T16:47:31.349Z",
+      "updatedAt": "2026-11-22T17:09:54.117Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -672,26 +672,6 @@
       "recurrence": "Special Event"
     },
     {
-      "id": "1489b3b4ee170308",
-      "resortId": "arapahoe-basin",
-      "title": "Don Fuego at BML",
-      "description": "",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "days": [
-        "2026-11-21"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/don-fuego-at-bml/2",
-      "imageUrl": "",
-      "recurrence": null
-    },
-    {
       "id": "bb8d4d9e8bbffc5c",
       "resortId": "arapahoe-basin",
       "title": "Rise N' Shine Rando Series #2 presented by Mammut",
@@ -772,9 +752,9 @@
       "recurrence": null
     },
     {
-      "id": "ad3bf71128cd1fe7",
+      "id": "3aff68f8d5883720",
       "resortId": "copper",
-      "title": "Stifel Copper Cup",
+      "title": "Stifel Copper Cup presented by U.S. Army",
       "description": "The world’s top men's alpine skiers will race in an Audi FIS World Cup event at The Athlete's Mountain.",
       "start": "2026-11-28",
       "end": "2026-11-29",
@@ -789,6 +769,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/stifel-copper-cup/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d9b977d0f84907a1",
+      "resortId": "copper",
+      "title": "World Cup Sip + Shop",
+      "description": "Join us for a special World Cup Sip + Shop event at the Mammut Store in Center Village!",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "days": [
+        "2026-11-28"
+      ],
+      "allDay": false,
+      "timeText": "3:00 - 5:00 PM",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/world-cup-sip-shop/",
       "imageUrl": "",
       "recurrence": null
     },

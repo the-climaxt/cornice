@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-21T16:47:12.019Z",
+  "updatedAt": "2026-11-22T17:09:39.637Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-21T16:47:12.019Z",
+  "lastGoodAt": "2026-11-22T17:09:39.637Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -31,9 +31,9 @@
       "recurrence": null
     },
     {
-      "id": "ad3bf71128cd1fe7",
+      "id": "3aff68f8d5883720",
       "resortId": "copper",
-      "title": "Stifel Copper Cup",
+      "title": "Stifel Copper Cup presented by U.S. Army",
       "description": "The world’s top men's alpine skiers will race in an Audi FIS World Cup event at The Athlete's Mountain.",
       "start": "2026-11-28",
       "end": "2026-11-29",
@@ -48,6 +48,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.coppercolorado.com/events-activities/events-calendar/stifel-copper-cup/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "d9b977d0f84907a1",
+      "resortId": "copper",
+      "title": "World Cup Sip + Shop",
+      "description": "Join us for a special World Cup Sip + Shop event at the Mammut Store in Center Village!",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "days": [
+        "2026-11-28"
+      ],
+      "allDay": false,
+      "timeText": "3:00 - 5:00 PM",
+      "locationType": "village",
+      "venue": "Center Village",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.coppercolorado.com/events-activities/events-calendar/world-cup-sip-shop/",
       "imageUrl": "",
       "recurrence": null
     },
