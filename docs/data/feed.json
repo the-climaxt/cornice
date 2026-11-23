@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T17:09:54.118Z",
-  "today": "2026-11-22",
+  "generatedAt": "2026-11-23T21:26:34.746Z",
+  "today": "2026-11-23",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-22T17:09:39.189Z",
+      "updatedAt": "2026-11-23T21:26:08.355Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-22T17:09:39.637Z",
-      "lastGoodAt": "2026-11-22T17:09:39.637Z",
+      "updatedAt": "2026-11-23T21:26:09.099Z",
+      "lastGoodAt": "2026-11-23T21:26:09.099Z",
       "eventCount": 34
     },
     {
@@ -61,8 +61,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-22T17:09:42.913Z",
-      "lastGoodAt": "2026-11-22T17:09:42.913Z",
+      "updatedAt": "2026-11-23T21:26:13.766Z",
+      "lastGoodAt": "2026-11-23T21:26:13.766Z",
       "eventCount": 33
     },
     {
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-22T17:09:43.311Z",
-      "lastGoodAt": "2026-11-22T17:09:43.311Z",
+      "updatedAt": "2026-11-23T21:26:14.047Z",
+      "lastGoodAt": "2026-11-23T21:26:14.047Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-22T17:09:54.117Z",
+      "updatedAt": "2026-11-23T21:26:34.744Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -722,7 +722,7 @@
         "2026-11-26"
       ],
       "allDay": false,
-      "timeText": "5-9 PM",
+      "timeText": "5:00 - 9:00 PM",
       "locationType": "on-mountain",
       "venue": "Copper Mountain",
       "source": "resort",
