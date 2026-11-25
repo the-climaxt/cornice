@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T20:10:10.315Z",
-  "today": "2026-11-24",
+  "generatedAt": "2026-11-25T19:17:22.247Z",
+  "today": "2026-11-25",
   "resorts": [
     {
       "id": "winter-park",
@@ -19,7 +19,7 @@
         "closingDay": null
       },
       "status": "stale",
-      "updatedAt": "2026-11-24T20:09:40.677Z",
+      "updatedAt": "2026-11-25T19:16:39.251Z",
       "lastGoodAt": "2026-08-09T04:55:44.126Z",
       "eventCount": 25
     },
@@ -40,8 +40,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-24T20:09:42.157Z",
-      "lastGoodAt": "2026-11-24T20:09:42.157Z",
+      "updatedAt": "2026-11-25T19:16:40.424Z",
+      "lastGoodAt": "2026-11-25T19:16:40.424Z",
       "eventCount": 34
     },
     {
@@ -61,9 +61,9 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-24T20:09:46.498Z",
-      "lastGoodAt": "2026-11-24T20:09:46.498Z",
-      "eventCount": 33
+      "updatedAt": "2026-11-25T19:16:48.158Z",
+      "lastGoodAt": "2026-11-25T19:16:48.158Z",
+      "eventCount": 32
     },
     {
       "id": "eldora",
@@ -82,8 +82,8 @@
         "closingDay": null
       },
       "status": "ok",
-      "updatedAt": "2026-11-24T20:09:46.723Z",
-      "lastGoodAt": "2026-11-24T20:09:46.723Z",
+      "updatedAt": "2026-11-25T19:16:48.394Z",
+      "lastGoodAt": "2026-11-25T19:16:48.394Z",
       "eventCount": 3
     },
     {
@@ -103,7 +103,7 @@
         "closingDay": null
       },
       "status": "pending",
-      "updatedAt": "2026-11-24T20:10:10.313Z",
+      "updatedAt": "2026-11-25T19:17:22.245Z",
       "lastGoodAt": null,
       "eventCount": 0
     }
@@ -670,26 +670,6 @@
       "url": "https://www.winterparkresort.com/things-to-do/events/elevation-everest",
       "imageUrl": "https://www.winterparkresort.com/-/media/winter-park/summer--26/elevationeverest2026logoblk.png?rev=aeab417d066b46a89c50fd619710af7b?h=279&w=573&hash=5D9280704C056DA334E2345DAE473E4B",
       "recurrence": "Special Event"
-    },
-    {
-      "id": "bb8d4d9e8bbffc5c",
-      "resortId": "arapahoe-basin",
-      "title": "Rise N' Shine Rando Series #2 presented by Mammut",
-      "description": "",
-      "start": "2026-11-24",
-      "end": "2026-11-24",
-      "days": [
-        "2026-11-24"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-2/",
-      "imageUrl": "",
-      "recurrence": null
     },
     {
       "id": "051de320a98b2fd1",

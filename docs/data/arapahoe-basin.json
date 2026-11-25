@@ -1,35 +1,15 @@
 {
   "resort": "arapahoe-basin",
   "name": "Arapahoe Basin",
-  "updatedAt": "2026-11-24T20:09:46.498Z",
+  "updatedAt": "2026-11-25T19:16:48.158Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-24T20:09:46.498Z",
+  "lastGoodAt": "2026-11-25T19:16:48.158Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
     "closingDay": null
   },
   "events": [
-    {
-      "id": "bb8d4d9e8bbffc5c",
-      "resortId": "arapahoe-basin",
-      "title": "Rise N' Shine Rando Series #2 presented by Mammut",
-      "description": "",
-      "start": "2026-11-24",
-      "end": "2026-11-24",
-      "days": [
-        "2026-11-24"
-      ],
-      "allDay": true,
-      "timeText": "",
-      "locationType": "on-mountain",
-      "venue": "",
-      "source": "resort",
-      "categories": [],
-      "url": "https://www.arapahoebasin.com/event/rise-n-shine-rando-2/",
-      "imageUrl": "",
-      "recurrence": null
-    },
     {
       "id": "051de320a98b2fd1",
       "resortId": "arapahoe-basin",
