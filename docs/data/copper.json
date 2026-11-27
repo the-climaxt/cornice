@@ -1,9 +1,9 @@
 {
   "resort": "copper",
   "name": "Copper Mountain",
-  "updatedAt": "2026-11-26T19:00:08.196Z",
+  "updatedAt": "2026-11-27T18:59:31.489Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-26T19:00:08.196Z",
+  "lastGoodAt": "2026-11-27T18:59:31.489Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -55,7 +55,7 @@
       "id": "d9b977d0f84907a1",
       "resortId": "copper",
       "title": "World Cup Sip + Shop",
-      "description": "Join us for a special World Cup Sip + Shop event at the Mammut Store in Center Village!",
+      "description": "Celebrate the excitement of World Cup ski racing at Copper while enjoying complimentary food and drinks.",
       "start": "2026-11-28",
       "end": "2026-11-28",
       "days": [

@@ -1,9 +1,9 @@
 {
   "resort": "eldora",
   "name": "Eldora",
-  "updatedAt": "2026-11-26T19:00:10.958Z",
+  "updatedAt": "2026-11-27T18:59:34.159Z",
   "status": "ok",
-  "lastGoodAt": "2026-11-26T19:00:10.958Z",
+  "lastGoodAt": "2026-11-27T18:59:34.159Z",
   "lastError": null,
   "ops": {
     "openingDay": null,
@@ -69,6 +69,26 @@
       "source": "resort",
       "categories": [],
       "url": "https://www.eldora.com/activities-amenities/events/all-events/demo-fest-12-2026/",
+      "imageUrl": "",
+      "recurrence": null
+    },
+    {
+      "id": "2fe5e46fc8df885b",
+      "resortId": "eldora",
+      "title": "Yule Fest 2026",
+      "description": "Ring in the winter solstice at Yule Fest in Upstairs Indian Peaks!",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "days": [
+        "2026-12-20"
+      ],
+      "allDay": true,
+      "timeText": "",
+      "locationType": "on-mountain",
+      "venue": "Eldora",
+      "source": "resort",
+      "categories": [],
+      "url": "https://www.eldora.com/activities-amenities/events/all-events/yule-fest-2026/",
       "imageUrl": "",
       "recurrence": null
     }
